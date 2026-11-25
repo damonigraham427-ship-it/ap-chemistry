@@ -1,0 +1,214 @@
+{
+ "questions": [
+  {
+   "question": "How many milliliters of 0.100 M H 2 SO 4 are required to neutralize 50.0 mL of 0.200 M KOH?",
+   "choices": [
+    "30.0 mL",
+    "20.0 mL",
+    "25.0 mL",
+    "50.0 mL"
+   ],
+   "answer": 3,
+   "explanation": "The reaction is H 2 SO 4 (aq) + 2 KOH(aq) → K 2 SO 4 (aq) + 2 H 2 O(l)",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q1",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample of oxalic acid, H 2 C 2 O 4, is titrated with standard sodium hydroxide, NaOH, solution. A total of 45.20 mL of 0.1200 M NaOH is required to neutralize completely 20.00 mL of the acid. What is the concentration of the acid?",
+   "choices": [
+    "0.1200 M",
+    "0.2712 M",
+    "0.2400 M",
+    "0.1356 M"
+   ],
+   "answer": 3,
+   "explanation": "The reaction is H 2 C 2 O 4 (aq) + 2 NaOH(aq) → Na 2 C 2 O 4 (aq) + 2 H 2 O(l) As always, round the values to get an estimate and pick the closest answer.",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q2",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "14 H + (aq) + 6 Fe 2+ (aq) + Cr 2 O 7 2− (aq) → 2 Cr 3+ (aq) + 6 Fe 3+ (aq) + 7 H 2 O(l) This reaction is used in the titration of an iron solution. What is the concentration of the iron solution if it takes 45.20 mL of 0.1000 M Cr 2 O 7 2− solution to titrate 50.00 mL of an acidified iron solution?",
+   "choices": [
+    "1.085 M",
+    "0.1000 M",
+    "0.4520 M",
+    "0.5424 M"
+   ],
+   "answer": 3,
+   "explanation": "This is a perfect example of where simplification is important. Change the above calculation to This becomes Next round and simplify to Since the 45.20 was rounded up, the answer is slightly high; therefore, pick the closest answer that is lower.",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q4",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "Manganese, Mn, forms a number of oxides. A particular oxide is 63.2% Mn. What is the simplest formula for this oxide?",
+   "choices": [
+    "Mn 3 O 4",
+    "MnO",
+    "MnO 2",
+    "Mn 2 O 3"
+   ],
+   "answer": 2,
+   "explanation": "63.2% Mn leaves 36.8% O (assuming 100 grams of sample) 63.2/54.94 = 1.15 mole Mn and 36.8/16.0 = 2.30 mole O Thus, there is 1 Mn/2 O.",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q5",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "Vanadium forms a number of oxides. In which of the following oxides is the vanadium-to-oxygen mass ratio 2.39:1.00?",
+   "choices": [
+    "V 2 O 3",
+    "VO",
+    "V 3 O 4",
+    "VO 2"
+   ],
+   "answer": 2,
+   "explanation": "V: 2.39/50.94 = 0.0469 and for O:1.00/16.0 = 0.0625 0.0469/0.0469 = 1 0.0625/0.0469 = 1.33 Multiplying both by 3 gives: 3 V and 4 O.",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q6",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "How many grams of nitrogen are in 25.0 g of (NH 4) 2 SO 4?",
+   "choices": [
+    "1.30 g",
+    "5.30 g",
+    "2.65 g",
+    "0.190 g"
+   ],
+   "answer": 1,
+   "explanation": "(25.0 g (NH 4 ) 2 SO 4 )(1 mol(NH 4 ) 2 SO 4 /132 g) = (2 mol N/1 mol(NH 4 ) 2 SO 4 )(14.0 g N/1 mol N) = 5.30 g",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q7",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "Sodium sulfate forms a number of hydrates. A sample of a hydrate is heated until all the water is removed. What is the formula of the original hydrate if it loses 43% of its mass when heated?",
+   "choices": [
+    "Na 2 SO 4 · 6H 2 O",
+    "Na 2 SO 4 · 8H 2 O",
+    "Na 2 SO 4 · 2H 2 O",
+    "Na 2 SO 4 · H 2 O"
+   ],
+   "answer": 0,
+   "explanation": "[(6 mol H 2 O)(18 g/mol H 2 O)]/(250 g Na 2 SO 4 · 6 H 2 O) × 100% = 43%",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q8",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "3 Cu(s) + 8 HNO 3 (aq) → 3 Cu(NO 3) 2 (aq) + 2 NO(g) + 4 H 2 O(l) Copper metal reacts with nitric acid according to the above equation. A 0.30 mol sample of copper metal and 10.0 mL of 12 M nitric acid are mixed in a flask. How many moles of NO gas will form?",
+   "choices": [
+    "0.20 mol",
+    "0.030 mol",
+    "0.010 mol",
+    "0.060 mol"
+   ],
+   "answer": 1,
+   "explanation": "Calculate the moles of acid to compare to the moles of Cu: (10.0 mL)(12 mol/1,000 mL) = 0.12 mol The acid is the limiting reactant, because 0.30 mol of copper requires 0.80 mol of acid. Use the limiting reactant to calculate the moles of NO formed. (0.12 mol acid)(2 mol NO/8 mol acid) = 0.030 mol",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q9",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "Gold(III) oxide, Au 2 O 3, can be decomposed to gold metal, Au, plus oxygen gas, O 2. How many moles of oxygen gas will form when 221 g of solid gold(III) oxide is decomposed? The formula mass of gold(III) oxide is 442.",
+   "choices": [
+    "0.500 mol",
+    "1.00 mol",
+    "0.250 mol",
+    "0.750 mol"
+   ],
+   "answer": 3,
+   "explanation": "The balanced chemical equation is: 2 Au 2 O 3 → 4 Au + 3 O 2 (221 g Au 2 O 3 )(1 mol Au 2 O 3 /442 g Au 2 O 3 )(3 mol O 2 /2 mol Au 2 O 3 ) = 0.750 mol O 2 Note the 2:1 relationship between the formula mass and the mass of reactant.",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q10",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "__C 4 H 11 N(l) + __O 2 (g) → __CO 2 (g) + __ H 2 O(l) + __ N 2 (g) When the above equation is balanced, the lowest whole number coefficient for O 2 is:",
+   "choices": [
+    "16",
+    "4",
+    "27",
+    "22"
+   ],
+   "answer": 2,
+   "explanation": "The balanced equation is: 4 C 4 H 11 N(l) + 27 O 2 (g) → 16 CO 2 (g) + 22 H 2 O(l) + 2 N 2 (g)",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q11",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "2 KMnO 4 (aq) + 5 H 2 C 2 O 4 (aq) + 3 H 2 SO 4 (aq) → K 2 SO 4 (aq) + 2 MnSO 4 (aq) + 10 CO 2 (g) + 8 H 2 O(l) How many moles of MnSO 4 are produced when 1.0 mol of KMnO 4, 5.0 mol of H 2 C 2 O 4, and 3.0 mol of H 2 SO 4 are mixed?",
+   "choices": [
+    "5.0 mol",
+    "2.0 mol",
+    "4.0 mol",
+    "1.0 mol"
+   ],
+   "answer": 3,
+   "explanation": "The KMnO 4 is the limiting reagent. Each mole of KMnO 4 will produce a mole of MnSO 4 .",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q12",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "When the following equation is balanced, it is found that 1.00 mol of C 8 H 18 reacts with how many moles of O 2? __C 8 H 18 (g) + __ O 2 (g) → __ CO 2 (g) + __ H 2 O(g)",
+   "choices": [
+    "10.0 mol",
+    "37.5 mol",
+    "25.0 mol",
+    "12.5 mol"
+   ],
+   "answer": 3,
+   "explanation": "The balanced equation is: 2 C 8 H 18 (g) + 25 O 2 (g) → 16 CO 2 (g) + 18 H 2 O(g) (1.00 mol C 8 H 18 )(25 mol O 2 /2 mol C 8 H 18 ) = 12.5 mol O 2",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q13",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "Ca(s) + 2 H 2 O(l) → Ca(OH) 2 (aq) + H 2 (g) Calcium reacts with water according to the above reaction. What volume of hydrogen gas, at standard temperature and pressure, is produced from 0.200 mol of calcium?",
+   "choices": [
+    "4.48 L",
+    "1.12 L",
+    "5.60 L",
+    "3.36 L"
+   ],
+   "answer": 0,
+   "explanation": "(0.200 mol Ca)(1 mol H 2 /1 mol Ca)(22.4 L at STP/1 mol H 2 ) = 4.48 L Be careful to only use 22.4 when at STP.",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q14",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "2CrO 4 2− (aq) + 3SnO 2 2− (aq) + H 2 O(l) → 2 CrO 2 − (aq) + 3 SnO 3 2− (aq) + 2 OH − (aq) How many moles of OH − form when 50.0 mL of 0.100 M CrO 4 2− is added to a flask containing 50.0 mL of 0.100 M SnO 2 2−?",
+   "choices": [
+    "3.33 × 10 −3 mol",
+    "5.00 × 10 −3 mol",
+    "0.100 mol",
+    "6.66 × 10 −3 mol"
+   ],
+   "answer": 0,
+   "explanation": "There are 5.00 × 10 −3 mol of CrO 4 2− and an equal number of moles of SnO 2 2− . Thus, SnO 2 2− is the limiting reactant (larger coefficient in the balanced reaction). (5.00 × 10 −3 mol SnO 2 2− )(2 mol OH − /3 mol SnO 2 2− ) = 3.33 × 10 −3 mol OH −",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q15",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution containing 0.20 mol of KBr and 0.20 mol of MgBr 2 in 2.0 liters of water is provided. How many moles of Pb(NO 3) 2 must be added to precipitate all the bromide as insoluble PbBr 2?",
+   "choices": [
+    "0.10 mol",
+    "0.60 mol",
+    "0.30 mol",
+    "0.50 mol"
+   ],
+   "answer": 2,
+   "explanation": "The volume of water is irrelevant. 0.20 mol of KBr will require 0.10 mol of Pb(NO 3 ) 2 and 0.20 mol of MgBr 2 will require 0.20 mol of Pb(NO 3 ) 2 . Total the two yields.",
+   "source": "AP Chemistry · Chapter 7 — Stoichiometry, Q16",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  }
+ ]
+}

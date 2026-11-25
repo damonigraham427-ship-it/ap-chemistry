@@ -1,0 +1,1110 @@
+{
+ "questions": [
+  {
+   "question": "In most of its compounds, this element exists as a monatomic cation.",
+   "choices": [
+    "F",
+    "Ca",
+    "S",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The others (nonmetals) form anions.",
+   "source": "AP Chemistry · Diagnostic Exam, Q1",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following groups has the species correctly listed in order of decreasing radius?",
+   "choices": [
+    "Cu 2+, Cu +, Cu",
+    "B, Be, Li",
+    "F −, Br −, I −",
+    "V, V 2+, V 3+"
+   ],
+   "answer": 3,
+   "explanation": "Decreasing radii is related to increasing charges, or for going up a column (with equal charges), or moving toward the right in a period of the periodic table. This explanation will not be sufficient for the free-response portion of the test, where it is necessary to address such factors as the effective nuclear charge.",
+   "source": "AP Chemistry · Diagnostic Exam, Q2",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following elements has the lowest electronegativity?",
+   "choices": [
+    "F",
+    "Al",
+    "Ba",
+    "I"
+   ],
+   "answer": 2,
+   "explanation": "The element that is farthest away from F on the periodic table.",
+   "source": "AP Chemistry · Diagnostic Exam, Q3",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following represents the correct formula for hexaamminecobalt(III) nitrate?",
+   "choices": [
+    "[Co(NH 3) 6 ](NO 2) 3",
+    "(NH 3) 6 Co 3 (NO 3)",
+    "[Co(NH 3) 6 ](NO 3) 3",
+    "Am 6 Co(NO 3) 3"
+   ],
+   "answer": 2,
+   "explanation": "Hexaammine = (NH 3 ) 6 ; cobalt(III) = Co 3+ ; and nitrate = NO 3 − .",
+   "source": "AP Chemistry · Diagnostic Exam, Q4",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following represents the correct formula for hexaamminechromium(III) chloride?",
+   "choices": [
+    "Am 6 CrCl 3",
+    "[Cr(NH 3) 6 ](ClO 3) 3",
+    "[Cr(NH 3) 6 ]Cl 3",
+    "(NH 3) 6 Cr 3 Cl"
+   ],
+   "answer": 2,
+   "explanation": "Hexaammine = (NH 3 ) 6 ; chromium(III) = Cr 3+ ; chloride = Cl –",
+   "source": "AP Chemistry · Diagnostic Exam, Q5",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "The discovery that atoms have small, dense nuclei is credited to which of the following?",
+   "choices": [
+    "Rutherford",
+    "Bohr",
+    "Dalton",
+    "Einstein"
+   ],
+   "answer": 0,
+   "explanation": "Rutherford, and students, determined this by bombarding gold foil with alpha particles and detecting the deflection of some of the particles.",
+   "source": "AP Chemistry · Diagnostic Exam, Q6",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "____ Mn(OH) 2 (s) + ____ H 3 AsO 4 (aq) → ____ Mn 3 (AsO 4) 2 (s) + ____ H 2 O(l) After the above chemical equation is balanced, the lowest whole-number coefficient for water is:",
+   "choices": [
+    "2",
+    "3",
+    "12",
+    "6"
+   ],
+   "answer": 3,
+   "explanation": "The balanced chemical equation is: 3 Mn(OH) 2 (s) + 2 H 3 AsO 4 (aq) → Mn 3 (AsO 4 ) 2 (s) + 6 H 2 O(l)",
+   "source": "AP Chemistry · Diagnostic Exam, Q7",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best represents the net ionic equation for the reaction of calcium hydroxide with an aqueous sodium carbonate solution to form a precipitate?",
+   "choices": [
+    "Ca 2+ + CO 3 2− → CaCO 3",
+    "2 Ca(OH) + Na 2 CO 3 → Ca 2 CO 3 + 2 NaOH",
+    "Ca(OH) 2 + CO 3 2− → CaCO 3 + 2 OH −",
+    "Ca 2+ + Na 2 CO 3 → CaCO 3 + 2 Na +"
+   ],
+   "answer": 0,
+   "explanation": "Ca(OH) 2 , NaOH, and Na 2 CO 3 are strong electrolytes (strong bases or soluble salts) and should be separated. You should know all the strong bases and that sodium compounds are soluble. Cancel all spectator ions (Na + and OH − ).",
+   "source": "AP Chemistry · Diagnostic Exam, Q8",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "A student mixes 50.0 mL of 0.10 M Fe(NO 3) 2 solution with 50.0 mL of 0.10 M KOH. A green precipitate forms, and the concentration of the hydroxide ion becomes very small. Which of the following correctly places the concentrations of the remaining ions in order of decreasing concentration?",
+   "choices": [
+    "[NO 3 − ] > [K + ] > [Fe 2+ ]",
+    "[Fe 2+ ] > [NO 3 − ] > [K + ]",
+    "[Fe 2+ ] > [K + ] > [NO 3 − ]",
+    "[K + ] > [Fe 2+ ] > [NO 3 − ]"
+   ],
+   "answer": 0,
+   "explanation": "The hydroxide is low because it combined with some of the iron, so Fe 2+ will be low. There is no other ion that the hydroxide ion could combine with to form a precipitate. The nitrate is double the potassium because there are two moles of nitrate per mole of iron(II) nitrate instead of one ion per mole, as in potassium hydroxide.",
+   "source": "AP Chemistry · Diagnostic Exam, Q9",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "Solutions containing this ion give a reddish-brown precipitate upon standing.",
+   "choices": [
+    "Fe 3+",
+    "CO 3 2−",
+    "Al 3+",
+    "Cu 2+"
+   ],
+   "answer": 0,
+   "explanation": "Copper is blue, not red, and carbonate and aluminum are colorless. Iron slowly hydrolyzes (reacts with water) to form solid Fe(OH) 3 (rust).",
+   "source": "AP Chemistry · Diagnostic Exam, Q10",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "14 H + (aq) + 6 Fe 2+ (aq) + Cr 2 O 7 2− (aq) → 2 Cr 3+ (aq) + 6 Fe 3+ (aq) + 7 H 2 O(l) The above reaction is used in the titration of an iron solution. What is the concentration of the iron solution if it took 45.20 mL of 0.1000 M Cr 2 O 7 2− solution to titrate 75.00 mL of an acidified iron solution?",
+   "choices": [
+    "0.4520 M",
+    "0.3616 M",
+    "0.7232 M",
+    "0.1000 M"
+   ],
+   "answer": 1,
+   "explanation": "(0.1000 mol Cr 2 O 7 2− /1,000 mL)(45.20 mL) (6 mol Fe 2+ /1 mol Cr 2 O 7 2− )(1/75.00 mL) (1,000 mL/L)",
+   "source": "AP Chemistry · Diagnostic Exam, Q11",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "Manganese, Mn, forms a number of oxides. A particular oxide is 49.5% by mass Mn. What is the simplest formula for this oxide?",
+   "choices": [
+    "MnO 2",
+    "Mn 2 O 3",
+    "Mn 2 O 7",
+    "MnO"
+   ],
+   "answer": 2,
+   "explanation": "Either calculate the percent Mn in each oxide: (A) 77.4%; (B) 69.6%; (C) 49.5%; (D) 63.2% or determine the empirical formula from the percent manganese and the percent oxygen ( = 100.0 − 49.5).",
+   "source": "AP Chemistry · Diagnostic Exam, Q12",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "2 KMnO 4 (aq) + 5 H 2 C 2 O 4 (aq) + 3 H 2 SO 4 (aq) → K 2 SO 4 (aq) + 2 MnSO 4 (aq) + 10 CO 2 (g) + 8 H 2 O(l) How many moles of MnSO 4 are produced when 2.0 mol of KMnO 4, 2.5 mol of H 2 C 2 O 4, and 3.0 mol of H 2 SO 4 are mixed?",
+   "choices": [
+    "2.5 mol",
+    "2.0 mol",
+    "1.0 mol",
+    "3.5 mol"
+   ],
+   "answer": 2,
+   "explanation": "H 2 C 2 O 4 is the limiting reagent as the amount is less than the stoichiometric ratio indicates. The calculation is",
+   "source": "AP Chemistry · Diagnostic Exam, Q13",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "____ KClO 3 → ____ KCl + ____ O 2 After the above equation is balanced, how many moles of O 2 can be produced from 1.0 mol of KClO 3?",
+   "choices": [
+    "1.5 mol",
+    "1.0 mol",
+    "3.0 mol",
+    "3.0 mol"
+   ],
+   "answer": 0,
+   "explanation": "The coefficients in the balanced equation are 2, 2, and 3. Therefore, (1.0 mol KClO 3 ) (3 mol O 2 /2 mol KClO 3 ) = 1.5 mol.",
+   "source": "AP Chemistry · Diagnostic Exam, Q14",
+   "topic": "Chapter 7 — Stoichiometry",
+   "topic_n": 1
+  },
+  {
+   "question": "Ba(s) + 2 H 2 O(l) → Ba(OH) 2 (aq) + H 2 (g) Barium reacts with water according to the above reaction. What volume of hydrogen gas, at standard temperature and pressure, is produced from 0.400 mol of barium?",
+   "choices": [
+    "4.48 L",
+    "5.60 L",
+    "8.96 L",
+    "3.36 L"
+   ],
+   "answer": 2,
+   "explanation": "(0.400 mol Ba)(1 mol H 2 /1 mol Ba) (22.4 L/mol). Note that the 22.4 L/mol only works at STP.",
+   "source": "AP Chemistry · Diagnostic Exam, Q15",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample of chlorine gas is placed in a container at constant pressure. The sample is heated until the absolute temperature is doubled. This will also double which of the following?",
+   "choices": [
+    "potential energy",
+    "volume",
+    "density",
+    "moles"
+   ],
+   "answer": 1,
+   "explanation": "This is an application of Charles’s law, which relates volume to temperature. There is a direct relationship between volume and the absolute temperature. Doubling either volume or temperature, with moles and pressure remaining constant, doubles the other.",
+   "source": "AP Chemistry · Diagnostic Exam, Q16",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A balloon contains 2.0 g of hydrogen gas. A second balloon contains 4.0 g of helium gas. Both balloons are at the same temperature and pressure. Which of the following statements is true?",
+   "choices": [
+    "The density of the helium in its balloon is less than the density of the hydrogen in its balloon.",
+    "The volume of the hydrogen balloon is less than that of the helium balloon.",
+    "The number of hydrogen molecules is less than the number of helium atoms in each balloon.",
+    "The average kinetic energy of the molecules/atoms in each balloon is the same."
+   ],
+   "answer": 3,
+   "explanation": "The average kinetic energy of a gas depends upon the temperature. Since the temperature of the two gases is the same, the average kinetic energy of the gases is the same. The moles are the same, so the number of particles and the volumes must be the same. Density is mass over volume, and since the balloons have the same volume, the one with more mass will have the higher density.",
+   "source": "AP Chemistry · Diagnostic Exam, Q17",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "The volume and pressure of a real gas are NOT the same as those calculated from the ideal gas equation, because the ideal gas equation does NOT take into account:",
+   "choices": [
+    "the volume of the molecules and the mass of the molecules.",
+    "the volume of the molecules and variations in the absolute temperature.",
+    "the attraction between the molecules and the mass of the molecules.",
+    "the volume of the molecules and the attraction between the molecules."
+   ],
+   "answer": 3,
+   "explanation": "These are the basic differences between ideal and real gases.",
+   "source": "AP Chemistry · Diagnostic Exam, Q18",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Aluminum metal reacts with gaseous HCl to produce aluminum chloride and hydrogen gas. What volume of hydrogen gas, at STP, is produced when 13.5 g of aluminum is mixed with an excess of HCl?",
+   "choices": [
+    "16.8 L",
+    "22.4 L",
+    "33.6 L",
+    "11.2 L"
+   ],
+   "answer": 0,
+   "explanation": "It is necessary to first write the balanced chemical equation: 2 Al(s) + 6 HCl(g) → 2 AlCl 3 (s) + 3 H 2 (g) (13.5 g Al)(1 mol Al/27.0 g Al)(3 mol H 2 /2 mol Al)(22.4 L/mol H 2 )",
+   "source": "AP Chemistry · Diagnostic Exam, Q19",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample containing the gases carbon dioxide, carbon monoxide, and water vapor was analyzed and found to contain 4.5 mol of carbon dioxide, 4.0 mol of carbon monoxide, and 1.5 mol of water vapor. The mixture had a total pressure of 1.2 atm. What was the partial pressure of the carbon monoxide?",
+   "choices": [
+    "5.4 atm",
+    "0.54 atm",
+    "0.18 atm",
+    "0.48 atm"
+   ],
+   "answer": 3,
+   "explanation": "The mole fraction of CO times the total pressure yields the partial pressure. The mole fraction of CO is the moles of CO (4.0) divided by the total moles (10.0). This example illustrates the importance of rounding in calculations where no calculator is available. The answers are not close together; therefore, a rough calculation will lead to the correct answer. Also, you should notice the answer D is impossible for any substance.",
+   "source": "AP Chemistry · Diagnostic Exam, Q20",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "If a sample of He effuses at a rate of 30 mol per hour at 45°C, which of the gases below will effuse at approximately one-half the rate under the same conditions?",
+   "choices": [
+    "H 2",
+    "CH 4",
+    "O 3",
+    "N 2"
+   ],
+   "answer": 1,
+   "explanation": "For the rate to be one-half, the molar mass of the other gas must be the square of the molar mass of helium (4 2 = 16).",
+   "source": "AP Chemistry · Diagnostic Exam, Q22",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the required energy to produce a gaseous cation from a gaseous atom in the ground state?",
+   "choices": [
+    "lattice energy",
+    "free energy",
+    "kinetic energy",
+    "ionization energy"
+   ],
+   "answer": 3,
+   "explanation": "This is the definition of the ionization energy.",
+   "source": "AP Chemistry · Diagnostic Exam, Q24",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "The average ____________ is the same for any ideal gas at a given temperature.",
+   "choices": [
+    "kinetic energy",
+    "free energy",
+    "lattice energy",
+    "ionization energy"
+   ],
+   "answer": 0,
+   "explanation": "This is a basic postulate of kinetic molecular theory.",
+   "source": "AP Chemistry · Diagnostic Exam, Q25",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the maximum energy available for useful work from a spontaneous reaction?",
+   "choices": [
+    "lattice energy",
+    "ionization energy",
+    "kinetic energy",
+    "free energy"
+   ],
+   "answer": 3,
+   "explanation": "This is one of the properties of free energy.",
+   "source": "AP Chemistry · Diagnostic Exam, Q26",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "The energy required to completely separate the ions from a solid is which of the following?",
+   "choices": [
+    "free energy",
+    "lattice energy",
+    "ionization energy",
+    "kinetic energy"
+   ],
+   "answer": 1,
+   "explanation": "This is the definition of the lattice energy.",
+   "source": "AP Chemistry · Diagnostic Exam, Q27",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Oxidation of ClF by F 2 yields ClF 3, an important fluorinating agent formerly used to produce the uranium compounds in nuclear fuels: ClF(g) + F 2 (g) → 2 ClF 3 (l) Use the following thermochemical equations to calculate Δ H ° rxn for the production of ClF 3:",
+   "choices": [
+    "0.0 kJ",
+    "+270.2 kJ",
+    "−135.1 kJ",
+    "−270.2 kJ"
+   ],
+   "answer": 2,
+   "explanation": "This is an application of Hess’s law. As always, rounding and estimating will save time.",
+   "source": "AP Chemistry · Diagnostic Exam, Q28",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Choose the reaction expected to have the greatest increase in entropy.",
+   "choices": [
+    "2 K(s) + F 2 (g) → 2 KF(s)",
+    "N 2 (g) + O 2 (g) → 2 NO(g)",
+    "2 XeO 3 (s) → 2 Xe(g) + 3 O 2 (g)",
+    "CO 2 (g) → CO 2 (s)"
+   ],
+   "answer": 2,
+   "explanation": "The one with the greatest increase in the moles of gas.",
+   "source": "AP Chemistry · Diagnostic Exam, Q29",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "A certain reaction is nonspontaneous under standard conditions but becomes spontaneous at lower temperatures. What conclusions may be drawn under standard conditions?",
+   "choices": [
+    "Δ H < 0, Δ S > 0 and Δ G > 0",
+    "Δ H < 0, Δ S < 0 and Δ G > 0",
+    "Δ H > 0, Δ S > 0 and Δ G > 0",
+    "Δ H < 0, Δ S < 0 and Δ G = 0"
+   ],
+   "answer": 1,
+   "explanation": "Nonspontaneous means Δ G > 0. For a reaction to become spontaneous at lower temperature (Δ G < 0) means Δ H < 0 and Δ S < 0.",
+   "source": "AP Chemistry · Diagnostic Exam, Q30",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following groups contains only atoms that are paramagnetic in their ground state?",
+   "choices": [
+    "K, C, and Fe",
+    "Br, Sb, and Kr",
+    "Mg, He, and Rb",
+    "Be, O, and N"
+   ],
+   "answer": 0,
+   "explanation": "Atoms with only completely filled shells or subshells are not paramagnetic, they are diamagnetic. From the choices in this problem, these are: Be, Mg, He, Kr, and Zn; therefore, any answer containing one of these cannot be the correct choice. It is not necessary to work through a possible solution until encountering a diamagnetic species. Also, it might be helpful to look on the periodic table.",
+   "source": "AP Chemistry · Diagnostic Exam, Q31",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following could be the electron configuration of a transition metal ion?",
+   "choices": [
+    "1s 2 1p 6 2s 2 2p 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 5",
+    "1s 2 2s 2 2p 5",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3"
+   ],
+   "answer": 3,
+   "explanation": "Transition metal ions are, in general, s 0 and p 0 or p 6 with the possibility of having one or more electrons in the d orbitals. C could be Cr 3+ .",
+   "source": "AP Chemistry · Diagnostic Exam, Q32",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the configuration of a noble gas?",
+   "choices": [
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 6",
+    "1s 2 1p 6 2s 2 2p 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3",
+    "1s 2 2s 2 2p 5"
+   ],
+   "answer": 0,
+   "explanation": "The noble gases, except helium, are n s 2 n p 6 . In this case, n = 4, and the gas is krypton.",
+   "source": "AP Chemistry · Diagnostic Exam, Q33",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the electron configuration of a halogen?",
+   "choices": [
+    "1s 2 1p 6 2s 2 2p 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 6",
+    "1s 2 2s 2 2p 5",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3"
+   ],
+   "answer": 2,
+   "explanation": "Halogens are n s 2 n p 5 . In this case, n = 2, and the halogen is F.",
+   "source": "AP Chemistry · Diagnostic Exam, Q34",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is an impossible electron configuration?",
+   "choices": [
+    "1s 2 2s 2 2p 5",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 6",
+    "1s 2 1p 6 2s 2 2p 3"
+   ],
+   "answer": 3,
+   "explanation": "The 1p orbital does not exist.",
+   "source": "AP Chemistry · Diagnostic Exam, Q35",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "This explains why the exact position of an electron is not known.",
+   "choices": [
+    "Pauli exclusion principle",
+    "Hund’s rule",
+    "Electron shielding",
+    "Heisenberg uncertainty principle"
+   ],
+   "answer": 3,
+   "explanation": "This is a statement of the uncertainty principle.",
+   "source": "AP Chemistry · Diagnostic Exam, Q36",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "This is why nitrogen atoms, in their ground state, are paramagnetic.",
+   "choices": [
+    "Heisenberg uncertainty principle",
+    "Hund’s rule",
+    "Electron shielding",
+    "Pauli exclusion principle"
+   ],
+   "answer": 1,
+   "explanation": "According to Hund’s rule, the nitrogen 2p electrons enter the 2p orbitals individually (with spins parallel).",
+   "source": "AP Chemistry · Diagnostic Exam, Q37",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "This means that an atomic orbital can hold no more than two electrons.",
+   "choices": [
+    "Pauli exclusion principle",
+    "Electron shielding",
+    "Heisenberg uncertainty principle",
+    "Hund’s rule"
+   ],
+   "answer": 0,
+   "explanation": "The Pauli exclusion principle states this limitation for all orbitals.",
+   "source": "AP Chemistry · Diagnostic Exam, Q38",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following explains why the 4s orbital fills before the 3d?",
+   "choices": [
+    "Heisenberg uncertainty principle",
+    "Pauli exclusion principle",
+    "Electron shielding",
+    "Hund’s rule"
+   ],
+   "answer": 2,
+   "explanation": "The d orbitals are less effectively shielded than the s orbitals. Due to this difference, the s orbitals have lower energy.",
+   "source": "AP Chemistry · Diagnostic Exam, Q39",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Magnesium reacts with element X to form an ionic compound. If the ground-state electron configuration of X is 1s 2 2s 2 2p 3, what is the simplest formula for this compound?",
+   "choices": [
+    "Mg X",
+    "Mg X 2",
+    "Mg 3 X 2",
+    "Mg 2 X 3"
+   ],
+   "answer": 2,
+   "explanation": "Mg becomes Mg 2+ . The element is N, which can become N 3− .",
+   "source": "AP Chemistry · Diagnostic Exam, Q40",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "VSEPR predicts that an IF 5 molecule will have which of the following shapes?",
+   "choices": [
+    "trigonal bipyramidal",
+    "tetrahedral",
+    "square pyramid",
+    "trigonal planar"
+   ],
+   "answer": 2,
+   "explanation": "The iodine has five bonding pairs and one lone pair.",
+   "source": "AP Chemistry · Diagnostic Exam, Q41",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following does NOT have one or more π bonds?",
+   "choices": [
+    "SO 2",
+    "O 2",
+    "SO 3",
+    "SF 6"
+   ],
+   "answer": 3,
+   "explanation": "This is the only one with only single bonds. The other molecules have double or triple bonds. All double and triple bonds are a combination of σ and π bonds.",
+   "source": "AP Chemistry · Diagnostic Exam, Q42",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is nonpolar?",
+   "choices": [
+    "IF 5",
+    "CF 4",
+    "SF 4",
+    "BrF 3"
+   ],
+   "answer": 1,
+   "explanation": "Use VSEPR; only the tetrahedral CF 4 is nonpolar. The other materials form a square pyramidal (IF 5 ), T-shaped (BrF 3 ), and irregular tetrahedral (SF 4 ), and, therefore, are polar.",
+   "source": "AP Chemistry · Diagnostic Exam, Q43",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "The only substance listed below that contains ionic, σ, and π bonds is:",
+   "choices": [
+    "NH 3",
+    "NO 2",
+    "NaNO 3",
+    "Na 3 N"
+   ],
+   "answer": 2,
+   "explanation": "The only ionic bonds are present in the sodium compounds (eliminating B and D). The nitride ion has no internal bonding (eliminating A), but the nitrate ion has both σ and π bonds.",
+   "source": "AP Chemistry · Diagnostic Exam, Q44",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which molecule or ion in the following list has the greatest number of unshared electron pairs around the central atom?",
+   "choices": [
+    "SO 2",
+    "CO 3 2−",
+    "CF 4",
+    "XeF 2"
+   ],
+   "answer": 3,
+   "explanation": "Draw the Lewis structures. The number of unshared pairs: (A) 1; (B) 0; (C) 3; (D) 0.",
+   "source": "AP Chemistry · Diagnostic Exam, Q45",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "What types of hybridization of carbon are in the compound acetic acid, CH 3 COOH?",
+   "choices": [
+    "sp 3 and sp 2",
+    "sp 3, sp 2, and sp",
+    "sp 3 only",
+    "sp 2 and sp"
+   ],
+   "answer": 0,
+   "explanation": "Draw the Lewis structure; the carbon on the left in the formula is sp 3 , and the other is sp 2 .",
+   "source": "AP Chemistry · Diagnostic Exam, Q46",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the best description of the structure of graphite?",
+   "choices": [
+    "composed of macromolecules held together by strong bonds",
+    "composed of molecules held together by intermolecular dipole-dipole interactions",
+    "composed of atoms held together by delocalized electrons",
+    "composed of positive and negative ions held together by electrostatic attractions"
+   ],
+   "answer": 0,
+   "explanation": "Both graphite and diamond are covalent network solids.",
+   "source": "AP Chemistry · Diagnostic Exam, Q47",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes Ca(s)?",
+   "choices": [
+    "composed of atoms held together by delocalized electrons",
+    "composed of positive and negative ions held together by electrostatic attractions",
+    "composed of molecules held together by intermolecular dipole-dipole interactions",
+    "composed of macromolecules held together by strong bonds"
+   ],
+   "answer": 0,
+   "explanation": "Calcium is a metal, and answer A applies to metallic bonding.",
+   "source": "AP Chemistry · Diagnostic Exam, Q48",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following categories best describes CaCO 3 (s)?",
+   "choices": [
+    "composed of positive and negative ions held together by electrostatic attractions",
+    "composed of molecules held together by intermolecular dipole-dipole interactions",
+    "composed of atoms held together by delocalized electrons",
+    "composed of macromolecules held together by strong bonds"
+   ],
+   "answer": 0,
+   "explanation": "Calcium carbonate is an ionic compound.",
+   "source": "AP Chemistry · Diagnostic Exam, Q49",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is applicable to SO 2 (s)?",
+   "choices": [
+    "composed of macromolecules held together by strong bonds",
+    "composed of positive and negative ions held together by electrostatic attractions",
+    "composed of molecules held together by intermolecular dipole-dipole interactions",
+    "composed of atoms held together by delocalized electrons"
+   ],
+   "answer": 2,
+   "explanation": "Sulfur dioxide consists of polar molecules.",
+   "source": "AP Chemistry · Diagnostic Exam, Q50",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "The critical point on a phase diagram represents:",
+   "choices": [
+    "the temperature and pressure where the substance exists in equilibrium as solid, liquid, and gas phases",
+    "the highest temperature and pressure where the substance may exist as discrete liquid and gas phases",
+    "the highest temperature and pressure where a substance can sublime",
+    "the highest temperature and pressure where the substance may exist as discrete solid and gas phases"
+   ],
+   "answer": 1,
+   "explanation": "This is the definition of the critical point.",
+   "source": "AP Chemistry · Diagnostic Exam, Q51",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "This explains why copper is ductile.",
+   "choices": [
+    "London dispersion forces",
+    "hydrogen bonding",
+    "covalent bonding",
+    "metallic bonding"
+   ],
+   "answer": 3,
+   "explanation": "This is a consequence of metallic bonding as the atoms can easily move past each other without breaking any bonds.",
+   "source": "AP Chemistry · Diagnostic Exam, Q52",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "This is why acetic acid, CH 3 COOH, molecules exist as dimers in the gaseous phase.",
+   "choices": [
+    "hydrogen bonding",
+    "metallic bonding",
+    "London dispersion forces",
+    "covalent bonding"
+   ],
+   "answer": 0,
+   "explanation": "The carbonyl, C═O, and —OH groups are capable of participating in hydrogen bonds.",
+   "source": "AP Chemistry · Diagnostic Exam, Q53",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "For the following, pick the answer that most likely represents their relative solubilities in water.",
+   "choices": [
+    "CH 3 CH 2 CH 2 OH < CH 3 CH 2 CH 2 CH 3 < HOCH 2 CH 2 OH",
+    "CH 3 CH 2 CH 2 OH < HOCH 2 CH 2 OH < CH 3 CH 2 CH 2 CH 3",
+    "CH 3 CH 2 CH 2 CH 3 < CH 3 CH 2 CH 2 OH < HOCH 2 CH 2 OH",
+    "CH 3 CH 2 CH 2 CH 3 < HOCH 2 CH 2 OH < CH 3 CH 2 CH 2 OH"
+   ],
+   "answer": 2,
+   "explanation": "The more —OH groups, the more hydrogen bonding, and the more soluble in water (where hydrogen bonding also occurs).",
+   "source": "AP Chemistry · Diagnostic Exam, Q54",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "For all one-component phase diagrams, choose the correct statement from the following list.",
+   "choices": [
+    "The line separating the solid from the liquid phase has a positive slope.",
+    "The temperature at the triple point is the same as at the freezing point.",
+    "The line separating the solid from the liquid phase may have a positive or negative slope.",
+    "The line separating the gas from the liquid phase may have a positive or negative slope."
+   ],
+   "answer": 2,
+   "explanation": "The gas-liquid line always has a positive slope, which eliminates A. Answer B negates C; therefore, both cannot be correct. The triple point is not the same as the freezing point.",
+   "source": "AP Chemistry · Diagnostic Exam, Q56",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution is prepared by dissolving 0.500 mol of NaCl in 500.0 g of water. Which of the following would be the best procedure to determine the molarity of the solution?",
+   "choices": [
+    "Determine the freezing point of the solution.",
+    "Determine the osmotic pressure of the solution.",
+    "Titrate the solution with standard silver nitrate solution.",
+    "Measure the volume of the solution."
+   ],
+   "answer": 3,
+   "explanation": "Molarity is moles per liter, and the moles are already known; therefore, only the volume is necessary to complete the determination.",
+   "source": "AP Chemistry · Diagnostic Exam, Q57",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "A chemist needs 800.0 mL of a 0.50 M bromide ion, Br −, solution. She has 800.0 mL of a 0.20 M KBr solution. How many moles of solid MgBr 2 will she need to add to increase the concentration to the desired value?",
+   "choices": [
+    "0.30",
+    "0.24",
+    "0.12",
+    "0.50"
+   ],
+   "answer": 2,
+   "explanation": "(0.800 L)(0.50 mol Br − /L) = 0.40 mol needed. (0.800 L)(0.20 mol Br − /L) = 0.16 mol present. [(0.40 − 0.16) mol Br − to be added] (1 mol MgBr 2 /2 mol Br − )",
+   "source": "AP Chemistry · Diagnostic Exam, Q58",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "How many grams of HNO 3 (molecular weight 63.0) are in 500.0 mL of a 5.00 M solution?",
+   "choices": [
+    "63.0 g",
+    "158 g",
+    "5.00 g",
+    "31.5 g"
+   ],
+   "answer": 1,
+   "explanation": "(0.5000 L)(5.00 mol/L)(63.0 g/mol) = 158 g As always, estimate the answer by rounding the values.",
+   "source": "AP Chemistry · Diagnostic Exam, Q59",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "If a solution of ethyl ether, (C 2 H 5) 2 O, in ethanol, C 2 H 5 OH, is treated as an ideal solution, what is the mole fraction of ethyl ether in the vapor over an equimolar solution of these two liquids? The vapor pressure of ethyl ether is 480 mm Hg at 20°C, and the vapor pressure of ethanol is 50 mm Hg at this temperature.",
+   "choices": [
+    "0.91",
+    "0.76",
+    "0.50",
+    "0.27"
+   ],
+   "answer": 0,
+   "explanation": "Equimolar gives a mole fraction of 0.5. 0.5 × 480 mm Hg + 0.5 × 50 mm Hg = 265 mm Hg (total vapor pressure) mole fraction ethyl ether = (0.5 × 480 mm Hg)/265 mm Hg.",
+   "source": "AP Chemistry · Diagnostic Exam, Q60",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "Step 1: 2 NO 2 (g) → N 2 (g) + 2 O 2 (g) Step 2: 2 CO(g) + O 2 (g) → 2 CO 2 (g) Step 3: N 2 (g) + O 2 (g) → 2 NO(g) The above represents a proposed mechanism for the reaction of NO 2 with CO. What are the overall products of the reaction?",
+   "choices": [
+    "NO and CO 2",
+    "NO only",
+    "N 2 and NO",
+    "O 2 and CO 2"
+   ],
+   "answer": 0,
+   "explanation": "Add the equations and cancel anything that appears on both sides of the reaction arrows.",
+   "source": "AP Chemistry · Diagnostic Exam, Q61",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The difference in energy between the transition state and the reactants is:",
+   "choices": [
+    "the reaction energy",
+    "the kinetic energy",
+    "the activation energy",
+    "the free energy"
+   ],
+   "answer": 2,
+   "explanation": "This is the definition of the activation energy.",
+   "source": "AP Chemistry · Diagnostic Exam, Q62",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following CANNOT behave as both a Brønsted base and a Brønsted acid?",
+   "choices": [
+    "CO 3 2−",
+    "HCO 3 −",
+    "HPO 4 2−",
+    "HSO 4 −"
+   ],
+   "answer": 0,
+   "explanation": "To be an acid, the species must have an H + to donate, and to be a base, the species must be able to accept an H + . The carbonate ion has no H + to donate to be an acid.",
+   "source": "AP Chemistry · Diagnostic Exam, Q64",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the ionization constant, K a, for a weak monoprotic acid if a 0.5 molar solution has a pH of 5.0?",
+   "choices": [
+    "3 × 10 −4",
+    "2 × 10 −10",
+    "7 × 10 −8",
+    "1 × 10 −6"
+   ],
+   "answer": 1,
+   "explanation": "This is an approximation. At pH = 5, [H + ] = 10 −5 M ; therefore, K a = (10 −5 ) 2 /0.5.",
+   "source": "AP Chemistry · Diagnostic Exam, Q66",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Assuming all concentrations are 1 M, which of the following is the most acidic solution (lowest pH)?",
+   "choices": [
+    "H 2 C 2 O 4 (oxalic acid) and KHC 2 O 4 (potassium hydrogen oxalate)",
+    "NH 3 (ammonia) and NH 4 NO 3 (ammonium nitrate)",
+    "KBr (potassium bromide) and HBr (hydrobromic acid)",
+    "(CH 3) 2 NH (dimethylamine) and HC 2 H 3 O 2 (acetic acid)"
+   ],
+   "answer": 2,
+   "explanation": "HBr is a strong acid, and with equal concentrations and no base present, it will give the lowest pH.",
+   "source": "AP Chemistry · Diagnostic Exam, Q67",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Assuming all concentrations are equal, which of the following solutions has pH nearest 7?",
+   "choices": [
+    "KBr (potassium bromide) and HBr (hydrobromic acid)",
+    "(CH 3) 2 NH (dimethylamine) and HC 2 H 3 O 2 (acetic acid)",
+    "H 2 C 2 O 4 (oxalic acid) and KHC 2 O 4 (potassium hydrogen oxalate)",
+    "NH 3 (ammonia) and NH 4 NO 3 (ammonium nitrate)"
+   ],
+   "answer": 1,
+   "explanation": "The weak acid and weak base give a nearly neutral solution, as they will tend to neutralize each other.",
+   "source": "AP Chemistry · Diagnostic Exam, Q68",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following yields a buffer with a pH > 7 upon mixing equal volumes of 1 M solutions?",
+   "choices": [
+    "(CH 3) 2 NH (dimethylamine) and HC 2 H 3 O 2 (acetic acid)",
+    "H 2 C 2 O 4 (oxalic acid) and KHC 2 O 4 (potassium hydrogen oxalate)",
+    "NH 3 (ammonia) and NH 4 NO 3 (ammonium nitrate)",
+    "KBr (potassium bromide) and HBr (hydrobromic acid)"
+   ],
+   "answer": 2,
+   "explanation": "Only B and C are buffers. B is acidic (pH < 7) and C is basic (pH > 7).",
+   "source": "AP Chemistry · Diagnostic Exam, Q69",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following will give a buffer with a pH < 7 when equal volumes of 1 M solutions of each of the components are mixed?",
+   "choices": [
+    "H 2 C 2 O 4 (oxalic acid) and KHC 2 O 4 (potassium hydrogen oxalate)",
+    "(CH 3) 2 NH (dimethylamine) and HC 2 H 3 O 2 (acetic acid)",
+    "NH 3 (ammonia) and NH 4 NO 3 (ammonium nitrate)",
+    "KBr (potassium bromide) and HBr (hydrobromic acid)"
+   ],
+   "answer": 0,
+   "explanation": "Only B and C are buffers. B is acidic (pH < 7) and C is basic (pH > 7).",
+   "source": "AP Chemistry · Diagnostic Exam, Q70",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Determine the OH − (aq) concentration in 0.0010 M pyridine (C 5 H 5 N) solution. (The K b for pyridine is 9 × 10 −9.)",
+   "choices": [
+    "5 × 10 −1 M",
+    "3 × 10 −6 M",
+    "9 × 10 −9 M",
+    "1 × 10 −3 M"
+   ],
+   "answer": 1,
+   "explanation": "[OH − ] = (0.0010 × 9 × 10 −9 ) 1/2 = (9 × 10 −12 ) l/2 Estimate—the square root of 10 −12 will be 10 −6 .",
+   "source": "AP Chemistry · Diagnostic Exam, Q71",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "SnS(s) + 2H + (aq) Sn 2+ (aq) + H 2 S(aq) The successive acid dissociation constants for H 2 S are 9.5 × 10 −8 (K a1) and 1 × 10 −19 (K a2). The K sp, the solubility product constant, for SnS equals 1.0 × 10 −25. What is the equilibrium constant for the above reaction?",
+   "choices": [
+    "1.0 × 10 −25 /9.5 × 10 −27",
+    "9.5 × 10 −27 /1.0 × 10 −25",
+    "9.5 × 10 −8 /1.0 × 10 −25",
+    "1 × 10 −19 /1.0 × 10 −25"
+   ],
+   "answer": 0,
+   "explanation": "K = K sp / K a1 K a2 In this case, the key is setting up the calculation but not doing the calculation.",
+   "source": "AP Chemistry · Diagnostic Exam, Q72",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "N 2 O 4 (g) 2NO 2 (g) endothermic An equilibrium mixture of the compounds is placed in a sealed container at 150°C. Which of the following changes may increase the amount of the product?",
+   "choices": [
+    "adding 1 mole of Ar(g) to the container and raising the temperature of the container",
+    "increasing the volume of the container and raising the temperature of the container",
+    "adding 1 mole of Ar(g) to the container",
+    "raising the temperature of the container"
+   ],
+   "answer": 1,
+   "explanation": "Adding Ar yields no change, as it is not part of the equilibrium. Increasing the temperature of an endothermic equilibrium will increase the amount of product.",
+   "source": "AP Chemistry · Diagnostic Exam, Q73",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "FeS(s) + 2 H + (aq) Fe 2+ (aq) + H 2 S(aq) What is the equilibrium constant for the above reaction? The successive acid dissociation constants for H 2 S are 9.5 × 10 −8 (K a1) and 1 × 10 −19 (K a2). The K sp, the solubility product constant, for FeS equals 5.0 × 10 −18.",
+   "choices": [
+    "5.0 × 10 −18 /9.5 × 10 −8",
+    "9.5 × 10 −27 /5.0 × 10 −18",
+    "9.5 × 10 −8 /5.0 × 10 −18",
+    "5.0 × 10 −18 /9.5 × 10 −27"
+   ],
+   "answer": 3,
+   "explanation": "K = K sp / K a1 K a2 = 5.0 × 10 −18 /(9.5 × 10 −8 ) (1 × 10 −19 )",
+   "source": "AP Chemistry · Diagnostic Exam, Q76",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "I − (aq) + H + (aq) + MnO 4 − (aq) → Mn 2+ (aq) + H 2 O(l) + I 2 (s) What is the coefficient of H + when the above reaction is balanced?",
+   "choices": [
+    "12",
+    "32",
+    "8",
+    "16"
+   ],
+   "answer": 3,
+   "explanation": "The balanced equation is 10 I − (aq) + 16 H + (aq) + 2 MnO 4 − (aq) → 2 Mn 2+ (aq) + 8 H 2 O(l) + 5 I 2 (s)",
+   "source": "AP Chemistry · Diagnostic Exam, Q78",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "How many moles of Au will deposit on the cathode when 0.60 Faradays of electricity is passed through a 1.0 M solution of Au 3+?",
+   "choices": [
+    "0.40 mol",
+    "0.60 mol",
+    "0.20 mol",
+    "0.30 mol"
+   ],
+   "answer": 2,
+   "explanation": "It is only necessary to know the mole ratio for the reaction (Au 3+ (aq) + 3 e − → Au(s)), which gives (0.60 F)(1 mol Au/3 F) = 0.20 moles.",
+   "source": "AP Chemistry · Diagnostic Exam, Q79",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Sn 2+ (aq) + 2 Fe 3+ (aq) → Sn 4+ (aq) + 2 Fe 2+ (aq) The reaction shown above was used in an electrolytic cell. The voltage measured for the cell was not equal to the calculated E° for the cell. Which of the following could explain this discrepancy?",
+   "choices": [
+    "One or more of the ion concentrations was not 1 M.",
+    "The anion in the anode compartment was chloride instead of nitrate, as in the cathode compartment.",
+    "The anode and cathode were different sizes.",
+    "Both of the solutions were at 25°C instead of 0°C."
+   ],
+   "answer": 0,
+   "explanation": "The cell must be nonstandard. This could be due to variations in temperature (not 25°C) or concentrations (1 M) that are not standard.",
+   "source": "AP Chemistry · Diagnostic Exam, Q80",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Questions 81−82 refer to the following half-reaction in an electrolytic cell: 2 SO 4 2− (aq) + 10 H + (aq) + 8 e − → S 2 O 3 2− (aq) + 5 H 2 O(l) Choose the correct statement from the following list.",
+   "choices": [
+    "The oxidation state of sulfur does not change.",
+    "The sulfur is oxidized.",
+    "This is the cathode reaction.",
+    "The H + serves as a catalyst."
+   ],
+   "answer": 2,
+   "explanation": "A reduction is shown. Reductions take place at the cathode.",
+   "source": "AP Chemistry · Diagnostic Exam, Q81",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Questions 81−82 refer to the following half-reaction in an electrolytic cell: 2 SO 4 2− (aq) + 10 H + (aq) + 8 e − → S 2 O 3 2− (aq) + 5 H 2 O(l) If a current of 0.60 amperes is passed through the electrolytic cell for 0.75 h, how should you calculate the grams of S 2 O 3 2− (aq) formed?",
+   "choices": [
+    "(0.60) (0.75) (60) (32)/(96,500) (8)",
+    "(0.60) (0.75) (3,600) (112)/(10)",
+    "(0.60) (0.75) (3,600) (112)/(96,500) (10)",
+    "(0.60) (0.75) (3,600) (112)/(96,500) (8)"
+   ],
+   "answer": 3,
+   "explanation": "Use dimensional analysis: (0.60 coul/s)(0.75 h)(3,600 s/h)(112 g S 2 O 3 2− /mol S 2 O 3 2− )/(96,500 coul/F)(8 F/mol S 2 O 3 2− )",
+   "source": "AP Chemistry · Diagnostic Exam, Q82",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "2 BrO 3 − (aq) + 12 H + (aq) + 10 e − → Br 2 (aq) + 6 H 2 O(l) If a current of 5.0 A is passed through the electrolytic cell for 0.50 h, how should you calculate the number of grams of Br 2 that will form?",
+   "choices": [
+    "(5.0) (0.50) (3,600) (79.9)/(96,500) (10)",
+    "(5.0) (0.50) (3,600) (159.8)/(96,500) (10)",
+    "(5.0) (0.50) (60) (159.8)/(96,500) (10)",
+    "(5.0) (0.50) (3,600) (159.8)/(10)"
+   ],
+   "answer": 1,
+   "explanation": "Recall that 5.0 amp is 5.0 C/s. The calculation would be:",
+   "source": "AP Chemistry · Diagnostic Exam, Q83",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "2 IO 3 − (aq) + 6 H 2 O(l) + 10 e − → I 2 (s) + 12 OH − (aq) Using the above reaction, if a current of 7.50 A is passed through the electrolytic cell for 0.45 h, how should you calculate the grams of I 2 that will form?",
+   "choices": [
+    "(7.50) (0.45) (3,600) (253.8)/(96,500) (10)",
+    "(7.50) (0.45) (3,600) (126.9)/(96,500) (10)",
+    "(7.50) (0.45) (3,600) (253.8)/(10)",
+    "(7.50) (0.45) (60) (253.8)/(96,500) (10)"
+   ],
+   "answer": 0,
+   "explanation": "Dimensional analysis: (7.50 coul/s)(0.45 h)(3,600 s/h)(253.8 g I 2 /mol I 2 )/(96,500 coul/F)(10 F)",
+   "source": "AP Chemistry · Diagnostic Exam, Q84",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following lists the types of radiation in the correct order of increasing penetrating power?",
+   "choices": [
+    "β, α, γ",
+    "α, γ, β",
+    "β, γ, α",
+    "α, β, γ"
+   ],
+   "answer": 3,
+   "explanation": "Alpha particles are the least penetrating, and gamma rays are the most penetrating.",
+   "source": "AP Chemistry · Diagnostic Exam, Q86",
+   "topic": "Chapter 17 — Nuclear Chemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "If 75% of a sample of pure decays in 24.6 yr, what is the half-life of?",
+   "choices": [
+    "18.4 yr",
+    "12.3 yr",
+    "6.15 yr",
+    "24.6 yr"
+   ],
+   "answer": 1,
+   "explanation": "After one half-life, 50% would remain. After another half-life this would be reduced by 1/2 to 25%. The total amount decayed is 75%. Thus, 24.6 years must be two half-lives of 12.3 years each.",
+   "source": "AP Chemistry · Diagnostic Exam, Q88",
+   "topic": "Chapter 17 — Nuclear Chemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Alkenes are hydrocarbons with the general formula C n H 2 n. If a 1.40 g sample of any alkene is combusted in excess oxygen, how many moles of water will form?",
+   "choices": [
+    "0.1",
+    "1.5",
+    "0.7",
+    "0.2"
+   ],
+   "answer": 0,
+   "explanation": "The general formula simplifies to CH 2 , which has a molar mass of 14 g/mol. This leads to (1.40 g) (1 mol/14 g).",
+   "source": "AP Chemistry · Diagnostic Exam, Q89",
+   "topic": "Chapter 18 — Organic Chemistry",
+   "topic_n": 1
+  }
+ ]
+}

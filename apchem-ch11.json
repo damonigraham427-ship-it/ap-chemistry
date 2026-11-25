@@ -1,0 +1,228 @@
+{
+ "questions": [
+  {
+   "question": "VSEPR predicts an SbF 5 molecule will be which of the following shapes?",
+   "choices": [
+    "square pyramid",
+    "trigonal planar",
+    "tetrahedral",
+    "trigonal bipyramidal"
+   ],
+   "answer": 3,
+   "explanation": "The Lewis (electron-dot) structure has five bonding pairs around the central Sb and no lone pairs. VSEPR predicts this number of pairs to give a trigonal bipyramidal structure.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q1",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "The shortest bond would be present in which of the following substances?",
+   "choices": [
+    "I 2",
+    "CCl 4",
+    "O 2 2−",
+    "CO"
+   ],
+   "answer": 3,
+   "explanation": "All the bonds except in CO are single bonds. The CO bond is a triple bond. Triple bonds are shorter than double bonds, which are shorter than single bonds. Drawing Lewis structures might help you answer this question.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q2",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following does not have one or more π bonds?",
+   "choices": [
+    "H 2 O",
+    "O 2",
+    "N 2",
+    "HNO 3"
+   ],
+   "answer": 0,
+   "explanation": "Answers B through D contain molecules or ions with double or triple bonds. Double and triple bonds contain π bonds. Water has only single ( σ ) bonds. If any of these are not obvious to you, draw a Lewis structure.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q3",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is polar?",
+   "choices": [
+    "CF 4",
+    "SbF 5",
+    "SF 4",
+    "XeF 4"
+   ],
+   "answer": 2,
+   "explanation": "The VSEPR model predicts all the other molecules to be nonpolar.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q4",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Resonance structures are necessary to describe the bonding in which of the following?",
+   "choices": [
+    "ClF 3",
+    "H 2 O",
+    "HNO 3",
+    "CH 4"
+   ],
+   "answer": 2,
+   "explanation": "All the other answers involve species containing only single bonds. Substances without double or triple bonds seldom need resonance structures.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q5",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "An explanation of the equivalent bond lengths of the nitrite ion is:",
+   "choices": [
+    "hybrid orbitals",
+    "resonance structures",
+    "ionic bonds",
+    "van der Waals attractions"
+   ],
+   "answer": 1,
+   "explanation": "Resonance causes bonds to have the same average length.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q6",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Most organic substances have low melting points. This may be because, in most cases, the intermolecular forces are:",
+   "choices": [
+    "resonance structures",
+    "hybrid orbitals",
+    "ionic bonds",
+    "van der Waals attractions"
+   ],
+   "answer": 3,
+   "explanation": "Many organic molecules are nonpolar. Nonpolar substances are held together by weak van der Waals attractions.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q7",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following has more than one unshared pair of valence electrons on the central atom?",
+   "choices": [
+    "BrF 5",
+    "ClF 3",
+    "IF 7",
+    "NF 3"
+   ],
+   "answer": 1,
+   "explanation": "Lewis structures are required. You do not need to draw all of them. A and B have one unshared pair, while C does not have an unshared pair. D has two unshared pairs of electrons.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q8",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the expected hybridization of the central atom in a molecule of TiCl 4? This molecule is tetrahedral.",
+   "choices": [
+    "sp",
+    "sp 3 d",
+    "sp 3",
+    "sp 2"
+   ],
+   "answer": 2,
+   "explanation": "Tetrahedral molecules are normally sp 3 hybridized.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q9",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "The only substance listed below that contains ionic, σ, and π bonds is:",
+   "choices": [
+    "NaCl",
+    "Na 2 CO 3",
+    "HClO 2",
+    "H 2 O"
+   ],
+   "answer": 1,
+   "explanation": "Only A and D are ionic. The chloride ion has no internal bonds, so σ and π bonds are not possible.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q10",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "The electron pairs point toward the corners of which geometrical shape for a molecule with sp 2 hybrid orbitals?",
+   "choices": [
+    "trigonal pyramid",
+    "trigonal planar",
+    "trigonal bipyramid",
+    "octahedron"
+   ],
+   "answer": 1,
+   "explanation": "This hybridization requires a geometrical shape with three corners.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q11",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Regular tetrahedral molecules or ions include which of the following?",
+   "choices": [
+    "SF 4",
+    "NH 4 +",
+    "ICl 4 −",
+    "XeF 4"
+   ],
+   "answer": 1,
+   "explanation": "One or more Lewis structures may help you. A is an irregular tetrahedron (seesaw); C and D are square planar.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q12",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which molecule or ion in the following list has the greatest number of unshared electrons around the central atom?",
+   "choices": [
+    "BF 3",
+    "ClF 3",
+    "CF 4",
+    "NH 4 +"
+   ],
+   "answer": 1,
+   "explanation": "A has 0. B has 2. C and D have 0. You may need to draw one or more Lewis structures.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q13",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following molecules is the least polar?",
+   "choices": [
+    "NO 2",
+    "CH 4",
+    "H 2 O",
+    "PH 3"
+   ],
+   "answer": 1,
+   "explanation": "All the molecules are polar except B.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q14",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following molecules is the most polar?",
+   "choices": [
+    "N 2",
+    "CH 3 I",
+    "NH 3",
+    "BF 3"
+   ],
+   "answer": 2,
+   "explanation": "Drawing one or more Lewis structures may help you. Only A and C are polar. Only the ammonia has hydrogen bonding, which is very, very polar.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q15",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following processes involves breaking an ionic bond?",
+   "choices": [
+    "H 2 (g) + Cl 2 (g) → 2 HCl(g)",
+    "2 KBr(s) → 2 K(g) + Br 2 (g)",
+    "2 C 2 H 6 (g) + 7 O 2 (g) → 4 CO 2 (g) + 6 H 2 O(g)",
+    "Na(s) → Na(g)"
+   ],
+   "answer": 1,
+   "explanation": "C is breaking metallic bonding. All the others involve covalently bonded molecules.",
+   "source": "AP Chemistry · Chapter 11 — Bonding, Q16",
+   "topic": "Chapter 11 — Bonding",
+   "topic_n": 1
+  }
+ ]
+}

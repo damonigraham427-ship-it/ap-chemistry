@@ -1,0 +1,60 @@
+{
+ "questions": [
+  {
+   "question": "The formation of from occurs by:",
+   "choices": [
+    "electron capture",
+    "β decay",
+    "α decay",
+    "positron decay"
+   ],
+   "answer": 2,
+   "explanation": "Mass difference = 234 – 230 = 4, and atomic number difference = 92 – 90 = 2. These correspond to an α particle.",
+   "source": "AP Chemistry · Chapter 17 — Nuclear Chemistry, Q2",
+   "topic": "Chapter 17 — Nuclear Chemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following lists the types of radiation in the correct order of increasing penetrating power?",
+   "choices": [
+    "β, γ, α",
+    "α, γ, β",
+    "β, α, γ",
+    "α, β, γ"
+   ],
+   "answer": 3,
+   "explanation": "Alpha particles are the least penetrating, and gamma rays are the most penetrating.",
+   "source": "AP Chemistry · Chapter 17 — Nuclear Chemistry, Q3",
+   "topic": "Chapter 17 — Nuclear Chemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following statements is correct concerning β particles?",
+   "choices": [
+    "They are electrons with a charge of +1 and are less penetrating than α particles.",
+    "They have a mass number of zero and a charge of +1.",
+    "They are electrons, with a mass number of zero and a charge of −1.",
+    "They have a mass number of zero, a charge of −1, and are less penetrating than α particles."
+   ],
+   "answer": 2,
+   "explanation": "In nuclear reactions, the mass of a β particle is treated as 0, with a charge of –1. Electrons and β particles are the same thing.",
+   "source": "AP Chemistry · Chapter 17 — Nuclear Chemistry, Q4",
+   "topic": "Chapter 17 — Nuclear Chemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "If 75% of a sample of pure decays in 24.6 years, what is the half-life of?",
+   "choices": [
+    "24.6 yr",
+    "18.4 yr",
+    "6.15 yr",
+    "12.3 yr"
+   ],
+   "answer": 3,
+   "explanation": "After one half-life, 50% would remain. After another half-life this would be reduced by one-half to 25%. The total amount decayed is 75%. Thus, 24.6 years must be two half-lives of 12.3 years each.",
+   "source": "AP Chemistry · Chapter 17 — Nuclear Chemistry, Q6",
+   "topic": "Chapter 17 — Nuclear Chemistry",
+   "topic_n": 1
+  }
+ ]
+}

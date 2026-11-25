@@ -1,0 +1,158 @@
+{
+ "questions": [
+  {
+   "question": "A reaction follows the rate law: Rate = k [A] 2. Which of the following plots will give a straight line?",
+   "choices": [
+    "1/[A] versus 1/time",
+    "[A] 2 versus time",
+    "ln[A] versus time",
+    "1/[A] versus time"
+   ],
+   "answer": 3,
+   "explanation": "The “2” exponent means this is a second-order rate law. Second-order rate laws give a straight-line plot for 1/[A] versus t .",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q1",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "For the following reaction: NO 2 (g) + CO(g) → NO(g) + CO 2 (g), the rate law is: Rate = k [NO 2 ] 2. If a small amount of gaseous carbon monoxide (CO) is added to a reaction mixture that was 0.10 molar in NO 2 and 0.20 molar in CO, which of the following statements is true?",
+   "choices": [
+    "Only k increases, the reaction rate will remain the same.",
+    "Both k and the reaction rate increase.",
+    "Both k and the reaction rate remain the same.",
+    "Both k and the reaction rate decrease."
+   ],
+   "answer": 2,
+   "explanation": "The value of k remains the same unless the temperature is changed or a catalyst is added. Only materials that appear in the rate law, in this case NO 2 , will affect the rate. Adding NO 2 would increase the rate, and removing NO 2 would decrease the rate. CO has no effect on the rate.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q2",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The specific rate constant, k, for radioactive beryllium-11 is 0.049 s −1. What mass of a 0.500 mg sample of beryllium-11 remains after 28 seconds?",
+   "choices": [
+    "0.0625 mg",
+    "0.250 mg",
+    "0.375 mg",
+    "0.125 mg"
+   ],
+   "answer": 3,
+   "explanation": "The half-life is 0.693/ k = 0.693/0.049 s –1 = 14 s. The time given, 28 s, represents two half-lives. The first half-life uses one-half of the beryllium, and the second half-life uses one-half of the remaining material, so only one-fourth of the original material remains.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q3",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The slow rate of a particular chemical reaction might be attributed to which of the following?",
+   "choices": [
+    "a low activation energy",
+    "a high activation energy",
+    "the temperature is high",
+    "the presence of a catalyst"
+   ],
+   "answer": 1,
+   "explanation": "Slow reactions have high activation energies. High activation energies are often attributed to strong bonds within the reactant molecules. All the other choices give faster rates.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q4",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The steps below represent a proposed mechanism for the catalyzed oxidation of CO by O 3. Step 1: NO 2 (g) + CO(g) → NO(g) + CO 2 (g) Step 2: NO(g) + O 3 (g) → NO 2 (g) + O 2 (g) What are the overall products of the catalyzed reaction?",
+   "choices": [
+    "NO and CO 2",
+    "CO 2 and O 2",
+    "NO and O 2",
+    "NO 2 and O 2"
+   ],
+   "answer": 1,
+   "explanation": "Add the two equations together: NO 2 (g) + CO(g) + NO(g) + O 3 (g) → NO(g) + CO 2 (g) + NO 2 (g) + O 2 (g) Then cancel identical species that appear on opposite sides: CO(g) + O 3 (g) → CO 2 (g) + O 2 (g)",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q5",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The decomposition of ammonia to the elements is a first-order reaction with a half- life of 200 s at a certain temperature. How long will it take the partial pressure of ammonia to decrease from 0.100 atm to 0.00625 atm?",
+   "choices": [
+    "800 s",
+    "400 s",
+    "200 s",
+    "1,000 s"
+   ],
+   "answer": 0,
+   "explanation": "The value will be decreased by one-half for each half-life. Using the following table: Four half-lives = 4(200 s) = 800 s",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q6",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The energy difference between the reactants and the transition state is:",
+   "choices": [
+    "the kinetic energy",
+    "the activation energy",
+    "the heat of reaction",
+    "the free energy"
+   ],
+   "answer": 1,
+   "explanation": "This is the definition of the activation energy.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q7",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The purpose of striking a match against the side of a box to light the match is:",
+   "choices": [
+    "to supply the activation energy for the reaction",
+    "to supply the free energy for the reaction",
+    "to supply the kinetic energy for the reaction",
+    "to supply the heat of reaction"
+   ],
+   "answer": 0,
+   "explanation": "The friction supplies the energy needed to start the reaction. The energy needed to start the reaction is the activation energy.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q8",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The reaction (CH 3) 3 CBr(aq) + H 2 O(l) → (CH 3) 3 COH(aq) + HBr(aq) follows the rate law: Rate = k [(CH 3) 3 CBr]. What will be the effect of decreasing the concentration of (CH 3) 3 CBr?",
+   "choices": [
+    "More HBr will form.",
+    "The rate of the reaction will decrease.",
+    "The rate of the reaction will increase.",
+    "The reaction will shift to the left."
+   ],
+   "answer": 1,
+   "explanation": "The compound appears in the rate law, so a change in its concentration will change the rate. The reaction is first order in (CH 3 ) 3 CBr, so the rate will change directly with the change in concentration of this reactant.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q10",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "When the concentration of H + (aq) is doubled for the reaction H 2 O 2 (aq) + 2 Fe 2+ (aq) + 2 H + (aq) → 2 Fe 3+ (aq) + 2 H 2 O(g), there is no change in the reaction rate. This indicates:",
+   "choices": [
+    "the H + is a catalyst.",
+    "the reaction mechanism does not involve H +.",
+    "the rate-determining step does not involve H +.",
+    "the H + is a spectator ion."
+   ],
+   "answer": 2,
+   "explanation": "All substances involved, directly or indirectly, in the rate-determining step will change the rate when their concentrations are changed. The ion is required in the balanced chemical equation, so it cannot be a spectator ion, and it must appear in the mechanism. Catalysts will change the rate of a reaction. Since H + does not affect the rate, the reaction is zero order with respect to this ion.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q11",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  },
+  {
+   "question": "The following mechanism has been proposed for the reaction of CHCl 3 with Cl 2. Which of the following rate laws is consistent with this mechanism?",
+   "choices": [
+    "Rate = k [CHCl 3 ]",
+    "Rate = k [CHCl 3 ][Cl 2 ] 1/2",
+    "Rate = k [Cl 2 ]",
+    "Rate = k [CHCl 3 ][Cl 2 ]"
+   ],
+   "answer": 1,
+   "explanation": "The rate law depends on the slow step of the mechanism. The reactants in the slow step are Cl and CHCl 3 (one of each). The rate law is first order with respect to each of these. The Cl is half of the original reactant molecule Cl 2 . This replaces the [Cl] in the rate law with [Cl 2 ] 1/2 . Do not make the mistake of using the overall reaction to predict the rate law.",
+   "source": "AP Chemistry · Chapter 14 — Kinetics, Q12",
+   "topic": "Chapter 14 — Kinetics",
+   "topic_n": 1
+  }
+ ]
+}

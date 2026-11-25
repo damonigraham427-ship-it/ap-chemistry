@@ -1,0 +1,172 @@
+{
+ "questions": [
+  {
+   "question": "The following reaction takes place in a voltaic cell: Zn(s) + Cu 2+ (1 M) → Cu(s) + Zn 2+ (1 M) The cell has a voltage that is measured and found to be +1.10 V. What happens to the cell voltage when the copper electrode is made smaller?",
+   "choices": [
+    "The voltage decreases, but stays positive.",
+    "The voltage increases.",
+    "There is no change in the voltage.",
+    "The voltage becomes zero."
+   ],
+   "answer": 2,
+   "explanation": "The size of the electrode is not important.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q1",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "The following reaction takes place in a voltaic cell: Zn(s) + Cu 2+ (1 M) → Cu(s) + Zn 2+ (1 M) The cell has a voltage that is measured and found to be +1.10 V. What happens to the cell voltage when the salt bridge is filled with deionized water instead of 1 M KNO 3?",
+   "choices": [
+    "The voltage increases.",
+    "The voltage becomes zero.",
+    "The voltage decreases, but stays positive.",
+    "There is no change in the voltage."
+   ],
+   "answer": 1,
+   "explanation": "The salt bridge serves as an ion source to maintain charge neutrality. Deionized water would not be an ion source, so the cell could not operate.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q2",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "S 2 O 3 2− (aq) + OH − (aq) → SO 4 2− (aq) + H 2 O(l) + e − After the above half-reaction is balanced, which of the following are the respective coefficients of OH − and SO 4 2− in the balanced half-reaction?",
+   "choices": [
+    "5 and 2",
+    "8 and 3",
+    "10 and 2",
+    "6 and 2"
+   ],
+   "answer": 2,
+   "explanation": "The balanced equation is:",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q4",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "How many moles of Pt may be deposited on the cathode when 0.80 F of electricity is passed through a 1.0 M solution of Pt 4+?",
+   "choices": [
+    "0.80 mol",
+    "0.20 mol",
+    "1.0 mol",
+    "0.60 mol"
+   ],
+   "answer": 1,
+   "explanation": "It takes 4 mol of electrons (4 F ) to change the platinum ions to platinum metal. The calculation would be: (0.80 F ) (1 mol Pt/4 F ) = 0.20 mol Pt.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q5",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "H + (aq) + NO 3 − (aq) + e − → NO(g) + H 2 O(g) What is the coefficient for water when the above half-reaction is balanced?",
+   "choices": [
+    "2",
+    "4",
+    "3",
+    "1"
+   ],
+   "answer": 0,
+   "explanation": "The balanced chemical equation is:",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q7",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Co 2+ + 2 e − → Co E ° = −0.28 V Cd 2+ + 2 e − → Cd E ° = −0.40 V Given the above standard reduction potentials, estimate the approximate value of the equilibrium constant for the following reaction: Cd + Co 2+ → Cd 2+ + Co",
+   "choices": [
+    "10 4",
+    "10 16",
+    "10 −2",
+    "10 −4"
+   ],
+   "answer": 0,
+   "explanation": "Using the equation: You should realize that the log K = 4 gives K = 10 4 . The actual value is K = 1.1 × 10 4 .",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q8",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample of silver is to be purified by electrorefining. This will separate the silver from an impurity of gold. The impure silver is made into an electrode. Which of the following is the best way to set up the electrolytic cell?",
+   "choices": [
+    "a pure gold cathode with an impure silver anode",
+    "an impure silver cathode and an inert anode",
+    "a pure silver cathode with an impure silver anode",
+    "an impure silver cathode and a pure gold anode"
+   ],
+   "answer": 2,
+   "explanation": "The impure silver must be oxidized so it will go into solution. Oxidation occurs at the anode. Reduction is required to convert the silver ions to pure silver. Reduction occurs at the cathode. The cathode must be pure silver; otherwise, it could be contaminated with the cathode material.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q9",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "2 Fe 3+ + Zn → Zn 2+ + 2 Fe 2+ The reaction shown above was used in an electrolytic cell. The voltage measured for the cell was not equal to the calculated E ° for the cell. Which of the following could cause this discrepancy?",
+   "choices": [
+    "One or more of the ion concentrations was not 1 M.",
+    "Both of the solutions were at 25°C instead of 0°C.",
+    "The anion in the anode compartment was chloride instead of nitrate as in the cathode compartment.",
+    "The solution in the salt bridge was Na 2 SO 4 instead of KNO 3."
+   ],
+   "answer": 0,
+   "explanation": "If the voltage was not equal to E °, then the cell was not standard. Standard cells have 1 M concentrations and operate at 25°C with a partial pressure of each gas equal to 1 atm. No gases are involved in this reaction, so the cell must be operating at a different temperature or a different concentration (or both).",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q10",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "How many grams of mercury could be produced by electrolyzing a 1.0 M Hg(NO 3) 2 solution with a current of 2.00 A for 3.00 h?",
+   "choices": [
+    "201 g",
+    "44.8 g",
+    "22.4 g",
+    "11.2 g"
+   ],
+   "answer": 2,
+   "explanation": "You can estimate the answer by replacing 96,500 with 100,000 and 200.6 with 200.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q11",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "An electrolysis cell was constructed with two platinum electrodes in a 1.00 M aqueous solution of KCl. An odorless gas evolves from one electrode, and a gas with a distinctive odor evolves from the other electrode. Choose the correct statement from the following list.",
+   "choices": [
+    "The gas with the distinctive odor was evolved at the anode.",
+    "The odorless gas was evolved at the anode.",
+    "The gas with the distinctive odor was evolved at the cathode.",
+    "The odorless gas was oxygen."
+   ],
+   "answer": 0,
+   "explanation": "The gases produced are hydrogen (at the cathode) and chlorine (at the anode). Hydrogen is odorless, while chlorine has a distinctive odor.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q12",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "2 BrO 3 − (aq) + 12 H + (aq) + 10 e − → Br 2 (aq) + 6 H 2 O(l) Which of the following statements is correct for the above reaction?",
+   "choices": [
+    "Br goes from a −1 oxidation to a 0 oxidation state.",
+    "The BrO 3 − undergoes oxidation at the anode.",
+    "The BrO 3 − undergoes reduction at the cathode.",
+    "Br 2 is oxidized at the anode."
+   ],
+   "answer": 2,
+   "explanation": "The bromate ion, BrO 3 − , is gaining electrons, so it is being reduced. Reduction always occurs at the cathode.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q13",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "2 M(s) + 3 Zn 2+ (aq) → 2 M 3+ (aq) + 3 Zn 2+ (aq) E ° = 0.90 V Zn 2+ (aq) + 2e − → Zn(s) E ° = −0.76 V Using the above information, determine the standard reduction potential for the following reaction: M 3+ (aq) + 3 e − → M(s)",
+   "choices": [
+    "−0.62 V",
+    "−1.66 V",
+    "0.00 V",
+    "0.90 V"
+   ],
+   "answer": 1,
+   "explanation": "The half-reactions giving the overall reaction must be: Thus, –0.76 + ? = 0.90, giving ? = 1.66 V. The half-reaction under consideration is the reverse of the one used in this combination, so the sign of the calculated voltage must be reversed. Do not make the mistake of multiplying the voltages when the half- reactions were multiplied to equalize the electrons.",
+   "source": "AP Chemistry · Chapter 16 — Electrochemistry, Q14",
+   "topic": "Chapter 16 — Electrochemistry",
+   "topic_n": 1
+  }
+ ]
+}

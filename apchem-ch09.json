@@ -1,0 +1,214 @@
+{
+ "questions": [
+  {
+   "question": "Which of the following is the minimum energy required to initiate a reaction?",
+   "choices": [
+    "kinetic energy",
+    "activation energy",
+    "free energy",
+    "lattice energy"
+   ],
+   "answer": 1,
+   "explanation": "You may wish to review the Kinetics chapter if you have forgotten what the activation energy is.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q1",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the minimum energy required to force a nonspontaneous reaction to occur?",
+   "choices": [
+    "free energy",
+    "kinetic energy",
+    "activation energy",
+    "lattice energy"
+   ],
+   "answer": 0,
+   "explanation": "The free energy is the minimum energy required for a nonspontaneous reaction and the maximum energy available for a spontaneous reaction.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q2",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "The average _____________ is the same for any ideal gas at a given temperature.",
+   "choices": [
+    "kinetic energy",
+    "free energy",
+    "lattice energy",
+    "activation energy"
+   ],
+   "answer": 0,
+   "explanation": "This is a basic postulate of kinetic molecular theory.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q3",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the energy released when the gaseous ions combine to form an ionic solid?",
+   "choices": [
+    "kinetic energy",
+    "lattice energy",
+    "free energy",
+    "activation energy"
+   ],
+   "answer": 1,
+   "explanation": "This is the reverse of the lattice energy definition.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q4",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Given the following information: C(s) + O 2 (g) → CO 2 (g) Δ H = −393.5 kJ H 2 (g) + (1/2) O 2 (g) → H 2 O(l) Δ H = −285.8 kJ C 2 H 2 (g) + (5/2) O 2 (g) → 2 CO 2 (g) + H 2 O(l) Δ H = −1,299.8 kJ Find the enthalpy change for: 2C(s) + H 2 (g) → C 2 H 2 (g)",
+   "choices": [
+    "0.0 kJ",
+    "−227.0 kJ",
+    "227.0 kJ",
+    "454.0 kJ"
+   ],
+   "answer": 2,
+   "explanation": "Simple rounding to the nearest 100 kJ gives 200 kJ.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q5",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample of gallium metal is sealed inside a well-insulated, rigid container. The temperature inside the container is at the melting point of gallium metal. What can be said about the energy and the entropy of the system after equilibrium has been established? Assume the insulation prevents any energy change with the surroundings.",
+   "choices": [
+    "The total energy increases. The total entropy will increase.",
+    "The total energy is constant. The total entropy will increase.",
+    "The total energy is constant. The total entropy will decrease.",
+    "The total energy is constant. The total entropy is constant."
+   ],
+   "answer": 1,
+   "explanation": "The system is insulated and no work can be done on or by the system (rigid container); thus, the energy is constant. At the melting point, some of the gallium will spontaneously melt; changing a solid to a liquid increases the entropy.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q6",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "When ammonium chloride dissolves in water, the temperature drops. Which of the following conclusions may be related to this?",
+   "choices": [
+    "Ammonium chloride produces an ideal solution in water.",
+    "Ammonium chloride is more soluble in hot water.",
+    "Ammonium chloride has a low lattice energy.",
+    "The heat of solution for ammonium chloride is exothermic."
+   ],
+   "answer": 1,
+   "explanation": "The process is endothermic (the ammonium chloride is absorbing heat to cool the water). Endothermic processes are “helped” by higher temperatures. Answer C and possibly D would give an increase in temperature. There is insufficient information about answer B.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q7",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Choose the reaction expected to have the greatest increase in entropy.",
+   "choices": [
+    "H 2 O(g) → H 2 O(l)",
+    "2 KClO 3 (s) → 2 KCl(s) + 3 O 2 (g)",
+    "N 2 (g) + 3H 2 (g) → 2 NH 3 (g)",
+    "Ca(s) + H 2 (g) → CaH 2 (s)"
+   ],
+   "answer": 1,
+   "explanation": "The reaction showing the greatest increase in the number of moles of gas will show the greatest entropy increase. If no gases are present, then the greatest increase in the number of moles of liquid would yield the greatest increase.",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q8",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Under standard conditions, calcium metal reacts readily with chlorine gas. What conclusions may be drawn from the fact?",
+   "choices": [
+    "K eq > 1 and Δ G ° = 0",
+    "K eq > 1 and Δ G ° < 0",
+    "K eq < 1 and Δ G ° > 0",
+    "K eq < 1 and Δ G ° < 0"
+   ],
+   "answer": 1,
+   "explanation": "If the reaction occurs readily, it must be spontaneous. Spontaneous reactions require Δ G ° < 0. A negative free energy leads to a large K (>1).",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q9",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following combinations is true when sodium chloride melts?",
+   "choices": [
+    "Δ H < 0 and Δ S < 0",
+    "Δ H > 0 and Δ S < 0",
+    "Δ H = 0 and Δ S > 0",
+    "Δ H > 0 and Δ S > 0"
+   ],
+   "answer": 3,
+   "explanation": "Heat is required to melt something (Δ H > 0). A transformation from a solid to a liquid gives an increase in entropy (Δ S > 0).",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q10",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following reactions have a negative entropy change?",
+   "choices": [
+    "2 H 2 (g) + O 2 (g) → 2 H 2 O(l)",
+    "CaCl 2 (s) → Ca(s) + Cl 2 (g)",
+    "2 C 2 H 6 (g) + 7 O 2 (g) → 4 CO 2 (g) + 6 H 2 O(g)",
+    "2 NH 3 (g) → N 2 (g) + 3 H 2 (g)"
+   ],
+   "answer": 0,
+   "explanation": "This equation has an overall decrease in the amount of gas (high entropy) present. The other answers produce more gas (increases entropy).",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q11",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "A certain reaction is nonspontaneous under standard conditions, but becomes spontaneous at higher temperatures. What conclusions may be drawn under standard conditions?",
+   "choices": [
+    "Δ H < 0, Δ S > 0, and Δ G > 0",
+    "Δ H > 0, Δ S < 0, and Δ G > 0",
+    "Δ H < 0, Δ S < 0, and Δ G > 0",
+    "Δ H > 0, Δ S > 0, and Δ G > 0"
+   ],
+   "answer": 3,
+   "explanation": "Nonspontaneous means that Δ G > 0. Since the reaction becomes spontaneous, the sign must change. Recalling: Δ G = Δ H – T Δ S . The sign change at higher temperature means that the entropy term (with Δ S > 0) must become more negative than the enthalpy term (Δ H > 0).",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q12",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following reactions would be accompanied by the greatest decrease in entropy?",
+   "choices": [
+    "N 2 (g) + 3 H 2 (g) → 2 NH 3 (g)",
+    "C(s) + O 2 (g) → CO 2 (g)",
+    "2 Na(s) + Cl 2 (g) → 2 NaCl(s)",
+    "2 H 2 (g) + O 2 (g) → 2 H 2 O(g)"
+   ],
+   "answer": 0,
+   "explanation": "The reaction that produces the most gas will have the greatest increase in entropy; the one losing the most gas would have the greatest decrease. 15 .",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q14",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "CO(g) + 2 H 2 (g) → CH 3 OH(g) Δ H = −91kJ Determine Δ H for the above reaction if CH 3 OH(l) were formed in the above reaction instead of CH 3 OH(g). The Δ H of vaporization for CH 3 OH is 37 kJ/mol.",
+   "choices": [
+    "+54 kJ",
+    "−128 kJ",
+    "−54 kJ",
+    "+128 kJ"
+   ],
+   "answer": 1,
+   "explanation": "CO(g) + 2 H2(g) → CH3OH(g), ΔH = −91 kJ; CH3OH(g) → CH3OH(l), ΔH = −37 kJ; Total CO(g) + 2 H2(g) → CH3OH(l), ΔH = −128 kJ",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q15",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution is prepared by dissolving solid ammonium nitrate, NH 4 NO 3, in water. The initial temperature of the water was 25°C, but after the solid had dissolved, the temperature had fallen to 20°C. What conclusions may be made about Δ H and Δ S?",
+   "choices": [
+    "Δ H < 0 Δ S > 0",
+    "Δ H > 0 Δ S < 0",
+    "Δ H > 0 Δ S > 0",
+    "Δ H < 0 Δ S < 0"
+   ],
+   "answer": 2,
+   "explanation": "Dissolving almost always has: Δ S > 0. A decrease in temperature means the process has: Δ H > 0 (the system is absorbing energy from the surroundings).",
+   "source": "AP Chemistry · Chapter 9 — Thermodynamics, Q16",
+   "topic": "Chapter 9 — Thermodynamics",
+   "topic_n": 1
+  }
+ ]
+}

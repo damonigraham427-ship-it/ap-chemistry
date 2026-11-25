@@ -1,0 +1,270 @@
+{
+ "questions": [
+  {
+   "question": "A 0.1 molar solution of acetic acid (CH 3 COOH) has a pH of about:",
+   "choices": [
+    "1",
+    "7",
+    "3",
+    "10"
+   ],
+   "answer": 2,
+   "explanation": "An acid, any acid, will give a pH below 7; thus, answers C and D are eliminated. A 0.1 molar solution of a strong acid would have a pH of 1. Acetic acid is not a strong acid, and this eliminates answer A.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q1",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Using the given information, choose the best answer for preparing a pH = 8 buffer.",
+   "choices": [
+    "K 3 PO 4",
+    "K 2 HPO 4 + KH 2 PO 4",
+    "K 2 HPO 4 + K 3 PO 4",
+    "H 3 PO 4"
+   ],
+   "answer": 1,
+   "explanation": "The K nearest 10 −8 will give a pH near 8. The answer must involve the ion.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q2",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "What is a solution with an initial KCOOH concentration of 1 M, and an initial K 2 HPO 2 concentration of 1 M?",
+   "choices": [
+    "a solution with a pH > 7, which is not a buffer",
+    "a solution with a pH < 7, which is not a buffer",
+    "a solution with a pH > 7, which is a buffer",
+    "a solution with a pH < 7, which is a buffer"
+   ],
+   "answer": 0,
+   "explanation": "The two substances are not a conjugate acid–base pair, so this is not a buffer. Both compounds are salts of a strong base and a weak acid; such salts are basic (pH > 7).",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q3",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "What is a solution with an initial H 3 PO 2 concentration of 1 M and an initial KH 2 PO 2 concentration of 1 M?",
+   "choices": [
+    "a solution with a pH > 7, which is a buffer",
+    "a solution with a pH > 7, which is not a buffer",
+    "a solution with a pH < 7, which is a buffer",
+    "a solution with a pH < 7, which is not a buffer"
+   ],
+   "answer": 2,
+   "explanation": "The two substances constitute a conjugate acid–base pair, so this is a buffer. The pH should be near −log K a1 . This is about 2 (acid).",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q4",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution of a weak base is titrated with a solution of a standard strong acid. The progress of the titration is followed with a pH meter. Which of the following observations would occur?",
+   "choices": [
+    "Initially the pH of the solution drops slowly, and then it drops much more rapidly.",
+    "At the equivalence point, the pH is 7.",
+    "The pH of the solution gradually decreases throughout the experiment.",
+    "After the equivalence point, the pH becomes constant because this is the buffer region."
+   ],
+   "answer": 0,
+   "explanation": "Any time an acid is added, the pH will drop. The reaction of the weak base with the acid produces the conjugate acid of the weak base. The combination of the weak base and its conjugate is a buffer, so the pH will not change very much until all the base is consumed. After all the base has reacted, the pH will drop much more rapidly. The equivalence point of a weak base–strong acid titration is always below 7 (only strong base–strong acid titrations will give a pH of 7 at the equivalence point). The value of pOH is equal to p K b halfway to the equivalence point.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q5",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the ionization constant, K a, for a weak monoprotic acid if a 0.30 molar solution has a pH of 4.0?",
+   "choices": [
+    "3.0 × 10 −4",
+    "3.3 × 10 −8",
+    "1.7 × 10 −6",
+    "4.7 × 10 −2"
+   ],
+   "answer": 1,
+   "explanation": "If pH = 4.0, then [H + ] = 1 × 10 −4 = [A − ], and [HA] = 0.30 − 1 × 10 −4 . The generic K a is [H + ][A − ]/[HA], and when the values are entered into this equation: (1 × 10 −4 ) 2 /0.30 = 3.3 × 10 −8 . Since you can estimate the answer, no actual calculations are necessary.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q6",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Phenol, C 6 H 5 OH, has K a = 1.0 × 10 −10. What is the pH of a 0.010 M solution of phenol?",
+   "choices": [
+    "between 7 and 10",
+    "between 3 and 7",
+    "2",
+    "10"
+   ],
+   "answer": 1,
+   "explanation": "This is an acid-dissociation constant, thus the solution must be acidic (pH < 7). The pH of a 0.010 M strong acid would be 2.0. This is not a strong acid, so the pH must be above 2.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q7",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "You are given equimolar solutions of each of the following. Which has the lowest pH?",
+   "choices": [
+    "NH 4 Cl",
+    "K 3 PO 4",
+    "Na 2 CO 3",
+    "NaCl"
+   ],
+   "answer": 0,
+   "explanation": "A is the salt of a strong acid and a weak base; it is acidic. B is a salt of a strong acid and a strong base; they are neutral. C and D are salts of a weak acid and a strong base; they are basic. The lowest pH would be the acidic choice.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q8",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "When sodium nitrite dissolves in water:",
+   "choices": [
+    "The solution is basic because of hydrolysis of the NO 2 − ion.",
+    "The solution is acidic because of hydrolysis of the sodium ion.",
+    "The solution is acidic because of hydrolysis of the NO 2 − ion.",
+    "The solution is basic because of hydrolysis of the sodium ion."
+   ],
+   "answer": 0,
+   "explanation": "Sodium nitrite is a salt of a weak acid and a strong base. Ions from strong bases, Na + in this case, do not undergo hydrolysis, and do not affect the pH. Ions from weak acids, NO 2 − in this case, undergo hydrolysis to produce basic solutions.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q9",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following solutions has a pH nearest 7?",
+   "choices": [
+    "1 M NH 3 (ammonia) and 1 M NH 4 NO 3 (ammonium nitrate)",
+    "1 M H 2 C 2 O 4 (oxalic acid) and 1 M KHC 2 O 4 (potassium hydrogen oxalate)",
+    "1 M CH 3 NH 2 (methylamine) and 1 M HC 2 H 3 O 2 (acetic acid)",
+    "1 M KNO 3 (potassium nitrate) and 1 M HNO 3 (nitric acid)"
+   ],
+   "answer": 2,
+   "explanation": "The weak acid and the weak base partially cancel each other to give a nearly neutral solution.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q10",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "Determine the OH − (aq) concentration in 1.0 M aniline (C 6 H 5 NH 2) solution. (The K b for aniline is 4.0 × 10 −10.)",
+   "choices": [
+    "4.0 × 10 −10 M",
+    "5.0 × 10 −7 M",
+    "2.0 × 10 −5 M",
+    "3.0 × 10 −6 M"
+   ],
+   "answer": 2,
+   "explanation": "The equilibrium constant expression is: K b = 4.0 × 10 −10 = . This expression becomes: ( x )( x )/(1.0 − x ) = 4.0 × 10 −10 , which simplifies to: x 2 /1.0 = 4.0 × 10 −10 . Taking the square root of each side gives: x = 2.0 × 10 −5 = [OH − ]. Since you can estimate the answer, no actual calculations are necessary.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q11",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "A student wishes to reduce the zinc ion concentration in a saturated zinc iodate solution to 1 × 10 −6 M. How many moles of solid KIO 3 must be added to 1.00 L of solution? [ K sp Zn(IO 3) 2 = 4 × 10 −6 at 25°C]",
+   "choices": [
+    "0.5 mol",
+    "1 mol",
+    "2 mol",
+    "4 mol"
+   ],
+   "answer": 2,
+   "explanation": "The solubility-product constant expression is: K sp = [Zn 2+ ] = 4 × 10 −6 . This may be rearranged to: = 4 × 10 −6 /[Zn 2+ ]. Inserting the desired zinc ion concentration gives: = 4 × 10 −6 /(1 × 10 −6 ) = 4. Taking the square root of each side leaves a desired IO 3 − concentration of 2 M . Two moles of KIO 3 must be added to 1.00 L of solution to produce this concentration. Since you can estimate the answer, no actual calculations are necessary.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q12",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "At constant temperature, a change in volume will NOT affect the moles of substances present in which of the following?",
+   "choices": [
+    "H 2 (g) + I 2 (g) 2 HI(g)",
+    "PCl 5 (g) PCl 3 (g) + Cl 2 (g)",
+    "CO(g) + Cl 2 (g) COCl 2 (g)",
+    "N 2 (g) + 3 H 2 (g) 2 NH 3 (g)"
+   ],
+   "answer": 0,
+   "explanation": "When dealing with gaseous equilibriums, volume changes are important when there is a difference in the total number of moles of gas on opposite sides of the equilibrium arrow. All the answers, except A, have differing numbers of moles of gas on opposite sides of the equilibrium arrow.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q13",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "ZnS(s) + 2H + (aq) Zn 2+ (aq) + H 2 S(aq) What is the equilibrium constant for the above reaction? The successive acid dissociation constants for H 2 S are 9.5 × 10 −8 (K a1) and 1 × 10 −19 (K a2). The K sp, the solubility product constant, for ZnS equals 1.6 × 10 −24.",
+   "choices": [
+    "9.5 × 10 −8 /1.6 × 10 −24",
+    "1 × 10 −79 /1.6 × 10 −24",
+    "1.6 × 10 −24 /9.5 × 10 −8",
+    "1.6 × 10 −24 /9.5 × 10 −27"
+   ],
+   "answer": 3,
+   "explanation": "The equilibrium given is actually the sum of the following three equilibriums: Summing these equations means you need to multiply the equilibrium constants:",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q15",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "C(s) + H 2 O(g) CO(g) + H 2 O(g) endothermic An equilibrium mixture of the reactants is placed in a sealed container at 150°C. The amount of the products may be increased by which of the following changes?",
+   "choices": [
+    "lowering the temperature of the container",
+    "adding 1 mol of C(s) to the container",
+    "decreasing the volume of the container",
+    "raising the temperature of the container and increasing the volume of the container"
+   ],
+   "answer": 3,
+   "explanation": "The addition or removal of some solid, as long as some remains present, will not change the equilibrium. An increase in volume will cause the equilibrium to shift toward the side with more moles of gas (right). Raising the temperature of an endothermic process will shift the equilibrium to the right. Any shift to the right will increase the amounts of the products.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q16",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "CH 4 (g) + CO 2 (g) 2 CO(g) + 2 H 2 (g) A 1.00 L flask is filled with 0.30 mol of CH 4 and 0.40 mol of CO 2, and allowed to come to equilibrium. At equilibrium, there are 0.20 mol of CO in the flask. What is the value of K c, the equilibrium constant, for the reaction?",
+   "choices": [
+    "0.30",
+    "0.027",
+    "0.060",
+    "1.2"
+   ],
+   "answer": 1,
+   "explanation": "Using the following table: The presence of 0.20 mol of CO (0.20 M ) at equilibrium means that 2 x = 0.20 and that x = 0.10. Using this value for x , the bottom line of the table becomes: The equilibrium expression is: K = [CO] 2 [H 2 ] 2 /[CH 4 ][CO 2 ]. Entering the equilibrium values into the equilibrium expression gives: K = (0.20) 2 (0.20) 2 /(0.20) (0.30)",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q17",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "NO 2 (g) 2 NO(g) + O 2 (g) The above materials were sealed in a flask and allowed to come to equilibrium at a certain temperature. A small quantity of O 2 (g) was added to the flask, and the mixture was allowed to return to equilibrium at the same temperature. Which of the following has increased over its original equilibrium value?",
+   "choices": [
+    "the quantity of NO 2 (g) present",
+    "the quantity of NO(g) present",
+    "the equilibrium constant, K, increases",
+    "the rate of the reaction"
+   ],
+   "answer": 0,
+   "explanation": "The addition of a product will cause the equilibrium to shift to the left. The amounts of all the reactants will increase, and the amounts of all the products will decrease (the O 2 will not go below its earlier equilibrium value since excess was added). The value of K is constant, unless the temperature is changed. The rates of the forward and reverse reactions are equal at equilibrium.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q18",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "2CH 4 (g) + O 2 (g) 2CO(g) + 4H 2 (g) Δ H < 0 In order to increase the value of the equilibrium constant, K, which of the following changes must be made to the above equilibrium?",
+   "choices": [
+    "increase the temperature",
+    "decrease the temperature",
+    "increase the volume",
+    "add CO(g)"
+   ],
+   "answer": 1,
+   "explanation": "The only way to change the value of K is to change the temperature. For an exothermic process (Δ H < 0), K is increased by a decrease in temperature.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q19",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  },
+  {
+   "question": "The addition of nitric acid increases the solubility of which of the following compounds?",
+   "choices": [
+    "Pb(CN) 2 (s)",
+    "NH 4 NO 3 (s)",
+    "Cu(NO 3) 2 (s)",
+    "KCl(s)"
+   ],
+   "answer": 0,
+   "explanation": "Nitric acid, being an acid, will react with a base. In addition to obvious bases containing OH − , the salts of weak acids are also bases. All of the anions, except CN − , are from strong acids.",
+   "source": "AP Chemistry · Chapter 15 — Equilibrium, Q20",
+   "topic": "Chapter 15 — Equilibrium",
+   "topic_n": 1
+  }
+ ]
+}

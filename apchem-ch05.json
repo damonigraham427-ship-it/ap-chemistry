@@ -1,0 +1,326 @@
+{
+ "questions": [
+  {
+   "question": "In most of its compounds, this element exists as a monatomic cation.",
+   "choices": [
+    "O",
+    "Na",
+    "Cl",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "All the other elements are nonmetals. Nonmetals usually form monatomic anions.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q1",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "This element may form a compound with the formula CaXO 4.",
+   "choices": [
+    "Cl",
+    "Se",
+    "P",
+    "Na"
+   ],
+   "answer": 1,
+   "explanation": "The element cannot be a metal (Na). A nonmetal that can have a +6 oxidation state is necessary. P has a maximum of +5. Cl may be +5 or +7. Se, in column 16, can easily be +6.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q2",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following elements may occur in the greatest number of different oxidation states?",
+   "choices": [
+    "C",
+    "O",
+    "F",
+    "Ca"
+   ],
+   "answer": 0,
+   "explanation": "Based on their positions on the periodic table:",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q3",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following groups has the species correctly listed in order of increasing radius?",
+   "choices": [
+    "Na, Mg, Al",
+    "K +, Na +, Li +",
+    "Br −, Cl −, F −",
+    "Mg 2+, Ca 2+, Ba 2+"
+   ],
+   "answer": 3,
+   "explanation": "All the others are in decreasing order. Ions in the same column and with the same charge increase in size when going down a column the same as atoms. Atoms in the same row increase in size toward the left side. This argument is not sufficient on the free-response portion of the exam.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q5",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following elements has the lowest electronegativity?",
+   "choices": [
+    "K",
+    "C",
+    "I",
+    "Al"
+   ],
+   "answer": 0,
+   "explanation": "In general, the element farthest from F on the periodic table will have the lowest electronegativity. There are exceptions, but you normally do not need to concern yourself with exceptions.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q6",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Choose the ion with the largest ionic radius.",
+   "choices": [
+    "F −",
+    "K +",
+    "Al 3+",
+    "I −"
+   ],
+   "answer": 3,
+   "explanation": "The very large iodine atom (near the bottom of the periodic table) gains an electron to make it even larger. This reasoning is not sufficient on the free-response portion of the exam.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q7",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the name of the energy change when a gaseous atom, in the ground state, adds an electron?",
+   "choices": [
+    "sublimation energy",
+    "ionization energy",
+    "electron affinity",
+    "atomization energy"
+   ],
+   "answer": 2,
+   "explanation": "The definition of electron affinity is the energy change when a ground-state gaseous atom adds an electron.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q8",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "In general, as the atomic numbers increase within a period, the atomic radius:",
+   "choices": [
+    "decreases",
+    "does not change",
+    "first decreases and then increases",
+    "increases"
+   ],
+   "answer": 0,
+   "explanation": "The increase in the number of protons in the nucleus has a greater attraction (greater effective nuclear charge) for the electrons being added in the same energy level. Thus, the electrons are pulled closer to the nucleus and the size slightly decreases. This thought process should be used on the free-response portion of the AP exam; however, simply remembering that radii decrease across a period is sufficient for most multiple-choice questions.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q10",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following elements is a reactive gas?",
+   "choices": [
+    "radon",
+    "sodium",
+    "gold",
+    "chlorine"
+   ],
+   "answer": 3,
+   "explanation": "The only other gas is radon, and it is inert.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q11",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following elements is an unreactive metal?",
+   "choices": [
+    "gold",
+    "sodium",
+    "chlorine",
+    "radon"
+   ],
+   "answer": 0,
+   "explanation": "Sodium is a metal on the left side of the periodic table. Metals on the left side of the periodic table are very reactive. Radon is not a metal.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q12",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following represents the correct formula for potassium trisoxalatoferrate(III)?",
+   "choices": [
+    "KFe 3 (C 2 O 4) 3",
+    "P 3 [Fe(C 2 O 4) 3 ]",
+    "K 3 [Fe 3 (C 2 O 4) 3 ]",
+    "K 3 [Fe(C 2 O 4) 3 ]"
+   ],
+   "answer": 3,
+   "explanation": "Ferrate(III) means Fe 3+ , while trisoxalato means (C 2 O 4 ) 3 6– ; three potassium atoms are needed to balance the charge.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q13",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following substances will produce a colorless aqueous solution?",
+   "choices": [
+    "K 2 Cr 2 O 7",
+    "Co(NO 3) 2",
+    "CuSO 4",
+    "Zn(NO 3) 2"
+   ],
+   "answer": 3,
+   "explanation": "B is blue; C is orange; and D is pink to red.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q14",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "This element is a liquid at room temperature.",
+   "choices": [
+    "Cl",
+    "Hg",
+    "Th",
+    "Na"
+   ],
+   "answer": 1,
+   "explanation": "Chlorine is a gas; all the others are solid metals.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q15",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following elements is present in chlorophyll?",
+   "choices": [
+    "K",
+    "Mg",
+    "Ga",
+    "Al"
+   ],
+   "answer": 1,
+   "explanation": "Magnesium is present in chlorophyll.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q16",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the symbol for the element that forms a protective oxide coating?",
+   "choices": [
+    "Mg",
+    "K",
+    "Ga",
+    "Al"
+   ],
+   "answer": 3,
+   "explanation": "Aluminum forms a protective oxide coating.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q17",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following elements is important in the semiconductor industry to improve the conductivity of germanium, Ge?",
+   "choices": [
+    "K",
+    "Ga",
+    "Mg",
+    "Al"
+   ],
+   "answer": 1,
+   "explanation": "Gallium, adjacent to Ge on the periodic table, is one of the elements that will improve the conductivity of germanium.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q18",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following aqueous solutions is blue?",
+   "choices": [
+    "NiSO 4",
+    "ZnSO 4",
+    "Cr 2 (SO 4) 3",
+    "CuSO 4"
+   ],
+   "answer": 3,
+   "explanation": "B is purple; C is green; and D is colorless.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q19",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "In order to separate two substances by fractional crystallization, the two substances must differ in which of the following?",
+   "choices": [
+    "solubility",
+    "viscosity",
+    "vapor pressure",
+    "specific gravity"
+   ],
+   "answer": 0,
+   "explanation": "Fractional crystallization works because the less soluble material separates first.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q20",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "In a flame test, copper compounds impart which of the following colors to a flame?",
+   "choices": [
+    "red",
+    "violet",
+    "orange",
+    "blue to green"
+   ],
+   "answer": 3,
+   "explanation": "A could be Li or Sr; B is Ca; and D is K.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q21",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "What should you do if you spill sulfuric acid on the countertop?",
+   "choices": [
+    "Neutralize the acid with vinegar.",
+    "Sprinkle solid NaOH on the spill.",
+    "Neutralize the acid with NaHCO 3 solution.",
+    "Neutralize the acid with an Epsom salt (MgSO 4) solution."
+   ],
+   "answer": 2,
+   "explanation": "Adding a weak base solution, such as NaHCO 3 , which will not only neutralize the acid but will help to disperse the heat, is the best choice.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q22",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following can be achieved by using a visible-light spectrophotometer?",
+   "choices": [
+    "Detect the presence of isolated double bonds.",
+    "Run a flame test to determine if Na + or K + is in a solution.",
+    "Measure the strength of a covalent bond.",
+    "Find the concentration of a KMnO 4 solution."
+   ],
+   "answer": 3,
+   "explanation": "A solution containing a colored substance is necessary.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q23",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "You have an aqueous solution of NaCl. The simplest method for the separation of NaCl from the solution is:",
+   "choices": [
+    "centrifuging the solution",
+    "evaporation of the solution to dryness",
+    "filtration of the solution",
+    "electrolysis of the solution"
+   ],
+   "answer": 1,
+   "explanation": "Separation of materials in solution is normally not simple; therefore, removal of the solvent through evaporation is the best choice.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q24",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  },
+  {
+   "question": "The determination that atoms have small, dense nuclei is attributed to:",
+   "choices": [
+    "Rutherford",
+    "Einstein",
+    "Becquerel",
+    "Dalton"
+   ],
+   "answer": 0,
+   "explanation": "Rutherford, and his students, demonstrated the existence of the nucleus.",
+   "source": "AP Chemistry · Chapter 5 — Basics, Q25",
+   "topic": "Chapter 5 — Basics",
+   "topic_n": 1
+  }
+ ]
+}

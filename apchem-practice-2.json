@@ -1,0 +1,620 @@
+{
+ "questions": [
+  {
+   "question": "The following information applies to questions 2−5. A student builds a Galvanic cell to take advantage of the following reaction: Zn(s) + 2 AgNO 3 (1 M) → 2 Ag(s) + Zn(NO 3) 2 (1 M) The cell’s voltage is measured and found to be +1.56 volts. What happens to the voltage when a small amount of silver nitrate is added to the silver compartment?",
+   "choices": [
+    "The voltage increases.",
+    "The voltage decreases, but stays positive.",
+    "The voltage becomes zero.",
+    "There is no change in the voltage."
+   ],
+   "answer": 0,
+   "explanation": "This will increase the concentration of Ag + , causing a shift to the right, which will lead to an increase in the cell voltage.",
+   "source": "AP Chemistry · Practice Exam 2, Q2",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The following information applies to questions 2−5. A student builds a Galvanic cell to take advantage of the following reaction: Zn(s) + 2 AgNO 3 (1 M) → 2 Ag(s) + Zn(NO 3) 2 (1 M) The cell’s voltage is measured and found to be +1.56 volts. What happens to the cell voltage when the student replaces the Zn(NO 3) 2 solution with 1 M ZnCl 2?",
+   "choices": [
+    "The voltage increases.",
+    "There is no change in the voltage.",
+    "The voltage becomes zero.",
+    "The voltage decreases, but stays positive."
+   ],
+   "answer": 1,
+   "explanation": "The zinc ion concentration remains the same (1 M); therefore, the voltage will remain the same. The identity of the anion associated with the zinc is not important unless the compound is not soluble. Zinc chloride must be soluble; otherwise the student could not make a 1 M solution.",
+   "source": "AP Chemistry · Practice Exam 2, Q3",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The following information applies to questions 2−5. A student builds a Galvanic cell to take advantage of the following reaction: Zn(s) + 2 AgNO 3 (1 M) → 2 Ag(s) + Zn(NO 3) 2 (1 M) The cell’s voltage is measured and found to be +1.56 volts. If the standard reduction potential of silver is 0.80 V, what is the standard reduction potential of zinc?",
+   "choices": [
+    "−0.04 V",
+    "−0.76 V",
+    "+0.04 V",
+    "+0.76 V"
+   ],
+   "answer": 1,
+   "explanation": "The cell voltage (1.56 V) is the sum of the standard reduction potential for silver (0.80 V) and the reverse of the standard reduction potential for zinc. Therefore, (1.56 − 0.80) V = 0.76 V = the reverse of the standard reduction potential for zinc. Reversing the value gives −0.76 V as the standard reduction potential for zinc.",
+   "source": "AP Chemistry · Practice Exam 2, Q4",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The following information applies to questions 2−5. A student builds a Galvanic cell to take advantage of the following reaction: Zn(s) + 2 AgNO 3 (1 M) → 2 Ag(s) + Zn(NO 3) 2 (1 M) The cell’s voltage is measured and found to be +1.56 volts. What happens to the cell voltage after the cell has reached equilibrium?",
+   "choices": [
+    "The voltage increases.",
+    "There is no change in the voltage.",
+    "The voltage decreases, but stays positive.",
+    "The voltage becomes zero."
+   ],
+   "answer": 3,
+   "explanation": "As the cell begins to run, the voltage decreases until the system reaches equilibrium where the voltage is zero.",
+   "source": "AP Chemistry · Practice Exam 2, Q5",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 6−10. Many metal salts crystallize from solution in the form of a hydrate. If the formula of the anhydrous salt is A a X x, then the generic formula of the hydrated form would be A a X x •xH 2 O. A student conducts an experiment to determine the formula of a metal oxide by collecting the following data: The hydrated salt is finely powdered to ensure complete water loss to produce the anhydrous salt. How many grams of water were in the hydrate?",
+   "choices": [
+    "4.737 g",
+    "0.987 g",
+    "0.820 g",
+    "5.557 g"
+   ],
+   "answer": 2,
+   "explanation": "The mass of water is the difference in the masses of the hydrated salt and the anhydrous salt. In this case, (mass of crucible plus hydrated salt) − (mass of crucible plus anhydrous salt) = 58.677 g − 57.857 g = 0.820 g. This assumes the weight of the crucible is constant.",
+   "source": "AP Chemistry · Practice Exam 2, Q6",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 6−10. Many metal salts crystallize from solution in the form of a hydrate. If the formula of the anhydrous salt is A a X x, then the generic formula of the hydrated form would be A a X x •xH 2 O. A student conducts an experiment to determine the formula of a metal oxide by collecting the following data: The hydrated salt is finely powdered to ensure complete water loss to produce the anhydrous salt. What is the approximate percent water in the hydrated salt?",
+   "choices": [
+    "28%",
+    "50%",
+    "86%",
+    "14%"
+   ],
+   "answer": 3,
+   "explanation": "The percent water is 100% times the grams of water divided by the mass of the hydrated salt. The mass of water is: (mass of crucible plus hydrated salt) − (mass of crucible plus anhydrous salt) = (58.677 − 57.857) g = 0.820 g water. The mass of the hydrated salt is: (mass of crucible plus hydrated salt) − (mass of crucible) = (58.677 − 53.120) g = 5.557 g hydrated salt. Finally, percent water 14.8%. The simplified calculation would be: Percent water",
+   "source": "AP Chemistry · Practice Exam 2, Q7",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 6−10. Many metal salts crystallize from solution in the form of a hydrate. If the formula of the anhydrous salt is A a X x, then the generic formula of the hydrated form would be A a X x •xH 2 O. A student conducts an experiment to determine the formula of a metal oxide by collecting the following data: The hydrated salt is finely powdered to ensure complete water loss to produce the anhydrous salt. The student did not have time to finish the experiment during the lab period and was forced to store the anhydrous salt and crucible in his lab drawer until the next day. At the beginning of the next lab period the student weighed the anhydrous salt and beaker. After calculating the percent water in the sample, the student found that the percentage was lower than predicted. Assuming all weighing were done correctly, what might be the cause of the lower than expected percentage?",
+   "choices": [
+    "The sample dried further overnight.",
+    "The sample decomposed to another salt.",
+    "The sample absorbed water from the air overnight.",
+    "The student performed one or more weighings before the crucible had cooled to room temperature."
+   ],
+   "answer": 2,
+   "explanation": "Leaving the sample overnight in the lab drawer would cause the sample to be no longer anhydrous. The mass of the “anhydrous” salt would now be higher indicating a smaller amount of water loss, which would lead to a lower percentage of water in the sample.",
+   "source": "AP Chemistry · Practice Exam 2, Q8",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 6−10. Many metal salts crystallize from solution in the form of a hydrate. If the formula of the anhydrous salt is A a X x, then the generic formula of the hydrated form would be A a X x •xH 2 O. A student conducts an experiment to determine the formula of a metal oxide by collecting the following data: The hydrated salt is finely powdered to ensure complete water loss to produce the anhydrous salt. In another experiment on a different metal hydrate a student found that the salt was 62.9% water. In this case, the molar mass of the anhydrous salt was 106 g mol −1. Which of the following general formulas gives the correct value of x?",
+   "choices": [
+    "A a X x •2H 2 O",
+    "A a X x •6H 2 O",
+    "A a X x •10H 2 O",
+    "A a X x •5H 2 O"
+   ],
+   "answer": 2,
+   "explanation": "It is necessary to determine the empirical formula of the compound. If the sample is 63% water, then it is 37% anhydrous salt. Assuming 100 grams of compound, the masses of water and anhydrous salt are 63 g and 37 g, respectively. Converting each of these to moles gives: Since there are ten times as many moles of water as moles of the anhydrous salt, the formula must be A a X x •10H 2 O.",
+   "source": "AP Chemistry · Practice Exam 2, Q9",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 6−10. Many metal salts crystallize from solution in the form of a hydrate. If the formula of the anhydrous salt is A a X x, then the generic formula of the hydrated form would be A a X x •xH 2 O. A student conducts an experiment to determine the formula of a metal oxide by collecting the following data: The hydrated salt is finely powdered to ensure complete water loss to produce the anhydrous salt. Manganese normally forms one of four oxides. The oxides are MnO, Mn 2 O 3, MnO 2, and Mn 3 O 4. Which of the four oxides has the highest percentage of oxygen? (Molar masses: O = 16.0 g mol −1, Mn = 54.9 g mol −1, MnO = 70.9 g mol −1, Mn 2 O 3 = 157.8 g mol −1, MnO 2 = 86.9 g mol −1, and Mn 3 O 4 = 228.7 g mol −1.)",
+   "choices": [
+    "MnO 2",
+    "MnO",
+    "Mn 3 O 4",
+    "Mn 2 O 3"
+   ],
+   "answer": 0,
+   "explanation": "The general equation to determine the percent oxygen in the sample is: Percent oxygen = However, no percent calculation is necessary. The sample with the highest Mn:O ratio will have the highest percentage. The ratios are: MnO = 1:1, Mn 2 O 3 = 1:15, MnO 2 = 1:2, and Mn 3 O 4 = 1:1.3, which means that MnO 2 will have the highest percentage.",
+   "source": "AP Chemistry · Practice Exam 2, Q10",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "For the following reaction, 2 NO(g) + O 2 (g) → 2 NO 2 (g), the rate law is: Rate = k [NO] 2 [O 2 ]. In one experiment, the rate of appearance of NO 2 was determined to be 0.0138 M s −1 when [NO] = 0.0125 M and [O 2 ] = 0.0125 M. What was the value of the rate constant?",
+   "choices": [
+    "7.1 × 10 3 M 2 s −1.",
+    "7.1 × 10 3 M −2 s −1.",
+    "7.1 × 10 3.",
+    "7.1 × 10 3 M s −1."
+   ],
+   "answer": 1,
+   "explanation": "No calculations are necessary as this is the only answer with the correct units.",
+   "source": "AP Chemistry · Practice Exam 2, Q11",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Oxalic acid, H 2 C 2 O 4, is a useful chemical for rust removal. A student prepared five oxalic acid samples by dissolving 0.9000 grams of oxalic acid in 100.00 mL of water and pipetting 10.00 mL samples of this solution into five separate beakers. Each of the samples was diluted with deionized water, and an appropriate indicator was added as an indicator. The samples were then titrated with standard 0.05000 M sodium hydroxide, NaOH, until the appearance of a permanent color change of the indicator indicated the endpoint of the titration. The following volumes were obtained. Molar mass of H 2 C 2 O 4 = 90.04 g mol −1. The student calculated a concentration of approximately 0.20 M in each case. This is not the correct value. What is the most likely mistake that the student made?",
+   "choices": [
+    "The student used the total sample volume of the acid instead of the pipetted sample volume.",
+    "The student did not use the correct indicator.",
+    "The student contaminated the samples during preparation.",
+    "The student did not use the correct mole ratio in the calculation."
+   ],
+   "answer": 3,
+   "explanation": "The first step is to calculate the true concentration of the sample to see how the student results compare. The balanced chemical equation is H 2 C 2 O 4 (aq) + 2 NaOH(aq) → Na 2 C 2 O 4 (aq) + 2 H 2 O(l) All the volumes are similar; therefore, it is possible to use any one of them and calculate an approximate molarity using rounded numbers for simplicity. The calculated value should be about half what the student reported. This indicates that the student did not include the 1:2 mole ratio relating the acid to the base or that the student incorrectly used a relationship such as M 1 V 1 = M 2 V 2 .",
+   "source": "AP Chemistry · Practice Exam 2, Q13",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 15−19. pH versus volume of titrant added The diagram above represents the idealized titration curve for the reaction of pure sodium carbonate, Na 2 CO 3, with a strong acid such as hydrochloric acid, HCl. E and F represent the pH at the endpoints corresponding to the formation of HCO 3 − and H 2 CO 3, respectively. G and H correspond to the quantity of acid required to reach the endpoints. A trial run used a sample of pure sodium carbonate. How does the volume of acid necessary to reach G from 0 compare to the volume of acid necessary to get from G to H?",
+   "choices": [
+    "It takes more to get from G to H.",
+    "They are the same.",
+    "It is impossible to determine.",
+    "It takes more to reach point G."
+   ],
+   "answer": 1,
+   "explanation": "At point G, all the CO 3 2− has been converted to HCO 3 − and the moles of HCO 3 − will equal the moles of CO 3 2− originally present. It will require an equal volume of acid to titrate an equal number of moles of HCO 3 − as required for the CO 3 2− . For pure sodium carbonate, F will always be 2G.",
+   "source": "AP Chemistry · Practice Exam 2, Q15",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 15−19. pH versus volume of titrant added The diagram above represents the idealized titration curve for the reaction of pure sodium carbonate, Na 2 CO 3, with a strong acid such as hydrochloric acid, HCl. E and F represent the pH at the endpoints corresponding to the formation of HCO 3 − and H 2 CO 3, respectively. G and H correspond to the quantity of acid required to reach the endpoints. The analysis of a sample contaminated with NaHCO 3 gave slightly different results. How does the volume of acid necessary to reach G from 0 compare to the volume of acid necessary to get from G to H for the second sample?",
+   "choices": [
+    "It takes more to get from G to H.",
+    "It is impossible to determine.",
+    "They are the same.",
+    "It takes more to reach point G."
+   ],
+   "answer": 0,
+   "explanation": "At point G, all the CO 3 2− has been converted to HCO 3 − and the moles of HCO 3 − will equal the moles of CO 3 2− originally present plus the quantity of HCO 3 − originally present. It will require a greater volume of acid to titrate a greater number of moles of HCO 3 − as required for the CO 3 2− .",
+   "source": "AP Chemistry · Practice Exam 2, Q16",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 15−19. pH versus volume of titrant added The diagram above represents the idealized titration curve for the reaction of pure sodium carbonate, Na 2 CO 3, with a strong acid such as hydrochloric acid, HCl. E and F represent the pH at the endpoints corresponding to the formation of HCO 3 − and H 2 CO 3, respectively. G and H correspond to the quantity of acid required to reach the endpoints. How could a student determine if there was a strong acid or a strong base contaminant in the original sample?",
+   "choices": [
+    "The presence of a base contaminant would require less acid to reach G from 0 than to reach F from G.",
+    "It is impossible to determine.",
+    "The presence of a base contaminant would require more acid to reach G from 0 than to reach F from G.",
+    "The presence of an acid contaminant would require less acid to reach H from G than to reach G from 0."
+   ],
+   "answer": 2,
+   "explanation": "It would be necessary to titrate the strong base and the CO 3 2− to reach G. However, it is only necessary to titrate the HCO 3 − to reach H, which means less acid is necessary.",
+   "source": "AP Chemistry · Practice Exam 2, Q17",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 15−19. pH versus volume of titrant added The diagram above represents the idealized titration curve for the reaction of pure sodium carbonate, Na 2 CO 3, with a strong acid such as hydrochloric acid, HCl. E and F represent the pH at the endpoints corresponding to the formation of HCO 3 − and H 2 CO 3, respectively. G and H correspond to the quantity of acid required to reach the endpoints. In addition to water, what are the predominant species in solution at F?",
+   "choices": [
+    "Na +, Cl −, and H 2 CO 3",
+    "Na +, Cl −, H +, and CO 3 2−",
+    "HCO 3 − and H +",
+    "Na 2 CO 3 and HCl"
+   ],
+   "answer": 0,
+   "explanation": "At G the CO 3 2− is now HCO 3 − , so no CO 3 2− remains. The Na + did not react, so it is still present as ions. The Cl − is from the HCl and remains as separate ions in solution. After G, the H + from the acid begins to convert HCO 3 − to form H 2 CO 3 , which is complete at point F leaving no HCO 3 − in the solution. Other than water, all species are strong electrolytes and exist as ions in solution. The H 2 CO 3 will be decomposing to H 2 O and CO 2 (g).",
+   "source": "AP Chemistry · Practice Exam 2, Q18",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 15−19. pH versus volume of titrant added The diagram above represents the idealized titration curve for the reaction of pure sodium carbonate, Na 2 CO 3, with a strong acid such as hydrochloric acid, HCl. E and F represent the pH at the endpoints corresponding to the formation of HCO 3 − and H 2 CO 3, respectively. G and H correspond to the quantity of acid required to reach the endpoints. At what point on the graph for the titration of pure sodium carbonate is the pH = p K a2 for carbonic acid?",
+   "choices": [
+    "Halfway between points G and H",
+    "Halfway between the start and point G",
+    "At point H",
+    "At point G"
+   ],
+   "answer": 0,
+   "explanation": "The pH will equal the p K a2 when the concentration of HCO 3 − equals the concentration of H 2 CO 3 . This occurs when one-half of the HCO 3 − has been converted to H 2 CO 3 .",
+   "source": "AP Chemistry · Practice Exam 2, Q19",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Three steel containers hold gas samples. The containers are all the same size and at the same temperature. One container has 4.0 g of helium, another has 28.0 g of nitrogen, and the third has 44.0 g of carbon dioxide. Pick the FALSE statement from the following list:",
+   "choices": [
+    "The number of molecules in all the containers is the same.",
+    "The pressure in all three containers is the same.",
+    "The densities increase in the order helium < nitrogen < carbon dioxide.",
+    "The average speed of all the molecules is the same."
+   ],
+   "answer": 3,
+   "explanation": "The average kinetic energy, not the average speed, is the same if the temperatures are the same. Each container has one mole of gas, which means that at the same volume and temperature they will have the same pressure. The greater the molar mass, divided by a constant volume, the greater the density. One mole of gas will have Avogadro’s number of molecules.",
+   "source": "AP Chemistry · Practice Exam 2, Q20",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "When potassium perchlorate, KClO 4, dissolves in water, the temperature of the resultant solution is lower than the initial temperature of the components. Which of the following conclusions may be related to this?",
+   "choices": [
+    "This is a spontaneous process because of an entropy increase.",
+    "This is a spontaneous process because of an entropy decrease.",
+    "This is a spontaneous process because it is exothermic.",
+    "This is a spontaneous process because it is exothermic."
+   ],
+   "answer": 0,
+   "explanation": "The decrease in temperature indicates that the system absorbed heat, meaning that this is an endothermic process. For an endothermic process to be spontaneous, the entropy must increase.",
+   "source": "AP Chemistry · Practice Exam 2, Q21",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the reason that the lightest member of Group 15 does not follow the trend of the other members, which show that the boiling point decreases with decreasing atomic mass of the Group 15 element? The graph shows the variation of boiling point with Group number for the hydrogen compounds of the four lightest members of Group 15 on the periodic table (NH 3, PH 3, AsH 3 and SbH 3).",
+   "choices": [
+    "Hydrogen bonding",
+    "Ionic bonds",
+    "Hybrid orbitals",
+    "Resonance structures"
+   ],
+   "answer": 0,
+   "explanation": "Hydrogen bonding may occur when hydrogen is attached directly to N, O, or F.",
+   "source": "AP Chemistry · Practice Exam 2, Q22",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A dimer consists of two closely associated molecules. In the gas phase, acetic acid tends to form dimers as illustrated on the left in the above diagram. Acetyl chloride, on the right in the above diagram, is not very efficient in forming dimers. Why is acetic acid better able to form dimers than acetyl chloride?",
+   "choices": [
+    "It is easier to form a covalent bond between acetic acid molecules than between acetyl chloride molecules.",
+    "The molecular mass of acetyl chloride is higher than that of acetic acid making it harder for the acetyl chloride to form dimers.",
+    "Acetic acid is an acidic compound but acetyl chloride is a neutral compound.",
+    "Acetic acid can form strong hydrogen bonds but acetyl chloride can only form weaker dipole-dipole attractions."
+   ],
+   "answer": 3,
+   "explanation": "The two molecules are hydrogen bonded together. Hydrogen bonding is a relatively strong intermolecular force. Acetyl chloride cannot exhibit anything stronger than dipole-dipole forces, which are, in general, weaker than hydrogen bonds.",
+   "source": "AP Chemistry · Practice Exam 2, Q23",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Two compounds with the formula C 2 H 2 Cl 2 appear in the above diagram. These two compounds are isomers. The molecules are planar and have the approximate structures shown in the diagram. The boiling point of trans-1, 2-dichloroethene is 47.5°C and the boiling point of cis-1,2-dichloroethene is 60.3°C. Which of the following best explains why cis-1,2-dichloroethene has a higher boiling point than its isomer, trans-1, 2-dichloroethene?",
+   "choices": [
+    "The higher boiling isomer is better able to form hydrogen bonds than the other isomer.",
+    "The higher boiling isomer has greater London dispersion forces than the other isomer.",
+    "The higher boiling isomer is more polar than the other isomer.",
+    "The higher boiling isomer has a greater molar mass."
+   ],
+   "answer": 2,
+   "explanation": "The higher boiling isomer is more polar than the other isomer because the two very electronegative chlorine atoms are on one side, which leads to their polar bonds working together. When the chlorine atoms are on opposite sides, their polar bonds work against each other.",
+   "source": "AP Chemistry · Practice Exam 2, Q24",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "If a sample of Kr effuses at a rate of 35 mL per second at 298 K, which of the gases below will effuse at approximately double the rate under the same conditions?",
+   "choices": [
+    "Ar",
+    "He",
+    "Ne",
+    "Impossible to determine"
+   ],
+   "answer": 2,
+   "explanation": "Use Graham’s law; a molecule with one-fourth the molar mass will diffuse at double the rate. Neon is the nearest to one-fourth the molar mass of krypton.",
+   "source": "AP Chemistry · Practice Exam 2, Q28",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Assuming all four gases are behaving ideally, which of the following is the same for all the gas samples?",
+   "choices": [
+    "Average kinetic energy of the atoms",
+    "All properties are the same for gases behaving ideally",
+    "Average speed of the atoms",
+    "Density of the gas in the container"
+   ],
+   "answer": 0,
+   "explanation": "This is a consequence of kinetic molecular theory. The average kinetic energy depends only on the absolute temperature.",
+   "source": "AP Chemistry · Practice Exam 2, Q29",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the gases will show the greatest deviation from ideal behavior?",
+   "choices": [
+    "Ar",
+    "Kr",
+    "Ne",
+    "He"
+   ],
+   "answer": 1,
+   "explanation": "Heavier nonpolar species exhibit greater London dispersion forces, and stronger attractive forces lead to greater deviation from ideal behavior under a given set of conditions.",
+   "source": "AP Chemistry · Practice Exam 2, Q30",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Containers A, B, and C are not at equilibrium. If each container begins with equal amounts of the indicated substances present at the same temperature, which of the three will reach equilibrium first?",
+   "choices": [
+    "A because producing products from reactants is faster than the reverse.",
+    "It is impossible to determine which will reach equilibrium first.",
+    "C because there are both reactants and products already in the container.",
+    "B because producing reactants from products is faster than the reverse."
+   ],
+   "answer": 1,
+   "explanation": "The amount of time necessary is a kinetics problem. There is not kinetic data presented to make the determination possible.",
+   "source": "AP Chemistry · Practice Exam 2, Q32",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "If the moles of HCl in container B are equal to five times the O 2 present, what can be said about the moles of O 2 present at equilibrium?",
+   "choices": [
+    "It will be zero because it is the limiting reagent",
+    "It will be increase",
+    "It will remain the same",
+    "It is impossible to determine"
+   ],
+   "answer": 3,
+   "explanation": "To determine the amount, it would be necessary to know the value of the equilibrium constant. A cannot be correct because it is not possible for the amount of any of the materials to be zero at equilibrium. B and C cannot be correct because at least some of the O 2 would be converted to Cl 2 and H 2 O leading to a decrease in the amount.",
+   "source": "AP Chemistry · Practice Exam 2, Q34",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "All the bases in the diagram behave as Brønsted-Lowry bases in the same way; in each case, they accept a hydrogen ion to the same atom. How is this acceptance of a hydrogen ion accomplished?",
+   "choices": [
+    "The hydrogen ion forms a hydrogen bond to the base.",
+    "The hydroxide ion reacts with the hydrogen ion to form water.",
+    "A hydrogen ion attaches to the lone pair on the nitrogen atom.",
+    "The hydrogen ion combines with a hydrogen atom from the base to form H 2 gas."
+   ],
+   "answer": 2,
+   "explanation": "As in ammonia, all these compounds behave as Brønsted-Lowry bases by accepting a hydrogen ion. The reaction involves the hydrogen ion attaching to the lone pair on the nitrogen atoms.",
+   "source": "AP Chemistry · Practice Exam 2, Q36",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following explains why the pH of a hydroxylamine solution is lower than any of the other solutions?",
+   "choices": [
+    "The presence of carbon makes the bases less stable.",
+    "There is insufficient information to explain this observation.",
+    "The −OH is capable of donating a hydrogen ion, which will lower the pH.",
+    "The presence of the very electronegative oxygen inhibits the nitrogen atom from donating its electron pair."
+   ],
+   "answer": 3,
+   "explanation": "These are all bases because the nitrogen atom is capable of reacting with a hydrogen ion by donating its lone pair to the hydrogen ion. The oxygen atom pulls electron density away from the nitrogen atom causing the nitrogen atom to attract the lone pair more strongly making it less able to donate the pair to a hydrogen ion.",
+   "source": "AP Chemistry · Practice Exam 2, Q37",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Oxidation of which of the following substances will yield a stronger acid?",
+   "choices": [
+    "HNO 2",
+    "H 2 SO 4",
+    "HNO 3",
+    "H 3 PO 4"
+   ],
+   "answer": 0,
+   "explanation": "Only A can undergo oxidation, as there are higher oxidation states of nitrogen. For example, HNO 3 is the most likely oxidation product and, unlike HNO 2 , it is a strong acid.",
+   "source": "AP Chemistry · Practice Exam 2, Q38",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Choose the reaction expected to have the greatest decrease in entropy.",
+   "choices": [
+    "2 Na(s) + O 2 (g) → Na 2 O 2 (s)",
+    "CH 4 (g) + 2 O 2 (g) → CO 2 (g) + 2 H 2 O(g)",
+    "2 NI 3 (s) → 3 I 2 (s) + N 2 (g)",
+    "C(s) + CO 2 (g) → 2 CO(g)"
+   ],
+   "answer": 0,
+   "explanation": "In general, gases have much higher entropy than either liquids or solids. For this reason, the predictions depends primarily upon which reaction results in the greatest decrease in the number of moles of gas. A and D both result in an increase in the number of moles of gas, so there is an increase in entropy. C shows no change in the number of moles of gas; therefore, the change in entropy will be small.",
+   "source": "AP Chemistry · Practice Exam 2, Q40",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A certain reaction is nonspontaneous under standard conditions, but becomes spontaneous at higher temperatures. What conclusions may be drawn under standard conditions?",
+   "choices": [
+    "Δ H > 0, Δ S < 0 and Δ G > 0",
+    "Δ H > 0, Δ S > 0 and Δ G > 0",
+    "Δ H < 0, Δ S < 0 and Δ G = 0",
+    "Δ H < 0, Δ S < 0 and Δ G > 0"
+   ],
+   "answer": 1,
+   "explanation": "The relationship, given on the equations page of the exam is Δ G = Δ H − T Δ S . Nonspontaneous under standard conditions means: Δ G > 0. To become spontaneous, Δ G must be less than zero. Increasing the temperature will change the T Δ S term (entropy). If Δ H is greater than zero and Δ S is also greater than zero, the combination will be positive as long as the Δ H is greater than T Δ S . As the temperature increases, T Δ S will eventually become larger than Δ H making the process spontaneous.",
+   "source": "AP Chemistry · Practice Exam 2, Q41",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the correct order of increasing acid strength?",
+   "choices": [
+    "H 2 SO 3 < H 2 SeO 3 < HClO < HBrO",
+    "H 2 SeO 3 < H 2 SO 3 < HClO < HBrO",
+    "HBrO < HClO < H 2 SeO 3 < H 2 SO 3",
+    "HClO < H 2 SeO 3 < HBrO < H 2 SO 3"
+   ],
+   "answer": 2,
+   "explanation": "In general, the more oxygen atoms present not attached to hydrogen atoms, the stronger the oxyacid. If two oxyacids have the same number of oxygen atoms not attached to hydrogen atoms, the acid with the more electronegative central atom is the stronger acid. The number of oxygen atoms without hydrogen atoms attached are HClO = 0, HBrO = 0, H 2 SeO 3 = 1, and H 2 SO 3 = 1. The electronegativities increase in the order Se < S and Br < Cl.",
+   "source": "AP Chemistry · Practice Exam 2, Q42",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A large number of compounds adopt the sodium chloride structure. The following table contains some examples of the compounds in this group with their respective melting points and the sum of the cation-anion radii. Why are the melting points of the alkaline earth oxides (CaO, SrO, and BaO) so much higher than those of the other two compounds in the table?",
+   "choices": [
+    "Smaller ionic charges lead to higher lattice energy.",
+    "Larger ions have higher lattice energy.",
+    "Higher ionic charges lead to higher lattice energy.",
+    "Smaller ions have lower lattice energy."
+   ],
+   "answer": 2,
+   "explanation": "The melting points of ionic compounds increase with increasing lattice energy. Lattice energy increases with increasing ionic charge and with decreasing sum of ionic radii. It is apparent from comparing NaF to CaO that charge is more important than small changes in radii. The charges are Na + , Ca 2+ , Sr 2+ , Ba 2+ , F − , Cl − , and O 2− .",
+   "source": "AP Chemistry · Practice Exam 2, Q43",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Why do the melting points of the alkaline metal oxides decrease in the order CaO > SrO > BaO?",
+   "choices": [
+    "Larger ions have lower lattice energies, which leads to lower melting points.",
+    "Smaller ions have a greater affinity for oxygen, which leads to a higher melting point.",
+    "Smaller ions have lower lattice energies, which leads to higher melting points.",
+    "Larger ions have higher lattice energies, which leads to lower melting points."
+   ],
+   "answer": 0,
+   "explanation": "The melting points of ionic compounds increase with increasing lattice energy. Lattice energy increases with increasing ionic charge and with decreasing sum of ionic radii. The oxide ion radius is a constant, while the metal radii decrease in the order Ba 2+ > Sr 2+ > Ca 2+ . The decrease in metal radii is due to the smaller ions having fewer electron shells.",
+   "source": "AP Chemistry · Practice Exam 2, Q44",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Joseph Priestly discovered oxygen gas by the decomposition of solid mercury(II) oxide, HgO, to oxygen gas, O 2, and liquid mercury metal, Hg. How many moles of oxygen gas will form when 4.32 g of solid mercury(II) oxide decomposes? The formula mass of mercury(II) oxide is 216 g mol −1.",
+   "choices": [
+    "0.0100 mol",
+    "0.100 mol",
+    "0.0200 mol",
+    "0.0150 mol"
+   ],
+   "answer": 0,
+   "explanation": "The balanced chemical equation is: 2 HgO(s) → 2 Hg(l) + O 2 (g) The calculation is:",
+   "source": "AP Chemistry · Practice Exam 2, Q45",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Determine the H + (aq) concentration in 1.0 M phenol, C 6 H 5 OH, solution. (The K a for phenol is 1 × 10 −10.)",
+   "choices": [
+    "1 × 10 −10 M",
+    "1 × 10 −9 M",
+    "1 × 10 −5 M",
+    "1 × 10 −3 M"
+   ],
+   "answer": 2,
+   "explanation": "Since phenol has a K a values given, it is a weak acid, as such the equilibrium expression is: C 6 H 5 OH(aq) H + (aq) + C 6 H 5 O − (aq) Use the K a expression: This leads to: [H + ] = (1.0 × 1 × 10 −10 ) 1/2 = (1 × 10 −10 ) 1/2 = 1 × 10 −5 M",
+   "source": "AP Chemistry · Practice Exam 2, Q47",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The above equilibrium was established in a 1.00 L container at a certain temperature. Once the system came to equilibrium, it was found that the following amounts of materials were present in the container: (NH 4) 2 CO 3 = 8.00 moles, NH 3 = 4.00 moles, CO 2 = 2.00 moles, and H 2 O = 2.00 moles. Determine the value of K c at this temperature.",
+   "choices": [
+    "4.00",
+    "64.0",
+    "8.00",
+    "32.0"
+   ],
+   "answer": 3,
+   "explanation": "The carbon is a solid and the water is a liquid; therefore, neither of these will be in the calculation. Since the volume of the container is 1.00 L, the molarities of the other two substances are 4.00 M NH 3 and 2.00 M CO 2 . K c = [NH 3 ] 2 [CO 2 ] = (4.00) 2 (2.00) = 32.0",
+   "source": "AP Chemistry · Practice Exam 2, Q49",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution of a weak base is titrated with a solution of a standard strong acid. The progress of the titration is followed with a pH meter. Which of the following observations would occur?",
+   "choices": [
+    "Initially, the pH quickly decrease, then there is a gradual decrease to the equivalence point where the pOH equals the p K b of the base.",
+    "Initially, the pH slowly decreases, then there is a rapid decrease to give a pH equal to 7 at the equivalence point.",
+    "Initially, the pH slowly decreases, then there is a rapid decrease to give a pH below 7 at the equivalence point.",
+    "The pH of the solution gradually decreases throughout the experiment and the pH at the equivalence point is below 7."
+   ],
+   "answer": 2,
+   "explanation": "Strong acids and strong bases have pH = 7 at the equivalence point. The presence of a weak base with a strong acid lowers this value.",
+   "source": "AP Chemistry · Practice Exam 2, Q50",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The container in the above diagram had an initial volume of 10.0 L. The container was heated until the temperature was double the original temperature. After heating, the pressure was measured and the piston moved down until the pressure was four times the original value. What was the final volume of the container?",
+   "choices": [
+    "10.0 L",
+    "20.0 L",
+    "5.00 L",
+    "1.25 L"
+   ],
+   "answer": 2,
+   "explanation": "There are several ways of solving this problem. One way is to use the combined gas equation ( P 1 V 1 )/ T 1 = ( P 2 V 2 )/ T 2 . In this problem, V 1 = 10.0 L, T 2 = 2 T 1 , and P 2 = 4 P 1 . Rearranging the combined gas equation and entering the values gives:",
+   "source": "AP Chemistry · Practice Exam 2, Q53",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The diagram above shows the structure of molecules of CCl 4 and CBr 4 and the above table gives the boiling points and molar masses of the compounds. Which of the compounds is nonpolar?",
+   "choices": [
+    "Dibromodichloromethane",
+    "Dichlorodifluoromethane",
+    "Dibromodifluoromethane",
+    "Tetrafluoromethane"
+   ],
+   "answer": 3,
+   "explanation": "Tetrafluoromethane is the only nonpolar molecule in the diagram. All the other compounds are polar.",
+   "source": "AP Chemistry · Practice Exam 2, Q54",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "2 SO 2 (g) + O 2 (g) 2 SO 3 (g) The reaction above is allowed to continue until equilibrium is established. After equilibrium is established a catalyst is added to the system. How does the rate of the forward reaction compare to the rate of the reverse reaction after the addition of the catalyst?",
+   "choices": [
+    "There is insufficient information to determine the relative rates.",
+    "The forward and reverse rates are the same.",
+    "The reverse rate is faster than the forward rate.",
+    "The forward rate is faster than the reverse rate."
+   ],
+   "answer": 1,
+   "explanation": "The catalyst will increase the rate of both the forward and reverse reactions. The rates will still remain the same as the presence of a catalyst does not alter the position of the equilibrium, just the time necessary to reach equilibrium.",
+   "source": "AP Chemistry · Practice Exam 2, Q55",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A reaction has the following suggested mechanism: 1. NH 3 (aq) + OCl − (aq) → NH 2 Cl(aq) + OH − (aq) 2. NH 3 (aq) + NH 2 Cl(aq) → Cl − (aq) + N 2 H 5 + (aq) 3. OH − (aq) + N 2 H 5 + (aq) → N 2 H 4 (aq) + H 2 O(l) Referring to the above mechanism, which of the following would support the suggested mechanism?",
+   "choices": [
+    "The rate constant does not change with temperature.",
+    "The first step is the rate-determining step.",
+    "Heating increases the rate of the reaction.",
+    "Spectroscopy shows that N 2 H 5 + (aq) is present in trace amounts."
+   ],
+   "answer": 3,
+   "explanation": "The presence of N 2 H 5 + (aq) supports this mechanism because the detection of an intermediate supports the mechanism. None of the other choices support or refute the overall mechanism.",
+   "source": "AP Chemistry · Practice Exam 2, Q56",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Determine the final temperature, in °C, of a sample of helium gas. The sample initially occupied a volume of 5.00 L at 127°C and 875 mm Hg. The sample was heated, at constant pressure, until it occupied a volume of 10.00 L.",
+   "choices": [
+    "454°C",
+    "527°C",
+    "45°C",
+    "181°C"
+   ],
+   "answer": 1,
+   "explanation": "It is necessary to convert the temperature to kelvin and back again. T 2 = ( V 2 T 1 )/ V 1 = [(10.00 L × (127 + 273) K)/(5.00 L)] − 273 = 527°C Simplified by (10.00/5.0) = 2.00; therefore, 400 K × 2 = 800 − 273 = 527°C.",
+   "source": "AP Chemistry · Practice Exam 2, Q57",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution contains 2.00 mole of acetic acid, CH 3 COOH, and 1.00 mole of calcium acetate, Ca(CH 3 COO) 2. The solution is able to resist the addition of a small amount of strong acid or strong base with only minor changes in the pH of the solution. Larger quantities of strong acid or strong base can cause a significant change in pH. How many moles of nitric acid, HNO 3, may be added before the pH begins to change significantly?",
+   "choices": [
+    "1.00 mole",
+    "3.00 mole",
+    "2.00 mole",
+    "0.500 mole"
+   ],
+   "answer": 2,
+   "explanation": "The original solution is a buffer, which will resist changes in pH until all the acetic acid or acetate ions are reacted. The reaction of nitric acid with the acetate ion is HNO 3 (aq) + CH 3 COO - (aq) → CH 3 COOH(aq) + NO 3 − (aq) One mole releases 2.00 mole of acetate ion into the solution. As long as any of the acetate ion remains, the solution will have some buffering ability and the pH will remain about the same. Once sufficient nitric acid has been added to react with all the acetate ion, it is possible to drastically lower the pH by adding more acid. The reaction will require 2.00 moles of nitric acid to completely react with the acetate ion.",
+   "source": "AP Chemistry · Practice Exam 2, Q58",
+   "topic": "Practice Exam 2",
+   "topic_n": 1
+  }
+ ]
+}

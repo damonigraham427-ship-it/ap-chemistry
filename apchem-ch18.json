@@ -1,0 +1,46 @@
+{
+ "questions": [
+  {
+   "question": "Cycloalkanes are hydrocarbons with the general formula C n H 2 n. If a 0.500 g sample of any alkene is combusted in excess oxygen, how many moles of water will form?",
+   "choices": [
+    "0.50",
+    "0.072",
+    "0.036",
+    "1.0"
+   ],
+   "answer": 2,
+   "explanation": "The general formula, C n H 2 n , means that 1 mol of H 2 O will form per mole of empirical formula unit, regardless of the value of n . The moles of water formed are the mass of the alkene divided by the empirical formula mass. (0.500 g alkene)(1 mol alkene/14 g alkene)(1 mol H 2 O/mol alkene) = 0.036 mol.",
+   "source": "AP Chemistry · Chapter 18 — Organic Chemistry, Q1",
+   "topic": "Chapter 18 — Organic Chemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following compounds is optically active?",
+   "choices": [
+    "CH 3 CH 2 CH 2 CH 2 OH",
+    "CH 3 CH 2 CHClCH 2 CH 3",
+    "CH 3 CH˙CHCH 2 CH 3",
+    "CH 3 CHClCH 2 CH 2 CH 3"
+   ],
+   "answer": 3,
+   "explanation": "Redrawing the structures may help you to recognize the correct answer. An optical isomer must be a carbon atom with four different groups attached to it. For A, the groups on the second carbon are: CH 3 [, H, Cl, and [CH 2 CH 2 CH 3 . Answer C is misleading. It is similar to A, but two of the groups, the [CH 2 CH 3 groups, are the same.",
+   "source": "AP Chemistry · Chapter 18 — Organic Chemistry, Q4",
+   "topic": "Chapter 18 — Organic Chemistry",
+   "topic_n": 1
+  },
+  {
+   "question": "A carboxylic acid may be represented as:",
+   "choices": [
+    "ROH",
+    "RCOOH",
+    "R-O-R",
+    "RCHO"
+   ],
+   "answer": 1,
+   "explanation": "A = alcohol, B = aldehyde, C = ether",
+   "source": "AP Chemistry · Chapter 18 — Organic Chemistry, Q5",
+   "topic": "Chapter 18 — Organic Chemistry",
+   "topic_n": 1
+  }
+ ]
+}

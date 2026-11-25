@@ -1,0 +1,200 @@
+{
+ "questions": [
+  {
+   "question": "A solution is prepared by dissolving 1.25 g of an unknown substance in 100.0 mL of water. Which procedure from the following list could be used to determine whether the solute is an electrolyte?",
+   "choices": [
+    "Measure the specific heat of the solution.",
+    "Measure the volume of the solution.",
+    "Measure the freezing point of the solution.",
+    "Determine the specific heat of the solution."
+   ],
+   "answer": 2,
+   "explanation": "If the solute is an electrolyte, the solution will conduct electricity and the van’t Hoff factor, i , will be greater than 1. The choices do not include any conductivity measurements; therefore, the van’t Hoff factor would need to be determined. This determination is done by measuring the osmotic pressure, the boiling-point elevation, or the freezing-point depression. The freezing point depression may be found by measuring the freezing point of the solution.",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q1",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the final K + concentration in a solution made by mixing 300.0 mL of 1.0 M KNO 3 and 700.0 mL of 2.0 M K 3 PO 4?",
+   "choices": [
+    "4.5 M",
+    "3.0 M",
+    "5.0 M",
+    "2.0 M"
+   ],
+   "answer": 0,
+   "explanation": "The potassium ion contribution from the KNO 3 is: (300.0 mL)(1.0 mol KNO 3 /1,000 mL)(1 mol K + /1 mol KNO 3 ) = 0.300 mol K + The potassium ion contribution from K 3 PO 4 is: (700.0 mL)(2.0 mol K 3 PO 4 /1,000 mL)(3 mol K + /1 mol K 3 PO 4 ) = 4.20 mol K + The total potassium is 4.50 mol in a total volume of 1.000 L. Thus, the potassium concentration is 4.50 M .",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q2",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "Strontium sulfate, SrSO 4, will precipitate when a solution of sodium sulfate is added to a strontium nitrate solution. What will be the strontium ion, Sr 2+, concentration remaining after 30.0 mL of 0.10 M Na 2 SO 4 solution are added to 70.0 mL of 0.20 M Sr(NO 3) 2 solution?",
+   "choices": [
+    "0.14 M",
+    "0.15 M",
+    "0.11 M",
+    "0.20 M"
+   ],
+   "answer": 2,
+   "explanation": "The reaction is: Sr 2+ (aq) + SO 4 2– (aq) → SrSO 4 (s) The strontium nitrate solution contains: (70.0 mL)(0.20 mol Sr(NO 3 ) 2 /1,000 mL) × (1 mol Sr 2+ /1 mol Sr(NO 3 ) 2 ) = 0.014 mol Sr 2+ The sodium sulfate solution contains: (30.0 mL)(0.10 mol Na 2 SO 4 /1,000 mL)(1 mol SO 4 2– /1 mol Na 2 SO 4 ) = 0.0030 mol SO 4 2– The strontium and sulfate ions react in a 1:1 ratio, so 0.0030 mol of sulfate ion will combine with 0.0030 mol of strontium ion, leaving 0.011 mol of strontium in a total volume of 100.0 mL. The final strontium ion concentration is:",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q3",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a strong electrolyte when it is mixed with water?",
+   "choices": [
+    "HNO 2",
+    "CH 3 COOH",
+    "C 2 H 5 OH",
+    "KNO 3"
+   ],
+   "answer": 3,
+   "explanation": "A (nitrous acid) and D (acetic acid) are weak acids. Weak acids and bases are weak electrolytes. C (ethanol) is a nonelectrolyte. Potassium nitrate (B) is a water- soluble ionic compound, which is normally a strong electrolyte.",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q4",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution with a total chloride ion, Cl −, concentration of 1.0 M is needed. Initially, the solution is 0.30 M in MgCl 2. How many moles of solid CaCl 2 must be added to 400 mL of the MgCl 2 solution to achieve the desired concentration of chloride ion?",
+   "choices": [
+    "0.10",
+    "0.20",
+    "0.080",
+    "0.15"
+   ],
+   "answer": 2,
+   "explanation": "The number of moles of chloride ion needed is: (400 mL)(1.0 mol Cl – /1,000 mL) = 0.40 mol Cl – The initial number of moles of chloride ion in the solution is: (400 mL)(0.30 mol MgCl 2 /1,000 mL)(2 mol Cl – /mol MgCl 2 ) = 0.24 mol Cl – The number of moles needed = [(0.40 – 0.24) mol Cl – ](1 mol CaCl 2 /2 mol Cl – ) = 0.080 mol",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q5",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "Assuming the volumes are additive, what is the final H + (aq) concentration produced by adding 30.0 mL of 0.50 M HNO 3 to 70.0 mL of 1.00 M HCl?",
+   "choices": [
+    "1.50 M",
+    "0.75 M",
+    "0.85 M",
+    "1.25 M"
+   ],
+   "answer": 2,
+   "explanation": "Both of the acids are strong acids and yield 1 mol of H + each. Calculate the number of moles of H + produced by each of the acids. Divide the total number of moles by the final volume. (30.0 mL)(0.50 mol H + /1,000 mL) + (70.0 mL) × (1.00 mol H + /1,000 mL) = 0.085 mol H +",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q6",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "To prepare 3.0 L of a 0.20 molar K 3 PO 4 solution (molecular weight 212 g/mol), a student should follow which of the following procedures?",
+   "choices": [
+    "The student should weigh 42 g of solute and add 3.0 Kg of water.",
+    "The student should weigh 42 g of solute and add sufficient water to obtain a final volume of 3.0 L.",
+    "The student should weigh 130 g of solute and add sufficient water to obtain a final volume of 3.0 L.",
+    "The student should weigh 42 g of solute and add 3.0 L of water."
+   ],
+   "answer": 2,
+   "explanation": "To produce a molar solution of any type, the final volume must be the desired volume. This eliminates answer D. B involves mass of water instead of volume. A calculation of the required mass will allow a decision between A and C. (3.0 L)(0.20 mol K 3 PO 4 /L)(212 g K 3 PO 4 / 1 mol K 3 PO 4 ) = 130 g K 3 PO 4",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q7",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "How many grams of MgSO 4 (molecular weight 120.4 g/mol) are in 100.0 mL of a 5.0 molar solution?",
+   "choices": [
+    "5.0 g",
+    "60.0 g",
+    "600 g",
+    "12 g"
+   ],
+   "answer": 1,
+   "explanation": "(5.0 mol MgSO 4 /1,000 mL)(100.0 mL) × (120.4 g MgSO 4 /mol MgSO 4 ) = 60.0 g MgSO 4",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q8",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "How many milliliters of concentrated nitric acid (16.0 molar HNO 3) are needed to prepare 0.500 L of 6.0 molar HNO 3?",
+   "choices": [
+    "375 mL",
+    "0.19 mL",
+    "190 mL",
+    "250 mL"
+   ],
+   "answer": 2,
+   "explanation": "This is a dilution problem. V before = ( M after )( V after )/( M before ) (6.0 M HNO 3 )(0.500 L)(1,000 mL/1 L)/ (16.0 M HNO 3 ) = 190 mL",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q9",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution has 10 grams of urea in 100 grams of solution. Which item(s) from the following list are needed to calculate the molarity of this solution?",
+   "choices": [
+    "the density of the solvent and the density of the solution",
+    "the density of the solution and the molecular weight of urea",
+    "the molecular weight of urea and the density of the solvent",
+    "the density of the solution and the molecular weight of urea"
+   ],
+   "answer": 1,
+   "explanation": "To calculate the molarity, the moles of urea and the volume of the solution are necessary. The density of the solution and the mass of the solution give the volume of the solution (it may be necessary to convert to liters). The mass of urea and the molecular weight of urea give the moles of urea.",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q10",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following aqueous solutions would have the greatest conductivity?",
+   "choices": [
+    "0.2 M NaOH",
+    "0.2 M K 3 PO 4",
+    "0.2 M RbCl",
+    "0.2 M HNO 2"
+   ],
+   "answer": 1,
+   "explanation": "The strong electrolyte with the greatest concentration of ions is the best conductor. D is a weak electrolyte, not a strong electrolyte. The number of ions for the strong electrolytes may be found by simply counting the ions: A – 2, B – 2, C – 4. The best conductor has the greatest value when the molarity is multiplied by the number of ions.",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q11",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "How many milliliters of water must be added to 50.0 mL of 10.0 M HNO 3 to prepare 4.00 M HNO 3, assuming that the volumes of nitric acid and water are additive?",
+   "choices": [
+    "50.0 mL",
+    "75.0 mL",
+    "125 mL",
+    "500 mL"
+   ],
+   "answer": 1,
+   "explanation": "This is a dilution problem. V after = ( M before V before )/( M after ) (10.0 M HNO 3 × 50.0 mL)/(4.0 M HNO 3 ) = 125 mL The final volume is 125 mL. Since the original volume was 50.0 mL, an additional 75.0 mL must be added.",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q12",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "The best method to isolate pure MgSO 4 from an aqueous solution of MgSO 4 is:",
+   "choices": [
+    "electrolyze the solution",
+    "titrate the solution",
+    "evaporate the solution to dryness",
+    "use paper chromatography"
+   ],
+   "answer": 2,
+   "explanation": "Solutions cannot be separated by titrations or filtering. Electrolysis of the solution would produce hydrogen and oxygen gas. Chromatography might achieve a minimal separation.",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q13",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  },
+  {
+   "question": "Pick the conditions that would yield the highest concentration of N 2 (g) in water.",
+   "choices": [
+    "partial pressure of gas = 2.0 atm; temperature of water = 85°C",
+    "partial pressure of gas = 2.0 atm; temperature of water = 25°C",
+    "partial pressure of gas = 1.0 atm; temperature of water = 25°C",
+    "partial pressure of gas = 0.50 atm; temperature of water = 55°C"
+   ],
+   "answer": 1,
+   "explanation": "The solubility of a gas is increased by increasing the partial pressure of the gas and by lowering the temperature.",
+   "source": "AP Chemistry · Chapter 13 — Solutions and Colligative Properties, Q14",
+   "topic": "Chapter 13 — Solutions and Colligative Properties",
+   "topic_n": 1
+  }
+ ]
+}

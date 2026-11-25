@@ -1,0 +1,228 @@
+{
+ "questions": [
+  {
+   "question": "A sample of argon gas is sealed in a container. The volume of the container is doubled. If the pressure remains constant, what happens to the absolute temperature?",
+   "choices": [
+    "It is doubled.",
+    "It is halved.",
+    "It does not change.",
+    "It is squared."
+   ],
+   "answer": 0,
+   "explanation": "This question relates to the combined gas law: P 1 V 1 / T 1 = P 2 V 2 / T 2 . Since the pressure remains constant, the pressures may be removed from the combined gas law to produce Charles’s law: V 1 / T 1 = V 2 / T 2 . This equation may be rearranged to: T 2 = V 2 T 1 / V 1 . The doubling of the volume means V 2 = 2 V 1 . On substituting: T 2 = 2 V 1 T 1 / V 1 ; giving T 2 = 2 T 1 . The identity of the gas is irrelevant in this problem.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q1",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A sealed, rigid container is filled with three ideal gases: A, B, and C. The partial pressure of each gas is known. The temperature and volume of the system are known. What additional information is necessary to determine the masses of the gases in the container?",
+   "choices": [
+    "the average distance traveled between molecular collisions",
+    "the total pressure",
+    "the molar masses of the gases",
+    "the intermolecular forces"
+   ],
+   "answer": 2,
+   "explanation": "This problem depends on the ideal gas equation: PV = nRT . R, V , and T are known, and by using the partial pressure for a gas, the number of moles of that gas may be determined. To convert from moles to mass, the molar mass of the gas is necessary.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q2",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Two balloons are at the same temperature and pressure. One contains 14 g of nitrogen and the other contains 20.0 g of argon. Which of the following is true?",
+   "choices": [
+    "The average speed of the nitrogen molecules is greater than the average speed of the argon molecules.",
+    "The average kinetic energy of the nitrogen molecules is greater than the average kinetic energy of the argon molecules.",
+    "The density of the nitrogen sample is greater than the density of the argon sample.",
+    "The volume of the nitrogen container is less than the volume of the argon container."
+   ],
+   "answer": 0,
+   "explanation": "Since T and P are known, and since the moles ( n ) can be determined from the masses given, this question could use the ideal gas equation. The number of moles of each gas is 0.50. Equal moles of gases, at the same T and P , have equal volumes, which eliminates answer choice D. Equal volume also means that the greater mass has the greater density, eliminating choice A. The average kinetic energy of a gas depends on the temperature. If the temperatures are the same, then the average kinetic energy is the same, eliminating C. Finally, at the same temperature, heavier gases travel slower than lighter gases. Nitrogen is lighter than argon, so it travels at a faster average speed, making B the correct answer. You may find this type of reasoning process beneficial on any question in which you do not immediately know the answer.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q3",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "An experiment to determine the molar mass of a gas begins by heating a solid to produce a gaseous product. The gas passes through a tube and displaces water in an inverted, water-filled bottle. Which of the following items may be determined after the experiment is completed?",
+   "choices": [
+    "temperature of the displaced water",
+    "mass of the solid used",
+    "barometric pressure in the room",
+    "vapor pressure of water"
+   ],
+   "answer": 3,
+   "explanation": "This experiment requires the ideal gas equation. The mass of the solid is needed (to convert to moles); this eliminates answer choice D. The volume, temperature, and pressure must also be measured during the experiment, eliminating choices B and C. The measured pressure is the total pressure. Eventually the total pressure must be converted to the partial pressure of the gas using Dalton’s law. The total pressure is the sum of the pressure of the gas plus the vapor pressure of water. The vapor pressure of water can be looked up in a table when the calculations are performed (only the temperature is needed to find the vapor pressure in a table). Answer A is correct.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q4",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "The true volume of a real gas is larger than that calculated from the ideal gas equation. This occurs because the ideal gas equation does consider which of the following?",
+   "choices": [
+    "the mass of the molecules",
+    "the volume of the molecules",
+    "the shape of the molecules",
+    "the attraction between the molecules"
+   ],
+   "answer": 1,
+   "explanation": "Real gases are different from ideal gases because of two basic factors (see the van der Waals equation): molecules have a volume, and molecules attract each other. The molecules’ volume is subtracted from the observed volume for a real gas (giving a smaller volume), and the pressure has a term added to compensate for the attraction of the molecules (correcting for a smaller pressure). Since these are the only two directly related factors, answers B and D are eliminated. The question is asking about volume; thus, the answer is C.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q5",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Aluminum metal reacts with HCl to produce aluminum chloride and hydrogen gas. How many grams of aluminum metal must be added to an excess of HCl to produce 33.6 L of hydrogen gas, if the gas is at STP?",
+   "choices": [
+    "18.0 g",
+    "4.50 g",
+    "35.0 g",
+    "27.0 g"
+   ],
+   "answer": 3,
+   "explanation": "A balanced chemical equation is necessary: 2 Al(s) + 6 HCl(aq) → 2 AlCl 3 (aq) + 3 H 2 (g) The reaction produced 33.6 L/22.4 L or 1.50 mol, at STP. To produce this quantity of hydrogen, (2 mol Al/3 mol H 2 ) × 1.50 mol H 2 = 1.00 mol of Al is needed. The atomic weight of Al is 27.0 g/mol; thus, 27.0 g of Al are required.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q6",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A reaction produces a gaseous mixture of carbon dioxide, carbon monoxide, and water vapor. After one reaction, the mixture was analyzed and found to contain 0.60 mol of carbon dioxide, 0.30 mol of carbon monoxide, and 0.10 mol of water vapor. If the total pressure of the mixture was 0.80 atm, what was the partial pressure of the carbon monoxide?",
+   "choices": [
+    "0.13 atm",
+    "0.080 atm",
+    "0.24 atm",
+    "0.34 atm"
+   ],
+   "answer": 2,
+   "explanation": "The partial pressure of any gas is equal to its mole fraction times the total pressure. The mole fraction of carbon monoxide is [0.30/(0.60 + 0.30 + 0.10)] = 0.30, and the partial pressure of CO is 0.30 × 0.80 atm = 0.24 atm.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q7",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample of methane gas was collected over water at 35°C. The sample had a total pressure of 756 mm Hg. Determine the partial pressure of the methane gas in the sample. (The vapor pressure of water at 35°C is 41 mm Hg.)",
+   "choices": [
+    "760 mm Hg",
+    "715 mm Hg",
+    "41 mm Hg",
+    "797 mm Hg"
+   ],
+   "answer": 1,
+   "explanation": "Using Dalton’s law ( P Total = P A + P B + . . .), the partial pressure may be found by: 756 mm Hg – 41 mm Hg = 715 mm Hg",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q8",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A 1.15 mol sample of carbon monoxide gas has a temperature of 27°C and a pressure of 0.300 atm. If the temperature were lowered to 17°C, at constant volume, what would be the new pressure?",
+   "choices": [
+    "0.519 atm",
+    "0.338 atm",
+    "0.290 atm",
+    "0.206 atm"
+   ],
+   "answer": 2,
+   "explanation": "You can begin by removing the volume (constant) from the combined gas law to produce Gay-Lussac’s law = P 1 / T 1 = P 2 / T 2 . This equation rearranges to P 2 = P 1 T 2 / T 1 = 0.300 atm × 290.0 K)/(300.0 K) = 0.290 atm. Estimation works well in the question as the “slight” temperature change should give a slight decrease in pressure. The moles are not important since they do not change. Some of the other answers result from common errors.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q9",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "An ideal gas sample weighing 1.28 g at 127°C and 1.00 atm has a volume of 0.250 L. Determine the molar mass of the gas.",
+   "choices": [
+    "168 g/mol",
+    "322 g/mol",
+    "0.00621 g/mol",
+    "80.5 g/mol"
+   ],
+   "answer": 0,
+   "explanation": "The molar mass may be obtained by dividing the grams by the number of moles (calculated from the ideal gas equation). Estimation works in this case as n = PV / RT = (0.25)/(0.1 × 400). Do not forget to convert the temperature to kelvin.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q10",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Increasing the temperature of an ideal gas from 50°C to 75°C at constant volume will cause which of the following to increase for the gas?",
+   "choices": [
+    "the density of the gas",
+    "the average distance between the molecules",
+    "the average molecular mass of the gas",
+    "the average speed of the molecules"
+   ],
+   "answer": 3,
+   "explanation": "Choice B requires an increase in volume, not allowed by the problem. Choice C requires an increase in temperature. Choice A requires a change in the composition of the gas. Choice D requires a decrease in the volume.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q11",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "If a sample of CH 4 effuses at a rate of 9.0 mol per hour at 35°C, which of the gases below will effuse at approximately twice the rate under the same conditions?",
+   "choices": [
+    "O 2",
+    "F 2",
+    "CO",
+    "He"
+   ],
+   "answer": 3,
+   "explanation": "Lighter gases effuse faster. The only gas among the choices that is lighter than methane is helium. To calculate the molar mass, you would begin with the molar mass of methane and divide by the rate difference squared.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q12",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "A steel tank containing argon gas has additional argon gas pumped into it at constant temperature. Which of the following is true for the gas in the tank?",
+   "choices": [
+    "There is no change in the number of gas atoms.",
+    "There is a decrease in the pressure exerted by the gas.",
+    "The gas atoms travel with the same average speed.",
+    "There is an increase in the volume of the gas."
+   ],
+   "answer": 2,
+   "explanation": "A steel tank will have a constant volume, and the problem states that the temperature is constant. Adding gas to the tank will increase the number of moles of the gas and the pressure (forcing the argon atoms closer together). A constant temperature means there will be a constant average speed.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q13",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Choose the gas that probably shows the greatest deviation from ideal gas behavior.",
+   "choices": [
+    "SF 4",
+    "He",
+    "O 2",
+    "SiH 4"
+   ],
+   "answer": 0,
+   "explanation": "Deviations from ideal behavior depend on the size and the intermolecular forces between the molecules. The greatest deviation would be for a large polar molecule. Sulfur tetrafluoride is the largest molecule, and it is the only polar molecule listed.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q14",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Determine the formula for a gaseous silane (Si n H 2 n +2) if it has a density of 5.47 g per L at 0°C and 1.00 atm.",
+   "choices": [
+    "Si 3 H 8",
+    "Si 2 H 6",
+    "Si 4 H 10",
+    "SiH 4"
+   ],
+   "answer": 2,
+   "explanation": "The molar mass of gas must be determined. The simplest method to find the molar mass is: (5.47 g/L) × (22.4 L/mol) = 123 g/mol (simple factor label). The molar mass may also be determined by dividing the mass of the gas by the moles (using 22.4 L/mol for a gas at STP and using 1 L). If you did not recognize the conditions as STP, you could find the moles from the ideal gas equation. The correct answer is the gas with the molar mass closest to 123 g/mol.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q15",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best explains why a hot air balloon rises?",
+   "choices": [
+    "The cool outside air pushes the balloon higher.",
+    "The heating of the air causes the pressure inside the balloon to increase.",
+    "Hot air has a lower density than cold air.",
+    "The temperature difference between the inside and outside air causes convection currents."
+   ],
+   "answer": 2,
+   "explanation": "The hot air balloon rises because it has a lower density than air. Less dense objects will float on more dense objects. In other words, “lighter” objects will float on “heavy” objects.",
+   "source": "AP Chemistry · Chapter 8 — Gases, Q16",
+   "topic": "Chapter 8 — Gases",
+   "topic_n": 1
+  }
+ ]
+}

@@ -1,0 +1,564 @@
+{
+ "questions": [
+  {
+   "question": "Use the following information to answer questions 1−7. Sodium azide, NaN 3, is a component of automobile airbags. It is useful because it quickly decomposes to generate a large volume of nitrogen gas. The balanced chemical equation for the reaction is: 2 NaN 3 (s) → 2 Na(s) + 3 N 2 (g) There are additional components in the airbag to react with the elemental sodium formed. Sodium azide is an unstable compound; therefore, it is often necessary to analyze samples as a check of its purity. A chemist is attempting to develop a new analytical, which employs the following reaction: NaN 3 (aq) + Na 2 S(aq) + 3 H 2 O(l) → N 2 (g) + NH 3 (g) + S(s) + 3 NaOH(aq) The chemist weighed a small flask both with and without a sample of sodium azide and recorded the masses. Next, she connected the flask to the system shown below. The flask in the middle and the rubber tubing leading to the beaker were completely filled with dilute acid, and then the clamp was removed. Excess sodium sulfide solution was added to the flask containing the sample. The liquid level in the second flask dropped as the generated nitrogen gas displaced the water into the beaker. The system was left intact until gas generation ceased. After the system returned to room temperature, the beaker was raised until the water in the beaker was at the same level as in the second flask. When the liquid levels were the same, the clamp was replaced to prevent further transfer. The chemist completed the following data table in her lab book. What type of reaction generated the nitrogen gas?",
+   "choices": [
+    "Decomposition",
+    "Combustion",
+    "Oxidation-reduction",
+    "Combination"
+   ],
+   "answer": 2,
+   "explanation": "The reaction is an oxidation-reduction reaction since the sulfide ion undergoes oxidation to elemental sulfur and the azide ion undergoes reduction.",
+   "source": "AP Chemistry · Practice Exam 1, Q1",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 1−7. Sodium azide, NaN 3, is a component of automobile airbags. It is useful because it quickly decomposes to generate a large volume of nitrogen gas. The balanced chemical equation for the reaction is: 2 NaN 3 (s) → 2 Na(s) + 3 N 2 (g) There are additional components in the airbag to react with the elemental sodium formed. Sodium azide is an unstable compound; therefore, it is often necessary to analyze samples as a check of its purity. A chemist is attempting to develop a new analytical, which employs the following reaction: NaN 3 (aq) + Na 2 S(aq) + 3 H 2 O(l) → N 2 (g) + NH 3 (g) + S(s) + 3 NaOH(aq) The chemist weighed a small flask both with and without a sample of sodium azide and recorded the masses. Next, she connected the flask to the system shown below. The flask in the middle and the rubber tubing leading to the beaker were completely filled with dilute acid, and then the clamp was removed. Excess sodium sulfide solution was added to the flask containing the sample. The liquid level in the second flask dropped as the generated nitrogen gas displaced the water into the beaker. The system was left intact until gas generation ceased. After the system returned to room temperature, the beaker was raised until the water in the beaker was at the same level as in the second flask. When the liquid levels were the same, the clamp was replaced to prevent further transfer. The chemist completed the following data table in her lab book. Why must the liquid in the flask be dilute acid?",
+   "choices": [
+    "Dilute acid is necessary to neutralize the sodium hydroxide formed.",
+    "Dilute acid causes the reaction to go to completion.",
+    "Dilute acid removes ammonia from the gas leaving the nitrogen behind.",
+    "Dilute acid is easier to handle than many other liquids."
+   ],
+   "answer": 2,
+   "explanation": "It is necessary to remove the ammonia from the gas; otherwise the part of the volume generated would be due to the ammonia. Since ammonia is a base, it will react with the acid.",
+   "source": "AP Chemistry · Practice Exam 1, Q2",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 1−7. Sodium azide, NaN 3, is a component of automobile airbags. It is useful because it quickly decomposes to generate a large volume of nitrogen gas. The balanced chemical equation for the reaction is: 2 NaN 3 (s) → 2 Na(s) + 3 N 2 (g) There are additional components in the airbag to react with the elemental sodium formed. Sodium azide is an unstable compound; therefore, it is often necessary to analyze samples as a check of its purity. A chemist is attempting to develop a new analytical, which employs the following reaction: NaN 3 (aq) + Na 2 S(aq) + 3 H 2 O(l) → N 2 (g) + NH 3 (g) + S(s) + 3 NaOH(aq) The chemist weighed a small flask both with and without a sample of sodium azide and recorded the masses. Next, she connected the flask to the system shown below. The flask in the middle and the rubber tubing leading to the beaker were completely filled with dilute acid, and then the clamp was removed. Excess sodium sulfide solution was added to the flask containing the sample. The liquid level in the second flask dropped as the generated nitrogen gas displaced the water into the beaker. The system was left intact until gas generation ceased. After the system returned to room temperature, the beaker was raised until the water in the beaker was at the same level as in the second flask. When the liquid levels were the same, the clamp was replaced to prevent further transfer. The chemist completed the following data table in her lab book. After the system returned to room temperature an adjustment was made by raising the beaker until the liquid level in both the beaker and the flask were the same. Why was this step necessary?",
+   "choices": [
+    "To make sure there was no contamination by the hydrochloric acid",
+    "To make sure all of the hydrogen gas was out of the rubber tubing",
+    "To remove excess water from the rubber tubing and into the beaker",
+    "To equilibrate the pressure in the flask with the external pressure"
+   ],
+   "answer": 3,
+   "explanation": "When the two liquid levels are the same then the pressures must be equal. In this case, both pressures are equal to the barometric pressure.",
+   "source": "AP Chemistry · Practice Exam 1, Q4",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 1−7. Sodium azide, NaN 3, is a component of automobile airbags. It is useful because it quickly decomposes to generate a large volume of nitrogen gas. The balanced chemical equation for the reaction is: 2 NaN 3 (s) → 2 Na(s) + 3 N 2 (g) There are additional components in the airbag to react with the elemental sodium formed. Sodium azide is an unstable compound; therefore, it is often necessary to analyze samples as a check of its purity. A chemist is attempting to develop a new analytical, which employs the following reaction: NaN 3 (aq) + Na 2 S(aq) + 3 H 2 O(l) → N 2 (g) + NH 3 (g) + S(s) + 3 NaOH(aq) The chemist weighed a small flask both with and without a sample of sodium azide and recorded the masses. Next, she connected the flask to the system shown below. The flask in the middle and the rubber tubing leading to the beaker were completely filled with dilute acid, and then the clamp was removed. Excess sodium sulfide solution was added to the flask containing the sample. The liquid level in the second flask dropped as the generated nitrogen gas displaced the water into the beaker. The system was left intact until gas generation ceased. After the system returned to room temperature, the beaker was raised until the water in the beaker was at the same level as in the second flask. When the liquid levels were the same, the clamp was replaced to prevent further transfer. The chemist completed the following data table in her lab book. Would it be possible to use this experimental setup to study a reaction that produced gaseous sulfur dioxide, SO 2? If not, why?",
+   "choices": [
+    "Yes, this apparatus could be used.",
+    "No, because sulfur dioxide is only a gas at very high temperatures.",
+    "No, because sulfur dioxide reacts with acids to produce solid sulfur.",
+    "No, because some of the sulfur dioxide gas would dissolve in the acid."
+   ],
+   "answer": 3,
+   "explanation": "Sulfur dioxide gas is soluble in water and, while less soluble in dilute acid, some would still dissolve to give a smaller volume.",
+   "source": "AP Chemistry · Practice Exam 1, Q7",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "If about 88% of a sample of pure 131 I decays in 24 days, what is the approximate half-life of 131 I?",
+   "choices": [
+    "16 days",
+    "90 days",
+    "8 days",
+    "24 days"
+   ],
+   "answer": 2,
+   "explanation": "After one half-life, 50% would remain. Another half-life would reduce this by one-half to 25% and a third half-life would reduce the remaining material by 12.5%. Thus, three half-lives = (50 + 25 + 12.5)% = 87.5% decayed. The total amount decayed is 88%. For this reason, 24 days years must be three half-lives of about 8 days each.",
+   "source": "AP Chemistry · Practice Exam 1, Q9",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Cycloalkanes are hydrocarbons with the general formula C n H 2 n, where n ≥ 3. If a 0.420 g sample of any alkene is combusted in excess oxygen, how many moles of water will form?",
+   "choices": [
+    "0.040",
+    "0.400",
+    "0.020",
+    "0.600"
+   ],
+   "answer": 0,
+   "explanation": "One mole of a cycloalkane, C n H 2 n , will form n moles of water. It is possible to determine the value of n by dividing the mass of the cycloalkane by the empirical formula mass (CH 2 = 14 g/mol). This gives = 0.040 mol",
+   "source": "AP Chemistry · Practice Exam 1, Q10",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 13 − 17. pH versus volume of titrant added Ascorbic acid (vitamin C), H 2 C 6 O 6, is a diprotic acid used as a dietary supplement. As with all dietary supplements, it is important to analyze samples for purity. The vitamin C may be extracted from natural sources or synthesized. The extraction vitamin C may contain additional extracted ingredients to which some people are allergic. Synthetic vitamin C may contain other forms of the vitamin; however, modern synthetic methods do not generate this contaminate. The above titration curve is an idealized graph for a diprotic acid. On this graph, E and F represent the pH at the endpoints with the possibility that E may shift slightly and one or the other may not be present. H is the volume of base required to titrate the first hydrogen ion and G is the quantity of base necessary to titrate both hydrogen ions. G is twice H. If G were not twice H, what would this indicate?",
+   "choices": [
+    "The vitamin C was extracted from a plant.",
+    "The vitamin C is synthetic.",
+    "There is a contaminant that is either an acid or a base.",
+    "The other form of vitamin C is present."
+   ],
+   "answer": 2,
+   "explanation": "To reach H, it is necessary to convert all the ascorbic acid to the hydrogen ascorbate ion, which means the moles of hydrogen ascorbate ion formed must equal the moles of ascorbic acid originally present. The moles of hydrogen ascorbate ion formed would require the same number of moles of base as that required to convert the ascorbic acid to hydrogen ascorbate. Equal moles would mean equal volumes added.",
+   "source": "AP Chemistry · Practice Exam 1, Q14",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 13 − 17. pH versus volume of titrant added Ascorbic acid (vitamin C), H 2 C 6 O 6, is a diprotic acid used as a dietary supplement. As with all dietary supplements, it is important to analyze samples for purity. The vitamin C may be extracted from natural sources or synthesized. The extraction vitamin C may contain additional extracted ingredients to which some people are allergic. Synthetic vitamin C may contain other forms of the vitamin; however, modern synthetic methods do not generate this contaminate. The above titration curve is an idealized graph for a diprotic acid. On this graph, E and F represent the pH at the endpoints with the possibility that E may shift slightly and one or the other may not be present. H is the volume of base required to titrate the first hydrogen ion and G is the quantity of base necessary to titrate both hydrogen ions. G is twice H. Which of the following bases would be the best choice for the titration?",
+   "choices": [
+    "NH 3",
+    "Al(OH) 3",
+    "KOH",
+    "Na 2 CO 3"
+   ],
+   "answer": 2,
+   "explanation": "In any acid-base titration, it is always easier to use a strong base (and a strong acid). Potassium hydroxide, KOH, is the only strong base among the choices.",
+   "source": "AP Chemistry · Practice Exam 1, Q15",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the following information to answer questions 13 − 17. pH versus volume of titrant added Ascorbic acid (vitamin C), H 2 C 6 O 6, is a diprotic acid used as a dietary supplement. As with all dietary supplements, it is important to analyze samples for purity. The vitamin C may be extracted from natural sources or synthesized. The extraction vitamin C may contain additional extracted ingredients to which some people are allergic. Synthetic vitamin C may contain other forms of the vitamin; however, modern synthetic methods do not generate this contaminate. The above titration curve is an idealized graph for a diprotic acid. On this graph, E and F represent the pH at the endpoints with the possibility that E may shift slightly and one or the other may not be present. H is the volume of base required to titrate the first hydrogen ion and G is the quantity of base necessary to titrate both hydrogen ions. G is twice H. In the titration of a sample of vitamin C, what is the approximate value of F?",
+   "choices": [
+    "Unknown",
+    "> 7",
+    "< 7",
+    "= 7"
+   ],
+   "answer": 1,
+   "explanation": "The titration of a weak acid with a strong base always has an equivalence point above 7.",
+   "source": "AP Chemistry · Practice Exam 1, Q16",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following CANNOT behave as both a Brønsted base and a Brønsted acid?",
+   "choices": [
+    "H 2 PO 4 2−",
+    "CO 3 2−",
+    "HSO 3 −",
+    "HCO 3 −"
+   ],
+   "answer": 1,
+   "explanation": "All can behave as Brønsted bases (accept a hydrogen ion). Only B cannot behave as an acid (donate a hydrogen ion).",
+   "source": "AP Chemistry · Practice Exam 1, Q18",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A student mixes 50.0 mL of 0.10 M potassium chromate, K 2 CrO 4, solution with 50.0 mL of 0.10 M AgNO 3. A red precipitate of silver chromate forms and the concentration of the silver ion becomes very small. Which of the following correctly places the concentrations of the remaining ions in order of decreasing concentration?",
+   "choices": [
+    "[NO 3 − ] > [K + ] > [CrO 4 2− ]",
+    "[K + ] > [CrO 4 2− ] > [NO 3 − ]",
+    "[K + ] > [NO 3 − ] > [CrO 4 2− ]",
+    "[CrO 4 2− ] > [NO 3 − ] > [K + ]"
+   ],
+   "answer": 2,
+   "explanation": "Initially, doubling the volume will result in halving the concentrations. Next, consider the reaction. The balanced equation is: K 2 CrO 4 (aq) + 2 AgNO 3 (aq) → Ag 2 CrO 4 (s) + 2 KNO 3 (aq). The silver ion is the limiting reagent, so very little remains in solution (due to its K sp ). The precipitation of silver chromate reduces the chromate concentration from 0.050 M . The nitrate does not change (soluble) remaining 0.050 M . Since two potassium ions (soluble) are formed per potassium chromate, after mixing the potassium ion concentration was 0.10 M and does not change (soluble).",
+   "source": "AP Chemistry · Practice Exam 1, Q19",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "There are a number of experiments for the determination of the molecular mass of a gas. One method begins by heating a solid or liquid in a flask to produce a gaseous product. The gas passes through a tube and displaces water in an inverted, water- filled bottle. The mass of the starting material is measured, along with the volume of the displaced water and the temperature of the system. The pressure in the inverted water-filled bottle is equal to the external pressure. Once the barometric pressure has been recorded, what other information is needed to finish the experiment?",
+   "choices": [
+    "The vapor pressure of the water",
+    "The heat of formation of the gas",
+    "The mass of the displaced water",
+    "The density of the water"
+   ],
+   "answer": 0,
+   "explanation": "To determine the molar mass of the gas it is necessary to know the mass of the gas (measured) and the moles of the gas. The ideal gas equation is necessary to determine the number of moles of gas present. To use the equation, it is necessary to know the temperature (measured), volume (measured = volume of displaced water), and pressure of the gas. The pressure of the gas is equal to the barometric pressure minus the vapor pressure of water. Water, whenever present, will contribute its vapor pressure.",
+   "source": "AP Chemistry · Practice Exam 1, Q20",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Cerium(III) sulfate, Ce 2 (SO 4) 2, is less soluble in hot water than it is in cold. Which of the following conclusions may be related to this?",
+   "choices": [
+    "The hydration energies of cerium ions and sulfate ions are very low.",
+    "The heat of solution for cerium(III) sulfate is endothermic.",
+    "The heat of solution of cerium(III) sulfate is exothermic.",
+    "The solution is not an ideal solution."
+   ],
+   "answer": 2,
+   "explanation": "Since the compound is less soluble in hot water, the solution process must be exothermic. Exothermic processes shift toward the starting materials (solid cerium(III) sulfate) when heated.",
+   "source": "AP Chemistry · Practice Exam 1, Q22",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 23-25. Approximate molar masses: He = 4 g mol −1, CH 4 = 16 g mol −1, O 2 = 32 g mol −1, SO 2 = 64 g mol −1 Under the conditions indicated, in which of the gas sample is the average velocity of the molecules half that of methane, CH 4?",
+   "choices": [
+    "He",
+    "CH 4",
+    "SO 2",
+    "They are all at the same temperature; therefore, they have the same average velocity."
+   ],
+   "answer": 2,
+   "explanation": "The gases are all at the same temperature; therefore their average kinetic energies are the same. Since kinetic energy is equal to ½ mv 2 , ½ m 1 v 1 2 = ½ m 2 v 2 2 , the subscripts refer to two different gases. Setting m 1 = 16 g mol −1 and v 2 = ½ v 1 gives: ½ 16 v 1 2 = ½ m 2 (½ v 1 ) 2 , this leads to: 16 v 1 2 = m 2 (1/4 v 1 2 ). Rearranging and cancelling v 1 yields m 2 = 4(16) = 64 g mol −1 .",
+   "source": "AP Chemistry · Practice Exam 1, Q23",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 23-25. Approximate molar masses: He = 4 g mol −1, CH 4 = 16 g mol −1, O 2 = 32 g mol −1, SO 2 = 64 g mol −1 Which of the four gases will probably show the least deviation from ideal behavior?",
+   "choices": [
+    "CH 4",
+    "He",
+    "SO 2",
+    "O 2"
+   ],
+   "answer": 1,
+   "explanation": "The smaller the molecule and the less polar (more nonpolar) the gas is, the smaller the deviation from ideal gas behavior.",
+   "source": "AP Chemistry · Practice Exam 1, Q24",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 23-25. Approximate molar masses: He = 4 g mol −1, CH 4 = 16 g mol −1, O 2 = 32 g mol −1, SO 2 = 64 g mol −1 If one of the containers sprang a small leak, which of the following would change?",
+   "choices": [
+    "Moles and temperature",
+    "Moles and pressure",
+    "Temperature and pressure",
+    "Moles, temperature, and pressure"
+   ],
+   "answer": 3,
+   "explanation": "Escaping gas would decrease the number of moles. Less gas remaining in the container would mean less pressure. The faster moving gas molecules would escape faster, lower the average velocity of those remaining in the container. A lower average velocity means a lower temperature.",
+   "source": "AP Chemistry · Practice Exam 1, Q25",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The specific rate constant, k, for a certain first-order reaction is 86 h −1. What mass of a 0.0500 g sample of starting material will remain after 58 s?",
+   "choices": [
+    "0.00625 g",
+    "0.0125 g",
+    "0.0250 g",
+    "0.0500 g"
+   ],
+   "answer": 1,
+   "explanation": "It is necessary to use the half-life relationship for first-order kinetics. This relationship is t 1/2 = 0.693/ k , and t 1/2 = (0.693/86 h −1 )(3600 s/h) = 29 s. To save time on the exam you can approximate this equation as t 1/2 = (0.7/90)(3600). Dividing 3600 by 90 gives 40, and 40 times 0.7 is equal to 28. If the half-life is ≈ 28 s, then the time (58 s) is equivalent to about two half-lives, so one-fourth of the sample should remain.",
+   "source": "AP Chemistry · Practice Exam 1, Q26",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 27 − 31 concerning the following equilibrium: CO(g) + 2 H 2 (g) CH 3 OH(g) Container A initially contains 0.60 mole of H 2 and 0.60 mole of CO and is allowed to come to equilibrium. At equilibrium, there are 0.40 mole of CO in the flask. What is the value of K c, the equilibrium constant, for the reaction?",
+   "choices": [
+    "0.40",
+    "0.080",
+    "12",
+    "2.5"
+   ],
+   "answer": 2,
+   "explanation": "The loss of 0.20 mol of CO means that 0.40 mol of H 2 reacted (leaving 0.20 mol) and 0.20 mol of CH 3 OH formed. Dividing all the moles by the volume gives the molarity, and: K c = (0.20)/(0.40)(0.20) 2 = (0.10)/(0.20)(0.20) 2 = 0.10/(0.20 × 0.04) = 0.10/0.008 = 12",
+   "source": "AP Chemistry · Practice Exam 1, Q27",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 27 − 31 concerning the following equilibrium: CO(g) + 2 H 2 (g) CH 3 OH(g) A 1.00-mole sample of CH 3 OH is placed in container B and the system is allowed to go to equilibrium. What can be said about the relative rates of reaction with respect to the various components?",
+   "choices": [
+    "The rate of CO formation is numerically equal to the rate of CH 3 OH loss.",
+    "The rate of H 2 (g) formation is equal to the rate of CO(g) formation.",
+    "The rate of H 2 (g) formation is half the rate of CO(g) formation.",
+    "The rate of H 2 formation is numerically equal to the rate of CH 3 OH loss."
+   ],
+   "answer": 0,
+   "explanation": "Based upon the stoichiometry of the reaction, H 2 (g) will form twice as fast as CH 3 OH(g) disappears. The numerical values are the same; however, the rates have opposite signs.",
+   "source": "AP Chemistry · Practice Exam 1, Q28",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 27 − 31 concerning the following equilibrium: CO(g) + 2 H 2 (g) CH 3 OH(g) The mixture in container D is in equilibrium. Which of the following is true?",
+   "choices": [
+    "The pressure in the system is decreasing.",
+    "The rate of the forward and reverse reactions is equal to zero.",
+    "The rate of the forward reaction is equal to the rate of the reverse reaction.",
+    "The pressure in the system is increasing."
+   ],
+   "answer": 2,
+   "explanation": "At equilibrium, there is no net change because the forward and reverse reactions are going at the same rate.",
+   "source": "AP Chemistry · Practice Exam 1, Q29",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 27 − 31 concerning the following equilibrium: CO(g) + 2 H 2 (g) CH 3 OH(g) The mixture in container A goes to equilibrium. If the initial moles of H 2 (g) is twice the initial moles of CO(g), which of the following is true?",
+   "choices": [
+    "The total pressure of the system increases until the system equals equilibrium.",
+    "Both reactants are limiting; therefore, the reaction will continue until there are zero moles of each remaining.",
+    "No reaction occurs until a catalyst is added.",
+    "The total pressure of the system decreases until the system reaches equilibrium."
+   ],
+   "answer": 3,
+   "explanation": "As the reaction approaches equilibrium, there is a net decrease in the number of moles of gas present. A decrease in the number of moles of gas will lead to a decrease in pressure",
+   "source": "AP Chemistry · Practice Exam 1, Q30",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Use the information on the containers in the following diagram to answer questions 27 − 31 concerning the following equilibrium: CO(g) + 2 H 2 (g) CH 3 OH(g) As the mixture in container B approaches equilibrium, the partial pressure of CH 3 OH gas decreases by 1.5 atm. What is the net change in the total pressure of the system?",
+   "choices": [
+    "+1.5 atm",
+    "−1.5 atm",
+    "−3.0 atm",
+    "+3.0 atm"
+   ],
+   "answer": 3,
+   "explanation": "The loss of 1.5 atm of CH 3 OH(g), based on stoichiometry leads to the formation of 1.5 atm of CO(g) and 3.0 atm of H 2 (g); therefore, the net change is (−1.5 + 1.5 + 3.0) atm = 3.0 atm.",
+   "source": "AP Chemistry · Practice Exam 1, Q31",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A student constructs an electrolysis cell with two inert electrodes in an aqueous solution that is 1.0 M in rubidium nitrite, RbNO 2, and 1.0 M in rubidium hydroxide, RbOH. As the cell operates, an odorless gas evolves from one electrode and a gas with a distinctive odor evolves from the other electrode. Choose the correct statement from the following list.",
+   "choices": [
+    "The odorless gas is the result of reduction.",
+    "The odorless gas evolves at the negative electrode.",
+    "The gas with the distinctive odor is the result of oxidation.",
+    "The odorless gas is oxygen."
+   ],
+   "answer": 3,
+   "explanation": "Oxygen (odorless) evolves at the anode (positive) and ammonia (distinctive odor) evolves at the cathode (negative). From the choices given, the only gas with a distinctive odor that could form is ammonia, NH 3 . For this reason, the nitrite ion half reaction must be the cathode reaction. The anode half reaction must be the reverse of one of the reactions in the table. The only one of the half reactions given that generates an odorless gas is the one involving oxygen, O 2 .",
+   "source": "AP Chemistry · Practice Exam 1, Q32",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A student attempted to prepare an electrolysis cell to produce aluminum metal (Al) from an aqueous solution of aluminum chloride, AlCl 3, using a 6.0 V battery. The cathode compartment of the electrolysis contained 1.0 M aluminum chloride. The student was unsuccessful. Why was the student unable to produce aluminum metal?",
+   "choices": [
+    "The voltage from the battery was insufficient to force the reaction to occur.",
+    "Calcium chloride solutions do not conduct electricity.",
+    "Reduction of water occurred in preference to reduction of calcium ion.",
+    "Reduction of chloride ion occurred in preference to reduction of calcium ion."
+   ],
+   "answer": 2,
+   "explanation": "It is necessary to consider all possible half reactions that might occur during electrolysis. Of the half reactions listed, only the reduction of water and the reduction of aluminum ions are applicable to this experiment. For any electrolysis, the half reaction requiring the least amount of energy will take place. So, while it is possible to reduce both water and the aluminum ion, the reduction potential for water is lower (requiring less energy), so water will reduce in preference to aluminum ion.",
+   "source": "AP Chemistry · Practice Exam 1, Q34",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A student constructs a galvanic cell that has a chromium, Cr, electrode in a compartment containing a 1.0 M chromium(II) nitrate, Cr(NO 3) 2, solution and a silver, Ag, electrode in a compartment containing 1.0 M silver nitrate, AgNO 3, solution. A salt bridge containing a 1.0 M potassium chloride, KCl, solution connects the two compartments. When the student measures the cell potential, the value is far from the ideal predicted value. What is the cause of this discrepancy?",
+   "choices": [
+    "The potassium chloride in the salt bridge interfered with the reaction.",
+    "The initial concentrations should have been higher than 1.0 M.",
+    "The student did not allow the cell to come to equilibrium.",
+    "The initial concentrations should have been lower than 1.0 M."
+   ],
+   "answer": 0,
+   "explanation": "Silver appears twice in the list of half reactions, once in the simple reduction of silver ions and once in the reduction of silver chloride, AgCl. The AgCl half reaction clearly shows that this compound is a solid. This solid will form as the silver ion in the silver nitrate solution reacts with chloride ion from the potassium chloride in the salt bridge. The formation of solid silver chloride will alter the concentration of the silver ion, which leads to a change in the cell potential.",
+   "source": "AP Chemistry · Practice Exam 1, Q36",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A student prepares three buffer solutions. Each solution is 1.0 M in one of the acids in the table and 1.0 M in its corresponding sodium salt. Which of the solutions has the greatest buffer capacity with respect to added NaOH and why?",
+   "choices": [
+    "All are the same.",
+    "The formic acid buffer because it donate both of its hydrogen atoms.",
+    "The chloroacetic acid buffer because it is the strongest acid.",
+    "The benzoic acid buffer because it is the strongest acid."
+   ],
+   "answer": 0,
+   "explanation": "The buffer capacity only depends on the number of moles present. All three solutions have the same number of moles.",
+   "source": "AP Chemistry · Practice Exam 1, Q38",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Hypochlorous acid is an unstable compound, and one of the decomposition products is chlorine gas, Cl 2. The decomposition of the acid lowers its concentration over time. What effect will the decomposition of one-fourth of the acid have on the agreement between the endpoint of the titration and the equivalence point during a titration with standard sodium hydroxide?",
+   "choices": [
+    "The endpoint would be before the ideal equivalence point.",
+    "The endpoint would still remain near the ideal equivalence point.",
+    "The endpoint would be after the ideal equivalence point.",
+    "It is impossible to determine."
+   ],
+   "answer": 0,
+   "explanation": "Less acid would require less than the ideal amount of base to reach the endpoint. Therefore, the endpoint would occur too soon.",
+   "source": "AP Chemistry · Practice Exam 1, Q39",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Three 25.00 mL samples of approximately 0.10 M phenol, C 6 H 5 OH, K a = 1.0 × 10 −10 were removed from a container and placed in separate 250 mL beakers. The samples were titrated with standard potassium hydroxide, KOH, solution. Cresol red was the acid-base indicator used in the titration. The samples required 31.75, 32.38, and 41.75 mL to reach the endpoint. Which of the following might explain why one of the samples required significantly more base to reach the endpoint?",
+   "choices": [
+    "The indicator was added too late.",
+    "The wrong indicator was used.",
+    "There was a base contaminating the unclean beaker.",
+    "There was an acid contaminating the unclean beaker."
+   ],
+   "answer": 3,
+   "explanation": "An acid contaminant was present and it would be necessary to add additional base to titrate this acid in addition to the phenol.",
+   "source": "AP Chemistry · Practice Exam 1, Q40",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "During the study of the reaction A → 2B, a chemist constructs several graphs. The graph of [A] versus time and the graph of ln [A] versus time both give a curved line; however, the graph of 1/[A] versus time and gives a straight line. This implies the rate law is",
+   "choices": [
+    "Rate = k [A] 2",
+    "Rate = k [A] 0",
+    "Rate = k [A] −1",
+    "Rate = k [A]"
+   ],
+   "answer": 0,
+   "explanation": "Since only the plot of 1/[A] versus time yielded a straight line, this implies that the reaction is second-order in A.",
+   "source": "AP Chemistry · Practice Exam 1, Q41",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The photoelectron spectrum of carbon has three equally sized peaks. What peak is at the lowest energy?",
+   "choices": [
+    "The 2s peak has the lowest energy.",
+    "The 2p peak has the lowest energy.",
+    "The 1p peak has the lowest energy.",
+    "The 1s peak has the lowest energy."
+   ],
+   "answer": 1,
+   "explanation": "The electron configuration of carbon in 1s 2 2s 2 sp 2 . The removal of the last electron (2p) requires the least amount of energy.",
+   "source": "AP Chemistry · Practice Exam 1, Q42",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Each of the ions in the table form stable oxides (Na 2 O, CdO, and La 2 O 3). Lanthanum oxide, La 2 O 3, has a melting point significantly higher than that of the other oxides. Which of the following is the best explanation of why this is true?",
+   "choices": [
+    "Lanthanum is a lanthanide element and the melting points of these elements are always high.",
+    "There is more oxygen in the formula La 2 O 3 than in the other formulas.",
+    "Lanthanum had the highest charge; therefore, it has the highest lattice energy.",
+    "Alkali metals like sodium and transition metals like cadmium tend to have low melting points."
+   ],
+   "answer": 2,
+   "explanation": "The melting points of ionic materials depend upon the lattice energy. The higher the lattice energy, the higher the melting point is. Lattice energies depend upon the sizes of the ions and the magnitude of the charge. All three metal ions are approximately the same size; therefore, the size factor is minimal. This leaves the magnitude of the charge, and lanthanum, with the largest charge, should have the highest lattice energy.",
+   "source": "AP Chemistry · Practice Exam 1, Q44",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the strongest Brønsted-Lowry acid?",
+   "choices": [
+    "HBrO 2",
+    "HBrO",
+    "HBrO 3",
+    "HBrO 4"
+   ],
+   "answer": 3,
+   "explanation": "Perbromic acid, HBrO 4 , is expected to be the strongest acid in this group because the greater number of oxygen atoms pulls more electron density from the hydrogen atom making it easier to be lost as a hydrogen ion.",
+   "source": "AP Chemistry · Practice Exam 1, Q45",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "During the investigation of a chemical reaction by a chemistry student, she was able to determine that the reaction was nonspontaneous at 1 atm and 298 K. However, she learned that cooling the system with dry ice (−78°C) caused the reaction to become spontaneous. Which of the following combinations must apply to this reaction?",
+   "choices": [
+    "Δ H > 0, Δ S > 0, and Δ G > 0",
+    "Δ H < 0, Δ S < 0, and Δ G = 0",
+    "Δ H > 0, Δ S < 0, and Δ G > 0",
+    "Δ H < 0, Δ S < 0, and Δ G > 0"
+   ],
+   "answer": 3,
+   "explanation": "If the reaction is nonspontaneous at 1 atm and 298 K then Δ G > 0. For this reaction to become spontaneous at a lower temperature the reaction must be impeded by entropy (entropy was negative). The enthalpy must be negative or the reaction could never be spontaneous.",
+   "source": "AP Chemistry · Practice Exam 1, Q46",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the ionization constant, K a, for a weak monoprotic acid if a 0.060 molar solution has a pH of 2.0?",
+   "choices": [
+    "2.0 × 10 −3",
+    "5.0 × 10 −3",
+    "2.0 × 10 −1",
+    "1.7 × 10 −1"
+   ],
+   "answer": 0,
+   "explanation": "Enter the information into the K a expression. A pH of 2.0 means that [H + ] = 10 −2.0 M or 1.0 × 10 −2 . K a = [H + ][A − ]/[HA]; [H + ] = [A − ] = 1.0 × 10 −2 [HA] = 0.060 − 1.0 × 10 −2 = 0.05; therefore, K a = (1.0 × 10 −2 )/0.050 = 0.002 = 2 × 10 −3 .",
+   "source": "AP Chemistry · Practice Exam 1, Q47",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Cyclopropane, pictured above, is a relatively unstable compound. As seen in the diagram, the carbon atoms form the corners of an equilateral triangle and each carbon atom has two hydrogen atoms attached to complete an octet of electrons around the carbon atoms. Based upon this structure, why is cyclopropane a relatively unstable compound?",
+   "choices": [
+    "The bonds do not match the angles.",
+    "Hydrocarbon compounds are relatively unstable in general.",
+    "Compounds that have identical atoms bonded to each other are relatively unstable.",
+    "There is no resonance to stabilize the compound."
+   ],
+   "answer": 0,
+   "explanation": "A carbon atom with four single bonds should be tetrahedral. Tetrahedral atoms have an ideal bond angle of 109.5°. However, the carbon atoms in cyclopropane are at the corners of an equilateral triangle, where the ideal angle is 60°. The discrepancy between the two ideal bond angles leads to the relative instability of cyclopropane.",
+   "source": "AP Chemistry · Practice Exam 1, Q48",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "There are three steps in the formation of a solution. It is necessary to overcome the intermolecular forces present within the solute. It is also necessary to overcome the intermolecular forces present within the solvent. Both of these steps require energy related to the strength of the intermolecular forces. The final step in the formation of a solution involves the creation of new intermolecular forces between the solute and solvent. This energy release is related to the strength of the intermolecular forces created. Which of the following illustrates a situation most likely to require the least amount of energy to overcome the intermolecular forces?",
+   "choices": [
+    "CaO(s) + H 2 O(l)",
+    "CCl 4 (l) + CH 3 OH(l)",
+    "CCl 4 (l) + Cl 2 (g)",
+    "CH 3 OH(l) + H 2 O(l)"
+   ],
+   "answer": 2,
+   "explanation": "In diagram A, the forces to overcome are ionic bonding (lattice energy) and hydrogen bonding. In diagram B, the forces to overcome are hydrogen bonding for both the solvent and the solute. In diagram C, the forces to overcome are London dispersion forces in both cases; however, since the chlorine is a gas, the London dispersion forces have already been overcome. In diagram D, the forces to overcome are London dispersion forces and hydrogen bonding. Since, London dispersion forces are normally weaker than the other intermolecular forces; answer C requires the least amount of energy.",
+   "source": "AP Chemistry · Practice Exam 1, Q52",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The diagram above shows the structure of molecules of CS 2 and COS. The boiling point of COS is 223 K, and the boiling point of CS 2 is 319 K. Which of the following is the best explanation of why the boiling point of CS 2 is higher?",
+   "choices": [
+    "Only CS 2 can form intermolecular dipole-dipole forces.",
+    "COS has weaker covalent bonds than CS 2.",
+    "The molar mass of CS 2 is greater.",
+    "COS has stronger intermolecular forces because it is polar and CS 2 is not."
+   ],
+   "answer": 2,
+   "explanation": "Stronger intermolecular forces lead to higher boiling points. Even though COS has dipole-dipole forces, which are usually stronger than the London dispersion forces present in CS 2 , the greater molar mass of CS 2 leads to a London dispersion force contribution that is sufficient to compensate for the general trend of dipole- dipole forces being stronger than London dispersion forces. This is why comparisons should only be made between molecules of similar molecular masses.",
+   "source": "AP Chemistry · Practice Exam 1, Q54",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "A 30.00 g sample of metal (X) was heated to 100.00°C. This sample was clamped in contact with a 40.00 g sample of a different metal (Y) originally at 25.00°C. The final temperature of the two metals was 37.30°C and no heat was lost to the surroundings. What is one possible conclusion from this experiment?",
+   "choices": [
+    "The heat lost by the X was less than the heat gained by the Y.",
+    "The heat lost by the X was greater than the heat gained by the Y.",
+    "The final temperature was incorrectly determined, as it should be the average (62.50°C).",
+    "The heat lost by the X was equal to the heat gained by the Y."
+   ],
+   "answer": 3,
+   "explanation": "This must be true according to the Law of Conservation of Energy (First Law of Thermodynamics). Answers A and C violate the Law of Conservation of Energy. For the final temperature to be the average, the metals would need to have equal masses and equal specific heats. The masses, given in the problem, are clearly different, and it is extremely unlikely that two different metals would have the same specific heat.",
+   "source": "AP Chemistry · Practice Exam 1, Q57",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The Dumas method is a procedure for determining the molar mass of a gas. In this procedure the mass of a gas is divided by the moles of gas determined from the ideal gas equation (n = PV / RT). The molar masses of some compounds, such as acetic acid, illustrated above, show significant deviations from the “correct” values. Why does the presence of dimers as illustrated make it unlikely to obtain an accurate molar mass of acids, such as acetic acid?",
+   "choices": [
+    "The presence of strong intermolecular forces (hydrogen bonding) makes the gas nonideal; therefore the ideal gas law is not applicable.",
+    "Acetic acid, like all acids, will lose a hydrogen ion, so the molar mass is that of the acetate ion, which is less than that of acetic acid.",
+    "Acetic acid is a liquid at room temperature, and its boiling point is too high to get accurate results.",
+    "Acids are too reactive to give accurate results."
+   ],
+   "answer": 0,
+   "explanation": "Strong hydrogen bonds hold two molecules of acetic acid together. Ideal gases have no intermolecular forces. Therefore, the ideal gas law used in experiment is invalid.",
+   "source": "AP Chemistry · Practice Exam 1, Q59",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  },
+  {
+   "question": "In which of the following groups are the species listed correctly in order of increasing ionization energy?",
+   "choices": [
+    "Sr, Ca, Ba",
+    "Cl, Br, I STOP. End of AP Chemistry Practice Exam 1, Section I (Free Response).",
+    "Se, Tc, Ba",
+    "Mn, Fe, Ni"
+   ],
+   "answer": 3,
+   "explanation": "Increasing ionization energy applies to an element higher in a column on the periodic table, or in a position further to the left in a period on the periodic table. Note, this type of explanation is unacceptable on the Free Response portion of the AP Exam, where your explanation would require information on radii and effective nuclear charges. AP Chemistry Practice Exam 1, Section II (Free Response) Time—1 hour and 45 minutes",
+   "source": "AP Chemistry · Practice Exam 1, Q60",
+   "topic": "Practice Exam 1",
+   "topic_n": 1
+  }
+ ]
+}

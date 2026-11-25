@@ -1,0 +1,200 @@
+{
+ "questions": [
+  {
+   "question": "___ Fe(OH) 2 (s) + ___ H 3 PO 4 (aq) → ___ Fe 3 (PO 4) 2 (s) + ___ H 2 O(l) After the above chemical equation is balanced, the lowest whole-number coefficient for water is:",
+   "choices": [
+    "1",
+    "3",
+    "9",
+    "6"
+   ],
+   "answer": 3,
+   "explanation": "The balanced equation is:",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q1",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "This ion will generate gas bubbles upon the addition of hydrochloric acid.",
+   "choices": [
+    "Cu 2+",
+    "CO 3 2−",
+    "Fe 3+",
+    "Al 3+"
+   ],
+   "answer": 1,
+   "explanation": "Carbonates produce carbon dioxide gas in the presence of an acid. None of the other ions will react with hydrochloric acid to produce a gas.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q2",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "Aqueous solutions of this ion are blue.",
+   "choices": [
+    "Fe 3+",
+    "Cu 2+",
+    "Al 3+",
+    "CO 3 2−"
+   ],
+   "answer": 1,
+   "explanation": "Aqueous solutions of Cu 2+ are normally blue. Iron ions give a variety of colors but are normally colorless, or nearly so, in the absence of complexing agents. The other ions are colorless.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q3",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best represents the balanced net ionic equation for the reaction of lead(II) carbonate with concentrated hydrochloric acid? In this reaction, all lead compounds are insoluble.",
+   "choices": [
+    "PbCO 3 + 2 H + + 2 Cl − → PbCl 2 + CO 2 + H 2 O",
+    "PbCO 3 + 2 Cl − → PbCl 2 + CO 3 2−",
+    "Pb 2 CO 3 + 2 H + + Cl − → Pb 2 Cl + CO 2 + H 2 O",
+    "PbCO 3 + 2 H + → Pb 2+ + CO 2 + H 2 O"
+   ],
+   "answer": 0,
+   "explanation": "Lead(II) carbonate is insoluble, so its formula should be written as PbCO 3 . Hydrochloric acid is a strong acid so it should be written as separate H + and Cl − ions. Lead(II) chloride, PbCl 2 , is insoluble, and carbonic acid, H 2 CO 3 , quickly decomposes to CO 2 and H 2 O. Also notice that A cannot be correct because the charges do not balance.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q4",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample of copper metal is reacted with concentrated nitric acid in the absence of air. After the reaction, which of these final products are present?",
+   "choices": [
+    "Cu(NO 3) 2, NO, and H 2 O",
+    "CuNO 3 and H 2 O",
+    "Cu(NO 3) 3, NO, and H 2 O",
+    "CuNO 3, H 2 O, and H 2"
+   ],
+   "answer": 0,
+   "explanation": "The balanced chemical equation is: 3 Cu(s) + 8 HNO 3 (aq) → 3 Cu(NO 3 ) 2 (aq) + 2 NO(g) + 4 H 2 O(l) The copper is below hydrogen on the activity series, so H 2 cannot form by this acid- metal reaction. Nitric acid causes oxidation, which will oxidize copper to Cu 2+ giving Cu(NO 3 ) 2 . Some of the nitric acid reduces to NO. An oxidation and a reduction must ALWAYS be together.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q5",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the correct net ionic equation for the reaction of acetic acid with potassium hydroxide?",
+   "choices": [
+    "HC 2 H 3 O 2 + KOH → KC 2 H 3 O 2 + H 2 O",
+    "HC 2 H 3 O 2 + OH − → C 2 H 3 O 2 − + H 2 O",
+    "H + + OH − → H 2 O(l)",
+    "HC 2 H 3 O 2 + K + → KC 2 H 3 O 2 + H +"
+   ],
+   "answer": 1,
+   "explanation": "Acetic acid is a weak acid; as such, it should be written as HC 2 H 3 O 2 . Potassium hydroxide is a strong base so it will separate into K + and OH − ions. Any potassium compound that might form is soluble and will yield K + ions. The potassium ions are spectator ions and are left out of the net ionic equation.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q6",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the correct net ionic equation for the addition of aqueous ammonia to a precipitate of silver chloride?",
+   "choices": [
+    "AgCl + 2 NH 4 + → [Ag(NH 4) 2 ] 3+ + Cl −",
+    "AgCl + NH 4 + → Ag + + NH 4 Cl",
+    "AgCl + NH 3 → Ag + + NH 3 Cl",
+    "AgCl + 2 NH 3 → [Ag(NH 3) 2 ] + + Cl −"
+   ],
+   "answer": 3,
+   "explanation": "Aqueous ammonia contains primarily NH 3 , which eliminates choices B and C. NH 3 Cl does not exist, which eliminates choice D. The reaction produces the silver- ammonia complex, [Ag(NH 3 ) 2 ] + .",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q7",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "Potassium metal will react with water to release a gas and form a potassium compound. Which of the following is true?",
+   "choices": [
+    "The final solution is basic.",
+    "The gas is oxygen.",
+    "The potassium compound precipitates.",
+    "The potassium compound will react with strong bases."
+   ],
+   "answer": 0,
+   "explanation": "The reaction of potassium to produce a potassium compound is an oxidation; therefore, there must be a reduction, and the only species available for reduction is hydrogen. The reaction is: 2 K(s) + 2 H 2 O(l) → 2 KOH(aq) + H 2 (g) KOH is a water-soluble strong base, which will not react with other strong bases.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q8",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "How many moles of Pb(NO 3) 2 must be added to 0.10 L of a solution that is 1.0 M in MgCl 2 and 1.0 M in KCl to precipitate all of the chloride ion? The compound PbCl 2 precipitates.",
+   "choices": [
+    "0.15 mol",
+    "0.20 mol",
+    "1.0 mol",
+    "0.50 mol"
+   ],
+   "answer": 0,
+   "explanation": "The magnesium chloride gives 0.20 moles of chloride ion, and the potassium chloride gives 0.10 moles of chloride ion. A total of 0.30 moles of chloride will react with 0.15 moles of lead, because two Cl − require one Pb 2+ .",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q10",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "When 50.0 mL of 1.0 M AgNO 3 is added to 50.0 mL of 0.50 M HCl, a precipitate of AgCl forms. After the reaction is complete, what is the concentration of silver ions in the solution?",
+   "choices": [
+    "0.50 M",
+    "0.0 M",
+    "0.25 M",
+    "1.0 M"
+   ],
+   "answer": 2,
+   "explanation": "The HCl is the limiting reagent. The HCl will react with one-half the silver to halve the concentration. The doubling of the volume halves the concentration a second time.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q11",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "A student mixes 50.0 mL of 0.10 M Pb(NO 3) 2 solution with 50.0 mL of 0.10 M KCl. A white precipitate forms, and the concentration of the chloride ion becomes very small. Which of the following correctly places the concentrations of the remaining ions in order of decreasing concentration?",
+   "choices": [
+    "[NO 3 − ] > [Pb 2+ ] > [K + ]",
+    "[K + ] > [NO 3 − ] > [Pb 2+ ]",
+    "[Pb 2+ ] > [NO 3 − ] > [K + ]",
+    "[NO 3 − ] > [K + ] > [Pb 2+ ]"
+   ],
+   "answer": 3,
+   "explanation": "All the potassium and nitrate ions remain in solution, leaving PbCl 2 as the only possible precipitate. Equal volumes of equal concentrations give the same number of moles of reactants; however, two nitrate ions are produced per solute formula as opposed to only one potassium ion. Initially, the lead and potassium would be equal, but some of the lead is precipitated as PbCl 2 .",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q12",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "A solution is prepared for qualitative analysis. The solution contains the following ions: Co 2+, Pb 2+, and Al 3+. Which of the following will cause no observable reaction?",
+   "choices": [
+    "Dilute HNO 3 (aq) is added.",
+    "Dilute NH 3 (aq) is added.",
+    "Dilute K 2 S(aq) is added.",
+    "Dilute K 2 CrO 4 (aq) is added."
+   ],
+   "answer": 0,
+   "explanation": "Ammonia, as a base, will precipitate the metal hydroxides since the only soluble hydroxides are the strong bases. Chromate, sulfide, and chloride ions might precipitate one or more of the ions. Nitrates, from nitric acid, are soluble; therefore, this is the solution that is least likely to cause an observable change.",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q13",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "The addition of excess concentrated NaOH(aq) to a 1.0 M (NH 4) 2 SO 4 solution will result in which of the following observations?",
+   "choices": [
+    "The odor of ammonia will be detected.",
+    "Nothing happens because the two solutions are immiscible.",
+    "The solution becomes neutral.",
+    "The formation of a brown precipitate takes place."
+   ],
+   "answer": 0,
+   "explanation": "Excess strong base will ensure the solution to be basic and not neutral. Both ammonium and sodium salts are soluble; therefore, no precipitate can form. One aqueous solution will mix with another aqueous solution. The following acid–base reaction occurs to release ammonia gas: NH 4 + (aq) + OH − (aq) → NH 3 (g) + H 2 O(l).",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q15",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  },
+  {
+   "question": "____C 4 H 11 N(l) + ____O 2 (g) → ____CO 2 (g) + ____H 2 O(l) + ____N 2 (g) When the above equation is balanced, the lowest whole number coefficient for CO 2 is:",
+   "choices": [
+    "27",
+    "16",
+    "4",
+    "22"
+   ],
+   "answer": 1,
+   "explanation": "4 C 4 H 11 N(l) + 27 O 2 (g) → 16 CO 2 (g) + 22 H 2 O(l) + 2 N 2 (g)",
+   "source": "AP Chemistry · Chapter 6 — Reactions and Periodicity, Q16",
+   "topic": "Chapter 6 — Reactions and Periodicity",
+   "topic_n": 1
+  }
+ ]
+}

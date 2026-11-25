@@ -1,0 +1,200 @@
+{
+ "questions": [
+  {
+   "question": "Which of the following best describes Fe(s)?",
+   "choices": [
+    "composed of atoms held together by delocalized electrons",
+    "composed of positive and negative ions held together by electrostatic attractions",
+    "composed of macromolecules held together by strong bonds",
+    "composed of molecules held together by intermolecular dipole−dipole interactions"
+   ],
+   "answer": 0,
+   "explanation": "This answer describes a metallic solid.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q1",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "The best description of the interactions in KNO 3 (s) is which of the following?",
+   "choices": [
+    "composed of positive and negative ions held together by electrostatic attractions",
+    "composed of macromolecules held together by strong bonds",
+    "composed of molecules held together by intermolecular dipole−dipole interactions",
+    "composed of atoms held together by delocalized electrons"
+   ],
+   "answer": 0,
+   "explanation": "This answer describes an ionic solid.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q2",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Sand is primarily SiO 2 (s). Which of the following best describes the interactions inside a grain of sand?",
+   "choices": [
+    "composed of atoms held together by delocalized electrons",
+    "composed of molecules held together by intermolecular dipole−dipole interactions",
+    "composed of positive and negative ions held together by electrostatic attractions",
+    "composed of macromolecules held together by strong bonds"
+   ],
+   "answer": 3,
+   "explanation": "This answer describes a covalent network solid.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q3",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "At sufficiently low temperatures, it is possible to form HCl(s). What best describes the interactions in this solid?",
+   "choices": [
+    "composed of molecules held together by intermolecular dipole−dipole interactions",
+    "composed of macromolecules held together by strong bonds",
+    "composed of atoms held together by delocalized electrons",
+    "composed of positive and negative ions held together by electrostatic attractions"
+   ],
+   "answer": 0,
+   "explanation": "This answers describes a solid consisting of discrete polar molecules. Even though HCl(aq) is a strong acid with ions in solution, there is no water here to lead to ionization.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q4",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes diamond, C(s)?",
+   "choices": [
+    "a covalent network solid",
+    "a molecular solid containing polar molecules",
+    "an ionic solid",
+    "a metallic solid"
+   ],
+   "answer": 0,
+   "explanation": "Each of the carbon atoms is covalently bonded to four other carbon atoms.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q5",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "What type of solid is solid sulfur dioxide, SO 2 (s)?",
+   "choices": [
+    "an ionic solid",
+    "a metallic solid",
+    "a covalent network solid",
+    "a molecular solid containing polar molecules"
+   ],
+   "answer": 3,
+   "explanation": "Sulfur dioxide molecules are polar.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q6",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "The approximate boiling points for hydrogen compounds of some elements in the nitrogen family are: (SbH 3 − 15°C), (AsH 3 − 62°C), (PH 3 − 87°C), and (NH 3 − 33°C). The best explanation for the fact that NH 3 does not follow the trend of the other hydrogen compounds is:",
+   "choices": [
+    "NH 3 is the only one to exhibit hydrogen bonding.",
+    "NH 3 is the only one that is nearly ideal in the gas phase.",
+    "NH 3 is the only one that is a base.",
+    "NH 3 is the only one that is water-soluble."
+   ],
+   "answer": 0,
+   "explanation": "Hydrogen bonding occurs when hydrogen is directly bonded to F, O, and in this case N.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q7",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Why is it possible to solidify argon at a sufficiently low temperature?",
+   "choices": [
+    "London dispersion forces",
+    "metallic bonding",
+    "covalent bonding",
+    "hydrogen bonding"
+   ],
+   "answer": 0,
+   "explanation": "Argon is a noble gas; none of the other bonding choices is an option.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q8",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best describes why diamond is so hard?",
+   "choices": [
+    "covalent bonding",
+    "hydrogen bonding",
+    "metallic bonding",
+    "London dispersion forces"
+   ],
+   "answer": 0,
+   "explanation": "Diamond is a covalent network solid with a large number of strong covalent bonds between the carbon atoms.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q9",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "A sample of a pure liquid is placed in an open container and heated to the boiling point. Which of the following may increase the boiling point of the liquid?",
+   "choices": [
+    "The container is sealed.",
+    "The moles of liquid are increased.",
+    "The size of the container is increased.",
+    "A vacuum is created over the liquid."
+   ],
+   "answer": 0,
+   "explanation": "The size of the container or the number of moles is irrelevant. Sealing the container will cause an increase in pressure that will increase the boiling point. A decrease in pressure will lower the boiling point.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q10",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best explains why 1-butanol, CH 3 CH 2 CH 2 CH 2 OH, has a higher surface tension than its isomer, diethyl ether, CH 3 CH 2 OCH 2 CH 3?",
+   "choices": [
+    "the higher density of 1-butanol",
+    "the lack of hydrogen bonding in 1-butanol",
+    "the lower specific heat of 1-butanol",
+    "the presence of hydrogen bonding in 1-butanol"
+   ],
+   "answer": 3,
+   "explanation": "The compound with the higher surface tension is the one with the stronger intermolecular force. The hydrogen bonding in 1-butanol is stronger than the dipole- dipole attractions in diethyl ether.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q11",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Pick the answer that most likely represents the substances’ relative solubilities in water.",
+   "choices": [
+    "CH 3 CH 2 CH 2 CH 3 < CH 3 CH 2 CH 2 OH < HOCH 2 CH 2 OH",
+    "HOCH 2 CH 2 OH < CH 3 CH 2 CH 2 OH < CH 3 CH 2 CH 2 CH 3",
+    "CH 3 CH 2 CH 2 OH < CH 3 CH 2 CH 2 CH 3 < HOCH 2 CH 2 OH",
+    "CH 3 CH 2 CH 2 CH 3 < HOCH 2 CH 2 OH < CH 3 CH 2 CH 2 OH"
+   ],
+   "answer": 0,
+   "explanation": "The sequence for these similar molecules is nonpolar, then one hydrogen bond, then two hydrogen bonds.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q12",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the energy change that accompanies the conversion of molecules in the gas phase to a liquid?",
+   "choices": [
+    "heat of condensation",
+    "heat of sublimation",
+    "heat of fusion",
+    "heat of deposition"
+   ],
+   "answer": 0,
+   "explanation": "This change is condensation, so the energy is the heat of condensation.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q13",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following explains why the melting point of sodium chloride (NaCl 801°C) is lower than the melting point of calcium fluoride (CaF 2 1423°C)?",
+   "choices": [
+    "The chloride ion is smaller than the fluoride ion.",
+    "The ratio of anions to cations is lower in sodium chloride.",
+    "The charge on a sodium ion is less than the charge on a calcium ion.",
+    "Sodium is more reactive than calcium is."
+   ],
+   "answer": 2,
+   "explanation": "The only applicable factor listed is the charge difference. The chloride ion is larger than the fluoride ion. The ion ratio is not important nor is the reactivity of the elements.",
+   "source": "AP Chemistry · Chapter 12 — Solids, Liquids, and Intermolecular Forces, Q14",
+   "topic": "Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "topic_n": 1
+  }
+ ]
+}

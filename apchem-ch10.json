@@ -1,0 +1,172 @@
+{
+ "questions": [
+  {
+   "question": "The ground-state configuration of Fe 2+ is which of the following?",
+   "choices": [
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 6",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 6 4s 2",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 8 4s 2",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 5 4s 1"
+   ],
+   "answer": 0,
+   "explanation": "The electron configuration for iron is 1s 2 2s 2 2p 6 3s 2 3p 6 3d 6 4s 2 . To produce an iron(II) ion, the two 4s electrons are removed first.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q5",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following contains only atoms that are diamagnetic in their ground state?",
+   "choices": [
+    "He, Sr, and C",
+    "Ar, K, and Ba",
+    "Ne, Be, and Zn",
+    "Kr, Ca, and P"
+   ],
+   "answer": 2,
+   "explanation": "The elements that are normally diamagnetic are those in the same columns of the periodic table as Be, Zn, and He because all of the electrons are paired. All other columns are normally paramagnetic.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q6",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is the electron configuration of a halogen?",
+   "choices": [
+    "1s 2 1p 6 2s 2 2p 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 6 5s 2 4d 1",
+    "1s 2 2s 2 2p 5",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3"
+   ],
+   "answer": 2,
+   "explanation": "Halogens have a valence shell with s 2 p 5 .",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q7",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following is a possible configuration for a transition metal atom?",
+   "choices": [
+    "1s 2 2s 2 2p 5",
+    "1s 2 1p 6 2s 2 2p 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 6 5s 2 4d 1"
+   ],
+   "answer": 3,
+   "explanation": "Transition metals have partially filled d orbitals (d 1−10 ), along with an s 1 or s 2 .",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q8",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following electron configurations is not possible?",
+   "choices": [
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 6 5s 2 4d 1",
+    "1s 2 2s 2 2p 5",
+    "1s 2 1p 6 2s 2 2p 3"
+   ],
+   "answer": 3,
+   "explanation": "The 1p orbital does not exist.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q9",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "This is a possible configuration of a transition metal ion.",
+   "choices": [
+    "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 6 5s 2 4d 1",
+    "1s 2 2s 2 2p 6 3s 2 3p 6 3d 3",
+    "1s 2 2s 2 2p 5",
+    "1s 2 1p 6 2s 2 2p 3"
+   ],
+   "answer": 1,
+   "explanation": "The outer s electrons are not present in most transition metal ions; however, d electrons may be present. C could be V 2+ , Cr 3+ , or Mn 4+ (among other choices).",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q10",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which idea relates to the fact that the exact position of an electron is not known?",
+   "choices": [
+    "Heisenberg uncertainty principle",
+    "Hund’s rule",
+    "electron shielding",
+    "Pauli exclusion principle"
+   ],
+   "answer": 0,
+   "explanation": "This is part of the Heisenberg uncertainty principle.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q11",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following explains why oxygen atoms, in their ground state, are paramagnetic?",
+   "choices": [
+    "Heisenberg uncertainty principle",
+    "Pauli exclusion principle",
+    "electron shielding",
+    "Hund’s rule"
+   ],
+   "answer": 3,
+   "explanation": "The four electrons in the oxygen 2p orbitals are arranged with one pair and two unpaired electrons with spins parallel. This makes the oxygen atom paramagnetic. This arrangement is due to Hund’s rule.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q12",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "An atomic orbital can hold no more than two electrons; this is a consequence of which of the following?",
+   "choices": [
+    "electron shielding",
+    "Hund’s rule",
+    "Pauli exclusion principle",
+    "Heisenberg uncertainty principle"
+   ],
+   "answer": 2,
+   "explanation": "The Pauli exclusion principle restricts the number of electrons that can occupy a single orbital.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q13",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Why does the 4s orbital fill before the 3d orbital starts to fill?",
+   "choices": [
+    "Heisenberg uncertainty principle",
+    "electron shielding",
+    "Hund’s rule",
+    "Pauli exclusion principle"
+   ],
+   "answer": 1,
+   "explanation": "The d orbitals are shielded more efficiently than the s orbitals. Thus, the less shielded d orbitals do not fill as readily as s orbitals with similar energy.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q14",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Calcium reacts with element X to form an ionic compound. If the ground-state electron configuration of X is 1s 2 2s 2 2p 4, what is the simplest formula for this compound?",
+   "choices": [
+    "Ca X 2",
+    "Ca X",
+    "Ca 2 X 2",
+    "Ca 4 X 2"
+   ],
+   "answer": 1,
+   "explanation": "Calcium will form a +2 ion (Ca 2+ ), and X will need to gain two electrons to fill its outer shell and become a −2 ion ( X 2− ). The simplest formula for a compound containing a +2 ion and a −2 ion would be Ca X . The other answers involve different charges or a formula that has not been simplified.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q15",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  },
+  {
+   "question": "Which of the following best explains the diffraction of electrons?",
+   "choices": [
+    "Pauli exclusion principle",
+    "the wave properties of matter",
+    "Heisenberg uncertainty principle",
+    "Hund’s rule"
+   ],
+   "answer": 1,
+   "explanation": "Diffraction is a wave phenomenon.",
+   "source": "AP Chemistry · Chapter 10 — Spectroscopy, Light, and Electrons, Q16",
+   "topic": "Chapter 10 — Spectroscopy, Light, and Electrons",
+   "topic_n": 1
+  }
+ ]
+}

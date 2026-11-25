@@ -1,0 +1,125 @@
+{
+ "exams": [
+  {
+   "file": "apchem-diagnostic.json",
+   "title": "AP Chemistry — Diagnostic Exam",
+   "note": "79 questions",
+   "category": "AP Chemistry",
+   "chapter": "Diagnostic",
+   "draw": 20
+  },
+  {
+   "file": "apchem-ch05.json",
+   "title": "AP Chemistry — Chapter 5 — Basics",
+   "note": "23 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews",
+   "draw": 20
+  },
+  {
+   "file": "apchem-ch06.json",
+   "title": "AP Chemistry — Chapter 6 — Reactions and Periodicity",
+   "note": "14 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch07.json",
+   "title": "AP Chemistry — Chapter 7 — Stoichiometry",
+   "note": "15 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch08.json",
+   "title": "AP Chemistry — Chapter 8 — Gases",
+   "note": "16 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch09.json",
+   "title": "AP Chemistry — Chapter 9 — Thermodynamics",
+   "note": "15 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch10.json",
+   "title": "AP Chemistry — Chapter 10 — Spectroscopy, Light, and Electrons",
+   "note": "12 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch11.json",
+   "title": "AP Chemistry — Chapter 11 — Bonding",
+   "note": "16 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch12.json",
+   "title": "AP Chemistry — Chapter 12 — Solids, Liquids, and Intermolecular Forces",
+   "note": "14 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch13.json",
+   "title": "AP Chemistry — Chapter 13 — Solutions and Colligative Properties",
+   "note": "14 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch14.json",
+   "title": "AP Chemistry — Chapter 14 — Kinetics",
+   "note": "11 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch15.json",
+   "title": "AP Chemistry — Chapter 15 — Equilibrium",
+   "note": "19 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch16.json",
+   "title": "AP Chemistry — Chapter 16 — Electrochemistry",
+   "note": "12 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch17.json",
+   "title": "AP Chemistry — Chapter 17 — Nuclear Chemistry",
+   "note": "4 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-ch18.json",
+   "title": "AP Chemistry — Chapter 18 — Organic Chemistry",
+   "note": "3 questions",
+   "category": "AP Chemistry",
+   "chapter": "Chapter Reviews"
+  },
+  {
+   "file": "apchem-practice-1.json",
+   "title": "AP Chemistry — Practice Exam 1",
+   "note": "40 questions",
+   "category": "AP Chemistry",
+   "chapter": "Practice Exams"
+  },
+  {
+   "file": "apchem-practice-2.json",
+   "title": "AP Chemistry — Practice Exam 2",
+   "note": "44 questions",
+   "category": "AP Chemistry",
+   "chapter": "Practice Exams"
+  }
+ ]
+}
